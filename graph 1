@@ -1,0 +1,62 @@
+{
+  
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/sarahmooney-oss/death_by_population_rates/refs/heads/main/deaths_population_rates.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum['Cause of Death'] == 'Emergency use of U07 (includes Covid-19 and Vaping related disorders)'"
+    }
+  ],
+  "title": {
+    "text": "COVID-19 Deaths in Ireland, 2020-2024",
+    "subtitle": "Deaths peaked in 2021 and have fallen every year since",
+    "anchor": "middle",
+    "fontSize": 20
+  },
+  "width": 500,
+  "height": 350,
+  "mark": {
+    "type": "line",
+    "point": true
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "ordinal",
+      "axis": {"title": "Year", "labelAngle": 0}
+    },
+    "y": {
+      "field": "Deaths",
+      "type": "quantitative",
+      "aggregate": "sum",
+      "axis": {"title": "Number of Deaths"}
+    },
+    "color": {
+      "field": "Sex",
+      "type": "nominal",
+      "scale": {"domain": ["Female", "Male"], "range": ["#8101FA", "#00C7A9"]}
+    },
+    "tooltip": [
+      {"field": "Year", "type": "ordinal"},
+      {"field": "Sex", "type": "nominal"},
+      {"field": "Deaths", "type": "quantitative", "aggregate": "sum", "title": "Deaths"}
+    ]
+  },
+  "config": {
+    "legend": {
+      "orient": "top-right",
+      "labelFontSize": 13,
+      "titleFontSize": 14
+    },
+    "axis": {
+      "labelFontSize": 13,
+      "titleFontSize": 14,
+      "titlePadding": 10
+    }
+  }
+}
