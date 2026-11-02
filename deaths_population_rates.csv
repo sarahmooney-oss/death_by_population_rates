@@ -1,0 +1,2171 @@
+Year,Area of Residence,Sex,Cause of Death,Deaths,Population,Rate per 100k
+2020,Carlow County Council,Male,C00-C99 Malignant neoplasms,59,30581,192.9
+2020,Carlow County Council,Male,I00-I99 Diseases of the circulatory system,66,30581,215.8
+2020,Carlow County Council,Male,J00-J99 Diseases of the respiratory system,19,30581,62.1
+2020,Carlow County Council,Male,V00-Y98 External causes of injury and poisoning,18,30581,58.9
+2020,Carlow County Council,Male,F01 and F03 Dementia (types of),4,30581,13.1
+2020,Carlow County Council,Male,G30 Alzheimer disease,3,30581,9.8
+2020,Carlow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),22,30581,71.9
+2020,Carlow County Council,Female,C00-C99 Malignant neoplasms,70,30842,227.0
+2020,Carlow County Council,Female,I00-I99 Diseases of the circulatory system,61,30842,197.8
+2020,Carlow County Council,Female,J00-J99 Diseases of the respiratory system,20,30842,64.8
+2020,Carlow County Council,Female,V00-Y98 External causes of injury and poisoning,9,30842,29.2
+2020,Carlow County Council,Female,F01 and F03 Dementia (types of),12,30842,38.9
+2020,Carlow County Council,Female,G30 Alzheimer disease,3,30842,9.7
+2020,Carlow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,30842,35.7
+2020,Dublin City Council,Male,C00-C99 Malignant neoplasms,681,286174,238.0
+2020,Dublin City Council,Male,I00-I99 Diseases of the circulatory system,533,286174,186.3
+2020,Dublin City Council,Male,J00-J99 Diseases of the respiratory system,177,286174,61.9
+2020,Dublin City Council,Male,V00-Y98 External causes of injury and poisoning,150,286174,52.4
+2020,Dublin City Council,Male,F01 and F03 Dementia (types of),116,286174,40.5
+2020,Dublin City Council,Male,G30 Alzheimer disease,20,286174,7.0
+2020,Dublin City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),257,286174,89.8
+2020,Dublin City Council,Female,C00-C99 Malignant neoplasms,604,294063,205.4
+2020,Dublin City Council,Female,I00-I99 Diseases of the circulatory system,609,294063,207.1
+2020,Dublin City Council,Female,J00-J99 Diseases of the respiratory system,237,294063,80.6
+2020,Dublin City Council,Female,V00-Y98 External causes of injury and poisoning,75,294063,25.5
+2020,Dublin City Council,Female,F01 and F03 Dementia (types of),227,294063,77.2
+2020,Dublin City Council,Female,G30 Alzheimer disease,33,294063,11.2
+2020,Dublin City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),236,294063,80.3
+2020,South Dublin County Council,Male,C00-C99 Malignant neoplasms,245,145631,168.2
+2020,South Dublin County Council,Male,I00-I99 Diseases of the circulatory system,199,145631,136.6
+2020,South Dublin County Council,Male,J00-J99 Diseases of the respiratory system,60,145631,41.2
+2020,South Dublin County Council,Male,V00-Y98 External causes of injury and poisoning,70,145631,48.1
+2020,South Dublin County Council,Male,F01 and F03 Dementia (types of),30,145631,20.6
+2020,South Dublin County Council,Male,G30 Alzheimer disease,6,145631,4.1
+2020,South Dublin County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),98,145631,67.3
+2020,South Dublin County Council,Female,C00-C99 Malignant neoplasms,229,152473,150.2
+2020,South Dublin County Council,Female,I00-I99 Diseases of the circulatory system,142,152473,93.1
+2020,South Dublin County Council,Female,J00-J99 Diseases of the respiratory system,57,152473,37.4
+2020,South Dublin County Council,Female,V00-Y98 External causes of injury and poisoning,36,152473,23.6
+2020,South Dublin County Council,Female,F01 and F03 Dementia (types of),37,152473,24.3
+2020,South Dublin County Council,Female,G30 Alzheimer disease,15,152473,9.8
+2020,South Dublin County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),119,152473,78.0
+2020,Fingal County Council,Male,C00-C99 Malignant neoplasms,189,161091,117.3
+2020,Fingal County Council,Male,I00-I99 Diseases of the circulatory system,182,161091,113.0
+2020,Fingal County Council,Male,J00-J99 Diseases of the respiratory system,54,161091,33.5
+2020,Fingal County Council,Male,V00-Y98 External causes of injury and poisoning,42,161091,26.1
+2020,Fingal County Council,Male,F01 and F03 Dementia (types of),42,161091,26.1
+2020,Fingal County Council,Male,G30 Alzheimer disease,3,161091,1.9
+2020,Fingal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),64,161091,39.7
+2020,Fingal County Council,Female,C00-C99 Malignant neoplasms,191,166190,114.9
+2020,Fingal County Council,Female,I00-I99 Diseases of the circulatory system,130,166190,78.2
+2020,Fingal County Council,Female,J00-J99 Diseases of the respiratory system,42,166190,25.3
+2020,Fingal County Council,Female,V00-Y98 External causes of injury and poisoning,17,166190,10.2
+2020,Fingal County Council,Female,F01 and F03 Dementia (types of),47,166190,28.3
+2020,Fingal County Council,Female,G30 Alzheimer disease,12,166190,7.2
+2020,Fingal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),51,166190,30.7
+2020,Dún Laoghaire Rathdown County Council,Male,C00-C99 Malignant neoplasms,216,110352,195.7
+2020,Dún Laoghaire Rathdown County Council,Male,I00-I99 Diseases of the circulatory system,193,110352,174.9
+2020,Dún Laoghaire Rathdown County Council,Male,J00-J99 Diseases of the respiratory system,57,110352,51.7
+2020,Dún Laoghaire Rathdown County Council,Male,V00-Y98 External causes of injury and poisoning,36,110352,32.6
+2020,Dún Laoghaire Rathdown County Council,Male,F01 and F03 Dementia (types of),45,110352,40.8
+2020,Dún Laoghaire Rathdown County Council,Male,G30 Alzheimer disease,11,110352,10.0
+2020,Dún Laoghaire Rathdown County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),50,110352,45.3
+2020,Dún Laoghaire Rathdown County Council,Female,C00-C99 Malignant neoplasms,234,119475,195.9
+2020,Dún Laoghaire Rathdown County Council,Female,I00-I99 Diseases of the circulatory system,225,119475,188.3
+2020,Dún Laoghaire Rathdown County Council,Female,J00-J99 Diseases of the respiratory system,83,119475,69.5
+2020,Dún Laoghaire Rathdown County Council,Female,V00-Y98 External causes of injury and poisoning,26,119475,21.8
+2020,Dún Laoghaire Rathdown County Council,Female,F01 and F03 Dementia (types of),76,119475,63.6
+2020,Dún Laoghaire Rathdown County Council,Female,G30 Alzheimer disease,13,119475,10.9
+2020,Dún Laoghaire Rathdown County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),53,119475,44.4
+2020,Kildare County Council,Male,C00-C99 Malignant neoplasms,191,122372,156.1
+2020,Kildare County Council,Male,I00-I99 Diseases of the circulatory system,138,122372,112.8
+2020,Kildare County Council,Male,J00-J99 Diseases of the respiratory system,59,122372,48.2
+2020,Kildare County Council,Male,V00-Y98 External causes of injury and poisoning,40,122372,32.7
+2020,Kildare County Council,Male,F01 and F03 Dementia (types of),13,122372,10.6
+2020,Kildare County Council,Male,G30 Alzheimer disease,10,122372,8.2
+2020,Kildare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),69,122372,56.4
+2020,Kildare County Council,Female,C00-C99 Malignant neoplasms,164,123490,132.8
+2020,Kildare County Council,Female,I00-I99 Diseases of the circulatory system,144,123490,116.6
+2020,Kildare County Council,Female,J00-J99 Diseases of the respiratory system,64,123490,51.8
+2020,Kildare County Council,Female,V00-Y98 External causes of injury and poisoning,26,123490,21.1
+2020,Kildare County Council,Female,F01 and F03 Dementia (types of),37,123490,30.0
+2020,Kildare County Council,Female,G30 Alzheimer disease,14,123490,11.3
+2020,Kildare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),71,123490,57.5
+2020,Kilkenny County Council,Male,C00-C99 Malignant neoplasms,104,51424,202.2
+2020,Kilkenny County Council,Male,I00-I99 Diseases of the circulatory system,90,51424,175.0
+2020,Kilkenny County Council,Male,J00-J99 Diseases of the respiratory system,41,51424,79.7
+2020,Kilkenny County Council,Male,V00-Y98 External causes of injury and poisoning,14,51424,27.2
+2020,Kilkenny County Council,Male,F01 and F03 Dementia (types of),16,51424,31.1
+2020,Kilkenny County Council,Male,G30 Alzheimer disease,3,51424,5.8
+2020,Kilkenny County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,51424,21.4
+2020,Kilkenny County Council,Female,C00-C99 Malignant neoplasms,95,51612,184.1
+2020,Kilkenny County Council,Female,I00-I99 Diseases of the circulatory system,80,51612,155.0
+2020,Kilkenny County Council,Female,J00-J99 Diseases of the respiratory system,45,51612,87.2
+2020,Kilkenny County Council,Female,V00-Y98 External causes of injury and poisoning,8,51612,15.5
+2020,Kilkenny County Council,Female,F01 and F03 Dementia (types of),15,51612,29.1
+2020,Kilkenny County Council,Female,G30 Alzheimer disease,7,51612,13.6
+2020,Kilkenny County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,51612,29.1
+2020,Laois County Council,Male,C00-C99 Malignant neoplasms,81,45984,176.1
+2020,Laois County Council,Male,I00-I99 Diseases of the circulatory system,79,45984,171.8
+2020,Laois County Council,Male,J00-J99 Diseases of the respiratory system,25,45984,54.4
+2020,Laois County Council,Male,V00-Y98 External causes of injury and poisoning,19,45984,41.3
+2020,Laois County Council,Male,F01 and F03 Dementia (types of),12,45984,26.1
+2020,Laois County Council,Male,G30 Alzheimer disease,3,45984,6.5
+2020,Laois County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,45984,21.7
+2020,Laois County Council,Female,C00-C99 Malignant neoplasms,64,45300,141.3
+2020,Laois County Council,Female,I00-I99 Diseases of the circulatory system,59,45300,130.2
+2020,Laois County Council,Female,J00-J99 Diseases of the respiratory system,24,45300,53.0
+2020,Laois County Council,Female,V00-Y98 External causes of injury and poisoning,10,45300,22.1
+2020,Laois County Council,Female,F01 and F03 Dementia (types of),13,45300,28.7
+2020,Laois County Council,Female,G30 Alzheimer disease,7,45300,15.5
+2020,Laois County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,45300,33.1
+2020,Longford County Council,Male,C00-C99 Malignant neoplasms,42,23287,180.4
+2020,Longford County Council,Male,I00-I99 Diseases of the circulatory system,53,23287,227.6
+2020,Longford County Council,Male,J00-J99 Diseases of the respiratory system,16,23287,68.7
+2020,Longford County Council,Male,V00-Y98 External causes of injury and poisoning,13,23287,55.8
+2020,Longford County Council,Male,F01 and F03 Dementia (types of),1,23287,4.3
+2020,Longford County Council,Male,G30 Alzheimer disease,3,23287,12.9
+2020,Longford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,23287,17.2
+2020,Longford County Council,Female,C00-C99 Malignant neoplasms,29,23086,125.6
+2020,Longford County Council,Female,I00-I99 Diseases of the circulatory system,30,23086,129.9
+2020,Longford County Council,Female,J00-J99 Diseases of the respiratory system,12,23086,52.0
+2020,Longford County Council,Female,V00-Y98 External causes of injury and poisoning,5,23086,21.7
+2020,Longford County Council,Female,F01 and F03 Dementia (types of),5,23086,21.7
+2020,Longford County Council,Female,G30 Alzheimer disease,7,23086,30.3
+2020,Longford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,23086,17.3
+2020,Louth County Council,Male,C00-C99 Malignant neoplasms,123,68461,179.7
+2020,Louth County Council,Male,I00-I99 Diseases of the circulatory system,107,68461,156.3
+2020,Louth County Council,Male,J00-J99 Diseases of the respiratory system,37,68461,54.0
+2020,Louth County Council,Male,V00-Y98 External causes of injury and poisoning,44,68461,64.3
+2020,Louth County Council,Male,F01 and F03 Dementia (types of),21,68461,30.7
+2020,Louth County Council,Male,G30 Alzheimer disease,4,68461,5.8
+2020,Louth County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),33,68461,48.2
+2020,Louth County Council,Female,C00-C99 Malignant neoplasms,137,70246,195.0
+2020,Louth County Council,Female,I00-I99 Diseases of the circulatory system,109,70246,155.2
+2020,Louth County Council,Female,J00-J99 Diseases of the respiratory system,65,70246,92.5
+2020,Louth County Council,Female,V00-Y98 External causes of injury and poisoning,21,70246,29.9
+2020,Louth County Council,Female,F01 and F03 Dementia (types of),28,70246,39.9
+2020,Louth County Council,Female,G30 Alzheimer disease,13,70246,18.5
+2020,Louth County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),37,70246,52.7
+2020,Meath County Council,Male,C00-C99 Malignant neoplasms,176,109277,161.1
+2020,Meath County Council,Male,I00-I99 Diseases of the circulatory system,142,109277,129.9
+2020,Meath County Council,Male,J00-J99 Diseases of the respiratory system,56,109277,51.2
+2020,Meath County Council,Male,V00-Y98 External causes of injury and poisoning,36,109277,32.9
+2020,Meath County Council,Male,F01 and F03 Dementia (types of),14,109277,12.8
+2020,Meath County Council,Male,G30 Alzheimer disease,6,109277,5.5
+2020,Meath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),27,109277,24.7
+2020,Meath County Council,Female,C00-C99 Malignant neoplasms,151,110027,137.2
+2020,Meath County Council,Female,I00-I99 Diseases of the circulatory system,120,110027,109.1
+2020,Meath County Council,Female,J00-J99 Diseases of the respiratory system,64,110027,58.2
+2020,Meath County Council,Female,V00-Y98 External causes of injury and poisoning,20,110027,18.2
+2020,Meath County Council,Female,F01 and F03 Dementia (types of),15,110027,13.6
+2020,Meath County Council,Female,G30 Alzheimer disease,17,110027,15.5
+2020,Meath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),27,110027,24.5
+2020,Offaly County Council,Male,C00-C99 Malignant neoplasms,89,41353,215.2
+2020,Offaly County Council,Male,I00-I99 Diseases of the circulatory system,82,41353,198.3
+2020,Offaly County Council,Male,J00-J99 Diseases of the respiratory system,25,41353,60.5
+2020,Offaly County Council,Male,V00-Y98 External causes of injury and poisoning,16,41353,38.7
+2020,Offaly County Council,Male,F01 and F03 Dementia (types of),6,41353,14.5
+2020,Offaly County Council,Male,G30 Alzheimer disease,3,41353,7.3
+2020,Offaly County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,41353,26.6
+2020,Offaly County Council,Female,C00-C99 Malignant neoplasms,69,41214,167.4
+2020,Offaly County Council,Female,I00-I99 Diseases of the circulatory system,60,41214,145.6
+2020,Offaly County Council,Female,J00-J99 Diseases of the respiratory system,27,41214,65.5
+2020,Offaly County Council,Female,V00-Y98 External causes of injury and poisoning,10,41214,24.3
+2020,Offaly County Council,Female,F01 and F03 Dementia (types of),13,41214,31.5
+2020,Offaly County Council,Female,G30 Alzheimer disease,4,41214,9.7
+2020,Offaly County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),8,41214,19.4
+2020,Westmeath County Council,Male,C00-C99 Malignant neoplasms,92,47388,194.1
+2020,Westmeath County Council,Male,I00-I99 Diseases of the circulatory system,72,47388,151.9
+2020,Westmeath County Council,Male,J00-J99 Diseases of the respiratory system,36,47388,76.0
+2020,Westmeath County Council,Male,V00-Y98 External causes of injury and poisoning,16,47388,33.8
+2020,Westmeath County Council,Male,F01 and F03 Dementia (types of),10,47388,21.1
+2020,Westmeath County Council,Male,G30 Alzheimer disease,3,47388,6.3
+2020,Westmeath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),22,47388,46.4
+2020,Westmeath County Council,Female,C00-C99 Malignant neoplasms,96,48083,199.7
+2020,Westmeath County Council,Female,I00-I99 Diseases of the circulatory system,65,48083,135.2
+2020,Westmeath County Council,Female,J00-J99 Diseases of the respiratory system,32,48083,66.6
+2020,Westmeath County Council,Female,V00-Y98 External causes of injury and poisoning,9,48083,18.7
+2020,Westmeath County Council,Female,F01 and F03 Dementia (types of),5,48083,10.4
+2020,Westmeath County Council,Female,G30 Alzheimer disease,8,48083,16.6
+2020,Westmeath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,48083,8.3
+2020,Wexford County Council,Male,C00-C99 Malignant neoplasms,177,80168,220.8
+2020,Wexford County Council,Male,I00-I99 Diseases of the circulatory system,179,80168,223.3
+2020,Wexford County Council,Male,J00-J99 Diseases of the respiratory system,64,80168,79.8
+2020,Wexford County Council,Male,V00-Y98 External causes of injury and poisoning,38,80168,47.4
+2020,Wexford County Council,Male,F01 and F03 Dementia (types of),11,80168,13.7
+2020,Wexford County Council,Male,G30 Alzheimer disease,4,80168,5.0
+2020,Wexford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),17,80168,21.2
+2020,Wexford County Council,Female,C00-C99 Malignant neoplasms,162,82348,196.7
+2020,Wexford County Council,Female,I00-I99 Diseases of the circulatory system,146,82348,177.3
+2020,Wexford County Council,Female,J00-J99 Diseases of the respiratory system,46,82348,55.9
+2020,Wexford County Council,Female,V00-Y98 External causes of injury and poisoning,19,82348,23.1
+2020,Wexford County Council,Female,F01 and F03 Dementia (types of),24,82348,29.1
+2020,Wexford County Council,Female,G30 Alzheimer disease,8,82348,9.7
+2020,Wexford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,82348,18.2
+2020,Wicklow County Council,Male,C00-C99 Malignant neoplasms,139,75826,183.3
+2020,Wicklow County Council,Male,I00-I99 Diseases of the circulatory system,125,75826,164.9
+2020,Wicklow County Council,Male,J00-J99 Diseases of the respiratory system,55,75826,72.5
+2020,Wicklow County Council,Male,V00-Y98 External causes of injury and poisoning,26,75826,34.3
+2020,Wicklow County Council,Male,F01 and F03 Dementia (types of),14,75826,18.5
+2020,Wicklow County Council,Male,G30 Alzheimer disease,5,75826,6.6
+2020,Wicklow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),33,75826,43.5
+2020,Wicklow County Council,Female,C00-C99 Malignant neoplasms,121,78162,154.8
+2020,Wicklow County Council,Female,I00-I99 Diseases of the circulatory system,100,78162,127.9
+2020,Wicklow County Council,Female,J00-J99 Diseases of the respiratory system,42,78162,53.7
+2020,Wicklow County Council,Female,V00-Y98 External causes of injury and poisoning,13,78162,16.6
+2020,Wicklow County Council,Female,F01 and F03 Dementia (types of),29,78162,37.1
+2020,Wicklow County Council,Female,G30 Alzheimer disease,5,78162,6.4
+2020,Wicklow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),29,78162,37.1
+2020,Clare County Council,Male,C00-C99 Malignant neoplasms,141,62061,227.2
+2020,Clare County Council,Male,I00-I99 Diseases of the circulatory system,124,62061,199.8
+2020,Clare County Council,Male,J00-J99 Diseases of the respiratory system,37,62061,59.6
+2020,Clare County Council,Male,V00-Y98 External causes of injury and poisoning,29,62061,46.7
+2020,Clare County Council,Male,F01 and F03 Dementia (types of),18,62061,29.0
+2020,Clare County Council,Male,G30 Alzheimer disease,3,62061,4.8
+2020,Clare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,62061,17.7
+2020,Clare County Council,Female,C00-C99 Malignant neoplasms,126,63921,197.1
+2020,Clare County Council,Female,I00-I99 Diseases of the circulatory system,99,63921,154.9
+2020,Clare County Council,Female,J00-J99 Diseases of the respiratory system,45,63921,70.4
+2020,Clare County Council,Female,V00-Y98 External causes of injury and poisoning,8,63921,12.5
+2020,Clare County Council,Female,F01 and F03 Dementia (types of),23,63921,36.0
+2020,Clare County Council,Female,G30 Alzheimer disease,2,63921,3.1
+2020,Clare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),8,63921,12.5
+2020,Cork City Council,Male,C00-C99 Malignant neoplasms,183,108467,168.7
+2020,Cork City Council,Male,I00-I99 Diseases of the circulatory system,171,108467,157.7
+2020,Cork City Council,Male,J00-J99 Diseases of the respiratory system,71,108467,65.5
+2020,Cork City Council,Male,V00-Y98 External causes of injury and poisoning,43,108467,39.6
+2020,Cork City Council,Male,F01 and F03 Dementia (types of),34,108467,31.3
+2020,Cork City Council,Male,G30 Alzheimer disease,4,108467,3.7
+2020,Cork City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,108467,13.8
+2020,Cork City Council,Female,C00-C99 Malignant neoplasms,151,112471,134.3
+2020,Cork City Council,Female,I00-I99 Diseases of the circulatory system,177,112471,157.4
+2020,Cork City Council,Female,J00-J99 Diseases of the respiratory system,67,112471,59.6
+2020,Cork City Council,Female,V00-Y98 External causes of injury and poisoning,23,112471,20.4
+2020,Cork City Council,Female,F01 and F03 Dementia (types of),51,112471,45.3
+2020,Cork City Council,Female,G30 Alzheimer disease,16,112471,14.2
+2020,Cork City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),18,112471,16.0
+2020,Cork County Council,Male,C00-C99 Malignant neoplasms,411,177395,231.7
+2020,Cork County Council,Male,I00-I99 Diseases of the circulatory system,414,177395,233.4
+2020,Cork County Council,Male,J00-J99 Diseases of the respiratory system,135,177395,76.1
+2020,Cork County Council,Male,V00-Y98 External causes of injury and poisoning,96,177395,54.1
+2020,Cork County Council,Male,F01 and F03 Dementia (types of),65,177395,36.6
+2020,Cork County Council,Male,G30 Alzheimer disease,20,177395,11.3
+2020,Cork County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),18,177395,10.1
+2020,Cork County Council,Female,C00-C99 Malignant neoplasms,373,178914,208.5
+2020,Cork County Council,Female,I00-I99 Diseases of the circulatory system,379,178914,211.8
+2020,Cork County Council,Female,J00-J99 Diseases of the respiratory system,124,178914,69.3
+2020,Cork County Council,Female,V00-Y98 External causes of injury and poisoning,44,178914,24.6
+2020,Cork County Council,Female,F01 and F03 Dementia (types of),84,178914,46.9
+2020,Cork County Council,Female,G30 Alzheimer disease,39,178914,21.8
+2020,Cork County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),22,178914,12.3
+2020,Kerry County Council,Male,C00-C99 Malignant neoplasms,216,75800,285.0
+2020,Kerry County Council,Male,I00-I99 Diseases of the circulatory system,207,75800,273.1
+2020,Kerry County Council,Male,J00-J99 Diseases of the respiratory system,61,75800,80.5
+2020,Kerry County Council,Male,V00-Y98 External causes of injury and poisoning,27,75800,35.6
+2020,Kerry County Council,Male,F01 and F03 Dementia (types of),28,75800,36.9
+2020,Kerry County Council,Male,G30 Alzheimer disease,7,75800,9.2
+2020,Kerry County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,75800,14.5
+2020,Kerry County Council,Female,C00-C99 Malignant neoplasms,145,76862,188.6
+2020,Kerry County Council,Female,I00-I99 Diseases of the circulatory system,167,76862,217.3
+2020,Kerry County Council,Female,J00-J99 Diseases of the respiratory system,61,76862,79.4
+2020,Kerry County Council,Female,V00-Y98 External causes of injury and poisoning,19,76862,24.7
+2020,Kerry County Council,Female,F01 and F03 Dementia (types of),30,76862,39.0
+2020,Kerry County Council,Female,G30 Alzheimer disease,17,76862,22.1
+2020,Kerry County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,76862,13.0
+2020,Limerick City & County Council,Male,C00-C99 Malignant neoplasms,224,103382,216.7
+2020,Limerick City & County Council,Male,I00-I99 Diseases of the circulatory system,207,103382,200.2
+2020,Limerick City & County Council,Male,J00-J99 Diseases of the respiratory system,71,103382,68.7
+2020,Limerick City & County Council,Male,V00-Y98 External causes of injury and poisoning,42,103382,40.6
+2020,Limerick City & County Council,Male,F01 and F03 Dementia (types of),23,103382,22.2
+2020,Limerick City & County Council,Male,G30 Alzheimer disease,9,103382,8.7
+2020,Limerick City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),33,103382,31.9
+2020,Limerick City & County Council,Female,C00-C99 Malignant neoplasms,191,103863,183.9
+2020,Limerick City & County Council,Female,I00-I99 Diseases of the circulatory system,187,103863,180.0
+2020,Limerick City & County Council,Female,J00-J99 Diseases of the respiratory system,98,103863,94.4
+2020,Limerick City & County Council,Female,V00-Y98 External causes of injury and poisoning,38,103863,36.6
+2020,Limerick City & County Council,Female,F01 and F03 Dementia (types of),36,103863,34.7
+2020,Limerick City & County Council,Female,G30 Alzheimer disease,17,103863,16.4
+2020,Limerick City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),29,103863,27.9
+2020,Tipperary County Council,Male,C00-C99 Malignant neoplasms,195,83081,234.7
+2020,Tipperary County Council,Male,I00-I99 Diseases of the circulatory system,209,83081,251.6
+2020,Tipperary County Council,Male,J00-J99 Diseases of the respiratory system,56,83081,67.4
+2020,Tipperary County Council,Male,V00-Y98 External causes of injury and poisoning,51,83081,61.4
+2020,Tipperary County Council,Male,F01 and F03 Dementia (types of),15,83081,18.1
+2020,Tipperary County Council,Male,G30 Alzheimer disease,3,83081,3.6
+2020,Tipperary County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),20,83081,24.1
+2020,Tipperary County Council,Female,C00-C99 Malignant neoplasms,165,83557,197.5
+2020,Tipperary County Council,Female,I00-I99 Diseases of the circulatory system,189,83557,226.2
+2020,Tipperary County Council,Female,J00-J99 Diseases of the respiratory system,58,83557,69.4
+2020,Tipperary County Council,Female,V00-Y98 External causes of injury and poisoning,17,83557,20.3
+2020,Tipperary County Council,Female,F01 and F03 Dementia (types of),26,83557,31.1
+2020,Tipperary County Council,Female,G30 Alzheimer disease,11,83557,13.2
+2020,Tipperary County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),16,83557,19.1
+2020,Waterford City & County Council,Male,C00-C99 Malignant neoplasms,142,62531,227.1
+2020,Waterford City & County Council,Male,I00-I99 Diseases of the circulatory system,120,62531,191.9
+2020,Waterford City & County Council,Male,J00-J99 Diseases of the respiratory system,31,62531,49.6
+2020,Waterford City & County Council,Male,V00-Y98 External causes of injury and poisoning,32,62531,51.2
+2020,Waterford City & County Council,Male,F01 and F03 Dementia (types of),11,62531,17.6
+2020,Waterford City & County Council,Male,G30 Alzheimer disease,6,62531,9.6
+2020,Waterford City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,62531,6.4
+2020,Waterford City & County Council,Female,C00-C99 Malignant neoplasms,116,63543,182.6
+2020,Waterford City & County Council,Female,I00-I99 Diseases of the circulatory system,104,63543,163.7
+2020,Waterford City & County Council,Female,J00-J99 Diseases of the respiratory system,48,63543,75.5
+2020,Waterford City & County Council,Female,V00-Y98 External causes of injury and poisoning,14,63543,22.0
+2020,Waterford City & County Council,Female,F01 and F03 Dementia (types of),31,63543,48.8
+2020,Waterford City & County Council,Female,G30 Alzheimer disease,14,63543,22.0
+2020,Waterford City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,63543,3.1
+2020,Galway City Council,Male,C00-C99 Malignant neoplasms,54,39569,136.5
+2020,Galway City Council,Male,I00-I99 Diseases of the circulatory system,50,39569,126.4
+2020,Galway City Council,Male,J00-J99 Diseases of the respiratory system,14,39569,35.4
+2020,Galway City Council,Male,V00-Y98 External causes of injury and poisoning,18,39569,45.5
+2020,Galway City Council,Male,F01 and F03 Dementia (types of),7,39569,17.7
+2020,Galway City Council,Male,G30 Alzheimer disease,,39569,
+2020,Galway City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,39569,5.1
+2020,Galway City Council,Female,C00-C99 Malignant neoplasms,52,42610,122.0
+2020,Galway City Council,Female,I00-I99 Diseases of the circulatory system,51,42610,119.7
+2020,Galway City Council,Female,J00-J99 Diseases of the respiratory system,15,42610,35.2
+2020,Galway City Council,Female,V00-Y98 External causes of injury and poisoning,8,42610,18.8
+2020,Galway City Council,Female,F01 and F03 Dementia (types of),7,42610,16.4
+2020,Galway City Council,Female,G30 Alzheimer disease,6,42610,14.1
+2020,Galway City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,42610,4.7
+2020,Galway County Council,Male,C00-C99 Malignant neoplasms,215,95649,224.8
+2020,Galway County Council,Male,I00-I99 Diseases of the circulatory system,191,95649,199.7
+2020,Galway County Council,Male,J00-J99 Diseases of the respiratory system,73,95649,76.3
+2020,Galway County Council,Male,V00-Y98 External causes of injury and poisoning,55,95649,57.5
+2020,Galway County Council,Male,F01 and F03 Dementia (types of),22,95649,23.0
+2020,Galway County Council,Male,G30 Alzheimer disease,8,95649,8.4
+2020,Galway County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,95649,10.5
+2020,Galway County Council,Female,C00-C99 Malignant neoplasms,175,95699,182.9
+2020,Galway County Council,Female,I00-I99 Diseases of the circulatory system,152,95699,158.8
+2020,Galway County Council,Female,J00-J99 Diseases of the respiratory system,65,95699,67.9
+2020,Galway County Council,Female,V00-Y98 External causes of injury and poisoning,19,95699,19.9
+2020,Galway County Council,Female,F01 and F03 Dementia (types of),33,95699,34.5
+2020,Galway County Council,Female,G30 Alzheimer disease,12,95699,12.5
+2020,Galway County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,95699,10.4
+2020,Leitrim County Council,Male,C00-C99 Malignant neoplasms,47,17352,270.9
+2020,Leitrim County Council,Male,I00-I99 Diseases of the circulatory system,51,17352,293.9
+2020,Leitrim County Council,Male,J00-J99 Diseases of the respiratory system,22,17352,126.8
+2020,Leitrim County Council,Male,V00-Y98 External causes of injury and poisoning,9,17352,51.9
+2020,Leitrim County Council,Male,F01 and F03 Dementia (types of),5,17352,28.8
+2020,Leitrim County Council,Male,G30 Alzheimer disease,1,17352,5.8
+2020,Leitrim County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,17352,17.3
+2020,Leitrim County Council,Female,C00-C99 Malignant neoplasms,36,17367,207.3
+2020,Leitrim County Council,Female,I00-I99 Diseases of the circulatory system,40,17367,230.3
+2020,Leitrim County Council,Female,J00-J99 Diseases of the respiratory system,15,17367,86.4
+2020,Leitrim County Council,Female,V00-Y98 External causes of injury and poisoning,5,17367,28.8
+2020,Leitrim County Council,Female,F01 and F03 Dementia (types of),4,17367,23.0
+2020,Leitrim County Council,Female,G30 Alzheimer disease,3,17367,17.3
+2020,Leitrim County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,17367,17.3
+2020,Mayo County Council,Male,C00-C99 Malignant neoplasms,174,67424,258.1
+2020,Mayo County Council,Male,I00-I99 Diseases of the circulatory system,176,67424,261.0
+2020,Mayo County Council,Male,J00-J99 Diseases of the respiratory system,62,67424,92.0
+2020,Mayo County Council,Male,V00-Y98 External causes of injury and poisoning,33,67424,48.9
+2020,Mayo County Council,Male,F01 and F03 Dementia (types of),29,67424,43.0
+2020,Mayo County Council,Male,G30 Alzheimer disease,4,67424,5.9
+2020,Mayo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),29,67424,43.0
+2020,Mayo County Council,Female,C00-C99 Malignant neoplasms,142,68449,207.5
+2020,Mayo County Council,Female,I00-I99 Diseases of the circulatory system,147,68449,214.8
+2020,Mayo County Council,Female,J00-J99 Diseases of the respiratory system,61,68449,89.1
+2020,Mayo County Council,Female,V00-Y98 External causes of injury and poisoning,8,68449,11.7
+2020,Mayo County Council,Female,F01 and F03 Dementia (types of),46,68449,67.2
+2020,Mayo County Council,Female,G30 Alzheimer disease,19,68449,27.8
+2020,Mayo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),16,68449,23.4
+2020,Roscommon County Council,Male,C00-C99 Malignant neoplasms,89,34847,255.4
+2020,Roscommon County Council,Male,I00-I99 Diseases of the circulatory system,74,34847,212.4
+2020,Roscommon County Council,Male,J00-J99 Diseases of the respiratory system,32,34847,91.8
+2020,Roscommon County Council,Male,V00-Y98 External causes of injury and poisoning,13,34847,37.3
+2020,Roscommon County Council,Male,F01 and F03 Dementia (types of),10,34847,28.7
+2020,Roscommon County Council,Male,G30 Alzheimer disease,3,34847,8.6
+2020,Roscommon County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,34847,28.7
+2020,Roscommon County Council,Female,C00-C99 Malignant neoplasms,63,34700,181.6
+2020,Roscommon County Council,Female,I00-I99 Diseases of the circulatory system,52,34700,149.9
+2020,Roscommon County Council,Female,J00-J99 Diseases of the respiratory system,39,34700,112.4
+2020,Roscommon County Council,Female,V00-Y98 External causes of injury and poisoning,11,34700,31.7
+2020,Roscommon County Council,Female,F01 and F03 Dementia (types of),21,34700,60.5
+2020,Roscommon County Council,Female,G30 Alzheimer disease,5,34700,14.4
+2020,Roscommon County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,34700,28.8
+2020,Sligo County Council,Male,C00-C99 Malignant neoplasms,79,34101,231.7
+2020,Sligo County Council,Male,I00-I99 Diseases of the circulatory system,84,34101,246.3
+2020,Sligo County Council,Male,J00-J99 Diseases of the respiratory system,19,34101,55.7
+2020,Sligo County Council,Male,V00-Y98 External causes of injury and poisoning,17,34101,49.9
+2020,Sligo County Council,Male,F01 and F03 Dementia (types of),12,34101,35.2
+2020,Sligo County Council,Male,G30 Alzheimer disease,5,34101,14.7
+2020,Sligo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,34101,8.8
+2020,Sligo County Council,Female,C00-C99 Malignant neoplasms,70,35124,199.3
+2020,Sligo County Council,Female,I00-I99 Diseases of the circulatory system,68,35124,193.6
+2020,Sligo County Council,Female,J00-J99 Diseases of the respiratory system,30,35124,85.4
+2020,Sligo County Council,Female,V00-Y98 External causes of injury and poisoning,13,35124,37.0
+2020,Sligo County Council,Female,F01 and F03 Dementia (types of),25,35124,71.2
+2020,Sligo County Council,Female,G30 Alzheimer disease,8,35124,22.8
+2020,Sligo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,35124,17.1
+2020,Cavan County Council,Male,C00-C99 Malignant neoplasms,92,40733,225.9
+2020,Cavan County Council,Male,I00-I99 Diseases of the circulatory system,84,40733,206.2
+2020,Cavan County Council,Male,J00-J99 Diseases of the respiratory system,30,40733,73.7
+2020,Cavan County Council,Male,V00-Y98 External causes of injury and poisoning,25,40733,61.4
+2020,Cavan County Council,Male,F01 and F03 Dementia (types of),13,40733,31.9
+2020,Cavan County Council,Male,G30 Alzheimer disease,1,40733,2.5
+2020,Cavan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),25,40733,61.4
+2020,Cavan County Council,Female,C00-C99 Malignant neoplasms,67,40238,166.5
+2020,Cavan County Council,Female,I00-I99 Diseases of the circulatory system,65,40238,161.5
+2020,Cavan County Council,Female,J00-J99 Diseases of the respiratory system,27,40238,67.1
+2020,Cavan County Council,Female,V00-Y98 External causes of injury and poisoning,14,40238,34.8
+2020,Cavan County Council,Female,F01 and F03 Dementia (types of),15,40238,37.3
+2020,Cavan County Council,Female,G30 Alzheimer disease,4,40238,9.9
+2020,Cavan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),27,40238,67.1
+2020,Donegal County Council,Male,C00-C99 Malignant neoplasms,214,81601,262.3
+2020,Donegal County Council,Male,I00-I99 Diseases of the circulatory system,190,81601,232.8
+2020,Donegal County Council,Male,J00-J99 Diseases of the respiratory system,57,81601,69.9
+2020,Donegal County Council,Male,V00-Y98 External causes of injury and poisoning,28,81601,34.3
+2020,Donegal County Council,Male,F01 and F03 Dementia (types of),19,81601,23.3
+2020,Donegal County Council,Male,G30 Alzheimer disease,10,81601,12.3
+2020,Donegal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),29,81601,35.5
+2020,Donegal County Council,Female,C00-C99 Malignant neoplasms,157,82972,189.2
+2020,Donegal County Council,Female,I00-I99 Diseases of the circulatory system,166,82972,200.1
+2020,Donegal County Council,Female,J00-J99 Diseases of the respiratory system,51,82972,61.5
+2020,Donegal County Council,Female,V00-Y98 External causes of injury and poisoning,26,82972,31.3
+2020,Donegal County Council,Female,F01 and F03 Dementia (types of),25,82972,30.1
+2020,Donegal County Council,Female,G30 Alzheimer disease,9,82972,10.8
+2020,Donegal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),29,82972,35.0
+2020,Monaghan County Council,Male,C00-C99 Malignant neoplasms,68,32592,208.6
+2020,Monaghan County Council,Male,I00-I99 Diseases of the circulatory system,61,32592,187.2
+2020,Monaghan County Council,Male,J00-J99 Diseases of the respiratory system,28,32592,85.9
+2020,Monaghan County Council,Male,V00-Y98 External causes of injury and poisoning,19,32592,58.3
+2020,Monaghan County Council,Male,F01 and F03 Dementia (types of),7,32592,21.5
+2020,Monaghan County Council,Male,G30 Alzheimer disease,1,32592,3.1
+2020,Monaghan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),43,32592,131.9
+2020,Monaghan County Council,Female,C00-C99 Malignant neoplasms,55,32024,171.7
+2020,Monaghan County Council,Female,I00-I99 Diseases of the circulatory system,59,32024,184.2
+2020,Monaghan County Council,Female,J00-J99 Diseases of the respiratory system,27,32024,84.3
+2020,Monaghan County Council,Female,V00-Y98 External causes of injury and poisoning,6,32024,18.7
+2020,Monaghan County Council,Female,F01 and F03 Dementia (types of),11,32024,34.3
+2020,Monaghan County Council,Female,G30 Alzheimer disease,7,32024,21.9
+2020,Monaghan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),31,32024,96.8
+2021,Carlow County Council,Male,C00-C99 Malignant neoplasms,67,30581,219.1
+2021,Carlow County Council,Male,I00-I99 Diseases of the circulatory system,63,30581,206.0
+2021,Carlow County Council,Male,J00-J99 Diseases of the respiratory system,15,30581,49.1
+2021,Carlow County Council,Male,V00-Y98 External causes of injury and poisoning,15,30581,49.1
+2021,Carlow County Council,Male,F01 and F03 Dementia (types of),6,30581,19.6
+2021,Carlow County Council,Male,G30 Alzheimer disease,2,30581,6.5
+2021,Carlow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),21,30581,68.7
+2021,Carlow County Council,Female,C00-C99 Malignant neoplasms,35,30842,113.5
+2021,Carlow County Council,Female,I00-I99 Diseases of the circulatory system,57,30842,184.8
+2021,Carlow County Council,Female,J00-J99 Diseases of the respiratory system,21,30842,68.1
+2021,Carlow County Council,Female,V00-Y98 External causes of injury and poisoning,5,30842,16.2
+2021,Carlow County Council,Female,F01 and F03 Dementia (types of),6,30842,19.5
+2021,Carlow County Council,Female,G30 Alzheimer disease,2,30842,6.5
+2021,Carlow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),14,30842,45.4
+2021,Dublin City Council,Male,C00-C99 Malignant neoplasms,594,286174,207.6
+2021,Dublin City Council,Male,I00-I99 Diseases of the circulatory system,623,286174,217.7
+2021,Dublin City Council,Male,J00-J99 Diseases of the respiratory system,199,286174,69.5
+2021,Dublin City Council,Male,V00-Y98 External causes of injury and poisoning,165,286174,57.7
+2021,Dublin City Council,Male,F01 and F03 Dementia (types of),91,286174,31.8
+2021,Dublin City Council,Male,G30 Alzheimer disease,18,286174,6.3
+2021,Dublin City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),225,286174,78.6
+2021,Dublin City Council,Female,C00-C99 Malignant neoplasms,597,294063,203.0
+2021,Dublin City Council,Female,I00-I99 Diseases of the circulatory system,634,294063,215.6
+2021,Dublin City Council,Female,J00-J99 Diseases of the respiratory system,202,294063,68.7
+2021,Dublin City Council,Female,V00-Y98 External causes of injury and poisoning,78,294063,26.5
+2021,Dublin City Council,Female,F01 and F03 Dementia (types of),225,294063,76.5
+2021,Dublin City Council,Female,G30 Alzheimer disease,52,294063,17.7
+2021,Dublin City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),197,294063,67.0
+2021,South Dublin County Council,Male,C00-C99 Malignant neoplasms,237,145631,162.7
+2021,South Dublin County Council,Male,I00-I99 Diseases of the circulatory system,192,145631,131.8
+2021,South Dublin County Council,Male,J00-J99 Diseases of the respiratory system,92,145631,63.2
+2021,South Dublin County Council,Male,V00-Y98 External causes of injury and poisoning,51,145631,35.0
+2021,South Dublin County Council,Male,F01 and F03 Dementia (types of),31,145631,21.3
+2021,South Dublin County Council,Male,G30 Alzheimer disease,6,145631,4.1
+2021,South Dublin County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),100,145631,68.7
+2021,South Dublin County Council,Female,C00-C99 Malignant neoplasms,222,152473,145.6
+2021,South Dublin County Council,Female,I00-I99 Diseases of the circulatory system,182,152473,119.4
+2021,South Dublin County Council,Female,J00-J99 Diseases of the respiratory system,56,152473,36.7
+2021,South Dublin County Council,Female,V00-Y98 External causes of injury and poisoning,16,152473,10.5
+2021,South Dublin County Council,Female,F01 and F03 Dementia (types of),38,152473,24.9
+2021,South Dublin County Council,Female,G30 Alzheimer disease,24,152473,15.7
+2021,South Dublin County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),53,152473,34.8
+2021,Fingal County Council,Male,C00-C99 Malignant neoplasms,243,161091,150.8
+2021,Fingal County Council,Male,I00-I99 Diseases of the circulatory system,168,161091,104.3
+2021,Fingal County Council,Male,J00-J99 Diseases of the respiratory system,50,161091,31.0
+2021,Fingal County Council,Male,V00-Y98 External causes of injury and poisoning,39,161091,24.2
+2021,Fingal County Council,Male,F01 and F03 Dementia (types of),35,161091,21.7
+2021,Fingal County Council,Male,G30 Alzheimer disease,3,161091,1.9
+2021,Fingal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),95,161091,59.0
+2021,Fingal County Council,Female,C00-C99 Malignant neoplasms,180,166190,108.3
+2021,Fingal County Council,Female,I00-I99 Diseases of the circulatory system,146,166190,87.9
+2021,Fingal County Council,Female,J00-J99 Diseases of the respiratory system,51,166190,30.7
+2021,Fingal County Council,Female,V00-Y98 External causes of injury and poisoning,16,166190,9.6
+2021,Fingal County Council,Female,F01 and F03 Dementia (types of),41,166190,24.7
+2021,Fingal County Council,Female,G30 Alzheimer disease,4,166190,2.4
+2021,Fingal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),60,166190,36.1
+2021,Dún Laoghaire Rathdown County Council,Male,C00-C99 Malignant neoplasms,229,110352,207.5
+2021,Dún Laoghaire Rathdown County Council,Male,I00-I99 Diseases of the circulatory system,203,110352,184.0
+2021,Dún Laoghaire Rathdown County Council,Male,J00-J99 Diseases of the respiratory system,71,110352,64.3
+2021,Dún Laoghaire Rathdown County Council,Male,V00-Y98 External causes of injury and poisoning,34,110352,30.8
+2021,Dún Laoghaire Rathdown County Council,Male,F01 and F03 Dementia (types of),39,110352,35.3
+2021,Dún Laoghaire Rathdown County Council,Male,G30 Alzheimer disease,8,110352,7.2
+2021,Dún Laoghaire Rathdown County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),66,110352,59.8
+2021,Dún Laoghaire Rathdown County Council,Female,C00-C99 Malignant neoplasms,233,119475,195.0
+2021,Dún Laoghaire Rathdown County Council,Female,I00-I99 Diseases of the circulatory system,240,119475,200.9
+2021,Dún Laoghaire Rathdown County Council,Female,J00-J99 Diseases of the respiratory system,77,119475,64.4
+2021,Dún Laoghaire Rathdown County Council,Female,V00-Y98 External causes of injury and poisoning,29,119475,24.3
+2021,Dún Laoghaire Rathdown County Council,Female,F01 and F03 Dementia (types of),71,119475,59.4
+2021,Dún Laoghaire Rathdown County Council,Female,G30 Alzheimer disease,23,119475,19.3
+2021,Dún Laoghaire Rathdown County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),76,119475,63.6
+2021,Kildare County Council,Male,C00-C99 Malignant neoplasms,184,122372,150.4
+2021,Kildare County Council,Male,I00-I99 Diseases of the circulatory system,171,122372,139.7
+2021,Kildare County Council,Male,J00-J99 Diseases of the respiratory system,52,122372,42.5
+2021,Kildare County Council,Male,V00-Y98 External causes of injury and poisoning,42,122372,34.3
+2021,Kildare County Council,Male,F01 and F03 Dementia (types of),17,122372,13.9
+2021,Kildare County Council,Male,G30 Alzheimer disease,6,122372,4.9
+2021,Kildare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),60,122372,49.0
+2021,Kildare County Council,Female,C00-C99 Malignant neoplasms,150,123490,121.5
+2021,Kildare County Council,Female,I00-I99 Diseases of the circulatory system,137,123490,110.9
+2021,Kildare County Council,Female,J00-J99 Diseases of the respiratory system,63,123490,51.0
+2021,Kildare County Council,Female,V00-Y98 External causes of injury and poisoning,24,123490,19.4
+2021,Kildare County Council,Female,F01 and F03 Dementia (types of),27,123490,21.9
+2021,Kildare County Council,Female,G30 Alzheimer disease,17,123490,13.8
+2021,Kildare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),73,123490,59.1
+2021,Kilkenny County Council,Male,C00-C99 Malignant neoplasms,104,51424,202.2
+2021,Kilkenny County Council,Male,I00-I99 Diseases of the circulatory system,98,51424,190.6
+2021,Kilkenny County Council,Male,J00-J99 Diseases of the respiratory system,41,51424,79.7
+2021,Kilkenny County Council,Male,V00-Y98 External causes of injury and poisoning,11,51424,21.4
+2021,Kilkenny County Council,Male,F01 and F03 Dementia (types of),14,51424,27.2
+2021,Kilkenny County Council,Male,G30 Alzheimer disease,2,51424,3.9
+2021,Kilkenny County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),26,51424,50.6
+2021,Kilkenny County Council,Female,C00-C99 Malignant neoplasms,101,51612,195.7
+2021,Kilkenny County Council,Female,I00-I99 Diseases of the circulatory system,99,51612,191.8
+2021,Kilkenny County Council,Female,J00-J99 Diseases of the respiratory system,36,51612,69.8
+2021,Kilkenny County Council,Female,V00-Y98 External causes of injury and poisoning,6,51612,11.6
+2021,Kilkenny County Council,Female,F01 and F03 Dementia (types of),31,51612,60.1
+2021,Kilkenny County Council,Female,G30 Alzheimer disease,9,51612,17.4
+2021,Kilkenny County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),26,51612,50.4
+2021,Laois County Council,Male,C00-C99 Malignant neoplasms,80,45984,174.0
+2021,Laois County Council,Male,I00-I99 Diseases of the circulatory system,88,45984,191.4
+2021,Laois County Council,Male,J00-J99 Diseases of the respiratory system,25,45984,54.4
+2021,Laois County Council,Male,V00-Y98 External causes of injury and poisoning,14,45984,30.4
+2021,Laois County Council,Male,F01 and F03 Dementia (types of),12,45984,26.1
+2021,Laois County Council,Male,G30 Alzheimer disease,1,45984,2.2
+2021,Laois County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),32,45984,69.6
+2021,Laois County Council,Female,C00-C99 Malignant neoplasms,63,45300,139.1
+2021,Laois County Council,Female,I00-I99 Diseases of the circulatory system,56,45300,123.6
+2021,Laois County Council,Female,J00-J99 Diseases of the respiratory system,19,45300,41.9
+2021,Laois County Council,Female,V00-Y98 External causes of injury and poisoning,4,45300,8.8
+2021,Laois County Council,Female,F01 and F03 Dementia (types of),13,45300,28.7
+2021,Laois County Council,Female,G30 Alzheimer disease,3,45300,6.6
+2021,Laois County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),31,45300,68.4
+2021,Longford County Council,Male,C00-C99 Malignant neoplasms,43,23287,184.7
+2021,Longford County Council,Male,I00-I99 Diseases of the circulatory system,43,23287,184.7
+2021,Longford County Council,Male,J00-J99 Diseases of the respiratory system,17,23287,73.0
+2021,Longford County Council,Male,V00-Y98 External causes of injury and poisoning,12,23287,51.5
+2021,Longford County Council,Male,F01 and F03 Dementia (types of),2,23287,8.6
+2021,Longford County Council,Male,G30 Alzheimer disease,1,23287,4.3
+2021,Longford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,23287,51.5
+2021,Longford County Council,Female,C00-C99 Malignant neoplasms,38,23086,164.6
+2021,Longford County Council,Female,I00-I99 Diseases of the circulatory system,33,23086,142.9
+2021,Longford County Council,Female,J00-J99 Diseases of the respiratory system,16,23086,69.3
+2021,Longford County Council,Female,V00-Y98 External causes of injury and poisoning,6,23086,26.0
+2021,Longford County Council,Female,F01 and F03 Dementia (types of),4,23086,17.3
+2021,Longford County Council,Female,G30 Alzheimer disease,2,23086,8.7
+2021,Longford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),16,23086,69.3
+2021,Louth County Council,Male,C00-C99 Malignant neoplasms,144,68461,210.3
+2021,Louth County Council,Male,I00-I99 Diseases of the circulatory system,105,68461,153.4
+2021,Louth County Council,Male,J00-J99 Diseases of the respiratory system,51,68461,74.5
+2021,Louth County Council,Male,V00-Y98 External causes of injury and poisoning,41,68461,59.9
+2021,Louth County Council,Male,F01 and F03 Dementia (types of),13,68461,19.0
+2021,Louth County Council,Male,G30 Alzheimer disease,12,68461,17.5
+2021,Louth County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),66,68461,96.4
+2021,Louth County Council,Female,C00-C99 Malignant neoplasms,113,70246,160.9
+2021,Louth County Council,Female,I00-I99 Diseases of the circulatory system,78,70246,111.0
+2021,Louth County Council,Female,J00-J99 Diseases of the respiratory system,39,70246,55.5
+2021,Louth County Council,Female,V00-Y98 External causes of injury and poisoning,15,70246,21.4
+2021,Louth County Council,Female,F01 and F03 Dementia (types of),31,70246,44.1
+2021,Louth County Council,Female,G30 Alzheimer disease,9,70246,12.8
+2021,Louth County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),65,70246,92.5
+2021,Meath County Council,Male,C00-C99 Malignant neoplasms,153,109277,140.0
+2021,Meath County Council,Male,I00-I99 Diseases of the circulatory system,167,109277,152.8
+2021,Meath County Council,Male,J00-J99 Diseases of the respiratory system,64,109277,58.6
+2021,Meath County Council,Male,V00-Y98 External causes of injury and poisoning,38,109277,34.8
+2021,Meath County Council,Male,F01 and F03 Dementia (types of),19,109277,17.4
+2021,Meath County Council,Male,G30 Alzheimer disease,6,109277,5.5
+2021,Meath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),62,109277,56.7
+2021,Meath County Council,Female,C00-C99 Malignant neoplasms,147,110027,133.6
+2021,Meath County Council,Female,I00-I99 Diseases of the circulatory system,114,110027,103.6
+2021,Meath County Council,Female,J00-J99 Diseases of the respiratory system,46,110027,41.8
+2021,Meath County Council,Female,V00-Y98 External causes of injury and poisoning,16,110027,14.5
+2021,Meath County Council,Female,F01 and F03 Dementia (types of),29,110027,26.4
+2021,Meath County Council,Female,G30 Alzheimer disease,7,110027,6.4
+2021,Meath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),36,110027,32.7
+2021,Offaly County Council,Male,C00-C99 Malignant neoplasms,100,41353,241.8
+2021,Offaly County Council,Male,I00-I99 Diseases of the circulatory system,96,41353,232.1
+2021,Offaly County Council,Male,J00-J99 Diseases of the respiratory system,23,41353,55.6
+2021,Offaly County Council,Male,V00-Y98 External causes of injury and poisoning,11,41353,26.6
+2021,Offaly County Council,Male,F01 and F03 Dementia (types of),11,41353,26.6
+2021,Offaly County Council,Male,G30 Alzheimer disease,3,41353,7.3
+2021,Offaly County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),17,41353,41.1
+2021,Offaly County Council,Female,C00-C99 Malignant neoplasms,73,41214,177.1
+2021,Offaly County Council,Female,I00-I99 Diseases of the circulatory system,70,41214,169.8
+2021,Offaly County Council,Female,J00-J99 Diseases of the respiratory system,17,41214,41.2
+2021,Offaly County Council,Female,V00-Y98 External causes of injury and poisoning,3,41214,7.3
+2021,Offaly County Council,Female,F01 and F03 Dementia (types of),25,41214,60.7
+2021,Offaly County Council,Female,G30 Alzheimer disease,4,41214,9.7
+2021,Offaly County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),26,41214,63.1
+2021,Westmeath County Council,Male,C00-C99 Malignant neoplasms,89,47388,187.8
+2021,Westmeath County Council,Male,I00-I99 Diseases of the circulatory system,105,47388,221.6
+2021,Westmeath County Council,Male,J00-J99 Diseases of the respiratory system,29,47388,61.2
+2021,Westmeath County Council,Male,V00-Y98 External causes of injury and poisoning,18,47388,38.0
+2021,Westmeath County Council,Male,F01 and F03 Dementia (types of),11,47388,23.2
+2021,Westmeath County Council,Male,G30 Alzheimer disease,2,47388,4.2
+2021,Westmeath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),30,47388,63.3
+2021,Westmeath County Council,Female,C00-C99 Malignant neoplasms,77,48083,160.1
+2021,Westmeath County Council,Female,I00-I99 Diseases of the circulatory system,94,48083,195.5
+2021,Westmeath County Council,Female,J00-J99 Diseases of the respiratory system,45,48083,93.6
+2021,Westmeath County Council,Female,V00-Y98 External causes of injury and poisoning,8,48083,16.6
+2021,Westmeath County Council,Female,F01 and F03 Dementia (types of),26,48083,54.1
+2021,Westmeath County Council,Female,G30 Alzheimer disease,11,48083,22.9
+2021,Westmeath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),24,48083,49.9
+2021,Wexford County Council,Male,C00-C99 Malignant neoplasms,174,80168,217.0
+2021,Wexford County Council,Male,I00-I99 Diseases of the circulatory system,166,80168,207.1
+2021,Wexford County Council,Male,J00-J99 Diseases of the respiratory system,66,80168,82.3
+2021,Wexford County Council,Male,V00-Y98 External causes of injury and poisoning,45,80168,56.1
+2021,Wexford County Council,Male,F01 and F03 Dementia (types of),22,80168,27.4
+2021,Wexford County Council,Male,G30 Alzheimer disease,2,80168,2.5
+2021,Wexford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),58,80168,72.3
+2021,Wexford County Council,Female,C00-C99 Malignant neoplasms,145,82348,176.1
+2021,Wexford County Council,Female,I00-I99 Diseases of the circulatory system,159,82348,193.1
+2021,Wexford County Council,Female,J00-J99 Diseases of the respiratory system,55,82348,66.8
+2021,Wexford County Council,Female,V00-Y98 External causes of injury and poisoning,22,82348,26.7
+2021,Wexford County Council,Female,F01 and F03 Dementia (types of),29,82348,35.2
+2021,Wexford County Council,Female,G30 Alzheimer disease,10,82348,12.1
+2021,Wexford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),53,82348,64.4
+2021,Wicklow County Council,Male,C00-C99 Malignant neoplasms,158,75826,208.4
+2021,Wicklow County Council,Male,I00-I99 Diseases of the circulatory system,141,75826,186.0
+2021,Wicklow County Council,Male,J00-J99 Diseases of the respiratory system,47,75826,62.0
+2021,Wicklow County Council,Male,V00-Y98 External causes of injury and poisoning,25,75826,33.0
+2021,Wicklow County Council,Male,F01 and F03 Dementia (types of),23,75826,30.3
+2021,Wicklow County Council,Male,G30 Alzheimer disease,5,75826,6.6
+2021,Wicklow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),49,75826,64.6
+2021,Wicklow County Council,Female,C00-C99 Malignant neoplasms,135,78162,172.7
+2021,Wicklow County Council,Female,I00-I99 Diseases of the circulatory system,119,78162,152.2
+2021,Wicklow County Council,Female,J00-J99 Diseases of the respiratory system,48,78162,61.4
+2021,Wicklow County Council,Female,V00-Y98 External causes of injury and poisoning,15,78162,19.2
+2021,Wicklow County Council,Female,F01 and F03 Dementia (types of),27,78162,34.5
+2021,Wicklow County Council,Female,G30 Alzheimer disease,6,78162,7.7
+2021,Wicklow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),36,78162,46.1
+2021,Clare County Council,Male,C00-C99 Malignant neoplasms,166,62061,267.5
+2021,Clare County Council,Male,I00-I99 Diseases of the circulatory system,132,62061,212.7
+2021,Clare County Council,Male,J00-J99 Diseases of the respiratory system,45,62061,72.5
+2021,Clare County Council,Male,V00-Y98 External causes of injury and poisoning,22,62061,35.4
+2021,Clare County Council,Male,F01 and F03 Dementia (types of),18,62061,29.0
+2021,Clare County Council,Male,G30 Alzheimer disease,3,62061,4.8
+2021,Clare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),40,62061,64.5
+2021,Clare County Council,Female,C00-C99 Malignant neoplasms,139,63921,217.5
+2021,Clare County Council,Female,I00-I99 Diseases of the circulatory system,115,63921,179.9
+2021,Clare County Council,Female,J00-J99 Diseases of the respiratory system,31,63921,48.5
+2021,Clare County Council,Female,V00-Y98 External causes of injury and poisoning,18,63921,28.2
+2021,Clare County Council,Female,F01 and F03 Dementia (types of),33,63921,51.6
+2021,Clare County Council,Female,G30 Alzheimer disease,12,63921,18.8
+2021,Clare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),32,63921,50.1
+2021,Cork City Council,Male,C00-C99 Malignant neoplasms,157,108467,144.7
+2021,Cork City Council,Male,I00-I99 Diseases of the circulatory system,187,108467,172.4
+2021,Cork City Council,Male,J00-J99 Diseases of the respiratory system,75,108467,69.1
+2021,Cork City Council,Male,V00-Y98 External causes of injury and poisoning,35,108467,32.3
+2021,Cork City Council,Male,F01 and F03 Dementia (types of),29,108467,26.7
+2021,Cork City Council,Male,G30 Alzheimer disease,4,108467,3.7
+2021,Cork City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),97,108467,89.4
+2021,Cork City Council,Female,C00-C99 Malignant neoplasms,159,112471,141.4
+2021,Cork City Council,Female,I00-I99 Diseases of the circulatory system,193,112471,171.6
+2021,Cork City Council,Female,J00-J99 Diseases of the respiratory system,64,112471,56.9
+2021,Cork City Council,Female,V00-Y98 External causes of injury and poisoning,23,112471,20.4
+2021,Cork City Council,Female,F01 and F03 Dementia (types of),34,112471,30.2
+2021,Cork City Council,Female,G30 Alzheimer disease,12,112471,10.7
+2021,Cork City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),86,112471,76.5
+2021,Cork County Council,Male,C00-C99 Malignant neoplasms,441,177395,248.6
+2021,Cork County Council,Male,I00-I99 Diseases of the circulatory system,395,177395,222.7
+2021,Cork County Council,Male,J00-J99 Diseases of the respiratory system,131,177395,73.8
+2021,Cork County Council,Male,V00-Y98 External causes of injury and poisoning,88,177395,49.6
+2021,Cork County Council,Male,F01 and F03 Dementia (types of),56,177395,31.6
+2021,Cork County Council,Male,G30 Alzheimer disease,20,177395,11.3
+2021,Cork County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),119,177395,67.1
+2021,Cork County Council,Female,C00-C99 Malignant neoplasms,371,178914,207.4
+2021,Cork County Council,Female,I00-I99 Diseases of the circulatory system,353,178914,197.3
+2021,Cork County Council,Female,J00-J99 Diseases of the respiratory system,120,178914,67.1
+2021,Cork County Council,Female,V00-Y98 External causes of injury and poisoning,46,178914,25.7
+2021,Cork County Council,Female,F01 and F03 Dementia (types of),125,178914,69.9
+2021,Cork County Council,Female,G30 Alzheimer disease,27,178914,15.1
+2021,Cork County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),104,178914,58.1
+2021,Kerry County Council,Male,C00-C99 Malignant neoplasms,176,75800,232.2
+2021,Kerry County Council,Male,I00-I99 Diseases of the circulatory system,192,75800,253.3
+2021,Kerry County Council,Male,J00-J99 Diseases of the respiratory system,45,75800,59.4
+2021,Kerry County Council,Male,V00-Y98 External causes of injury and poisoning,33,75800,43.5
+2021,Kerry County Council,Male,F01 and F03 Dementia (types of),20,75800,26.4
+2021,Kerry County Council,Male,G30 Alzheimer disease,5,75800,6.6
+2021,Kerry County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),39,75800,51.5
+2021,Kerry County Council,Female,C00-C99 Malignant neoplasms,143,76862,186.0
+2021,Kerry County Council,Female,I00-I99 Diseases of the circulatory system,185,76862,240.7
+2021,Kerry County Council,Female,J00-J99 Diseases of the respiratory system,53,76862,69.0
+2021,Kerry County Council,Female,V00-Y98 External causes of injury and poisoning,15,76862,19.5
+2021,Kerry County Council,Female,F01 and F03 Dementia (types of),44,76862,57.2
+2021,Kerry County Council,Female,G30 Alzheimer disease,28,76862,36.4
+2021,Kerry County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),29,76862,37.7
+2021,Limerick City & County Council,Male,C00-C99 Malignant neoplasms,234,103382,226.3
+2021,Limerick City & County Council,Male,I00-I99 Diseases of the circulatory system,200,103382,193.5
+2021,Limerick City & County Council,Male,J00-J99 Diseases of the respiratory system,93,103382,90.0
+2021,Limerick City & County Council,Male,V00-Y98 External causes of injury and poisoning,47,103382,45.5
+2021,Limerick City & County Council,Male,F01 and F03 Dementia (types of),19,103382,18.4
+2021,Limerick City & County Council,Male,G30 Alzheimer disease,8,103382,7.7
+2021,Limerick City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),98,103382,94.8
+2021,Limerick City & County Council,Female,C00-C99 Malignant neoplasms,224,103863,215.7
+2021,Limerick City & County Council,Female,I00-I99 Diseases of the circulatory system,193,103863,185.8
+2021,Limerick City & County Council,Female,J00-J99 Diseases of the respiratory system,73,103863,70.3
+2021,Limerick City & County Council,Female,V00-Y98 External causes of injury and poisoning,28,103863,27.0
+2021,Limerick City & County Council,Female,F01 and F03 Dementia (types of),43,103863,41.4
+2021,Limerick City & County Council,Female,G30 Alzheimer disease,13,103863,12.5
+2021,Limerick City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),85,103863,81.8
+2021,Tipperary County Council,Male,C00-C99 Malignant neoplasms,223,83081,268.4
+2021,Tipperary County Council,Male,I00-I99 Diseases of the circulatory system,197,83081,237.1
+2021,Tipperary County Council,Male,J00-J99 Diseases of the respiratory system,65,83081,78.2
+2021,Tipperary County Council,Male,V00-Y98 External causes of injury and poisoning,42,83081,50.6
+2021,Tipperary County Council,Male,F01 and F03 Dementia (types of),29,83081,34.9
+2021,Tipperary County Council,Male,G30 Alzheimer disease,7,83081,8.4
+2021,Tipperary County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),51,83081,61.4
+2021,Tipperary County Council,Female,C00-C99 Malignant neoplasms,176,83557,210.6
+2021,Tipperary County Council,Female,I00-I99 Diseases of the circulatory system,173,83557,207.0
+2021,Tipperary County Council,Female,J00-J99 Diseases of the respiratory system,64,83557,76.6
+2021,Tipperary County Council,Female,V00-Y98 External causes of injury and poisoning,15,83557,18.0
+2021,Tipperary County Council,Female,F01 and F03 Dementia (types of),39,83557,46.7
+2021,Tipperary County Council,Female,G30 Alzheimer disease,10,83557,12.0
+2021,Tipperary County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),27,83557,32.3
+2021,Waterford City & County Council,Male,C00-C99 Malignant neoplasms,163,62531,260.7
+2021,Waterford City & County Council,Male,I00-I99 Diseases of the circulatory system,137,62531,219.1
+2021,Waterford City & County Council,Male,J00-J99 Diseases of the respiratory system,34,62531,54.4
+2021,Waterford City & County Council,Male,V00-Y98 External causes of injury and poisoning,51,62531,81.6
+2021,Waterford City & County Council,Male,F01 and F03 Dementia (types of),26,62531,41.6
+2021,Waterford City & County Council,Male,G30 Alzheimer disease,4,62531,6.4
+2021,Waterford City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),53,62531,84.8
+2021,Waterford City & County Council,Female,C00-C99 Malignant neoplasms,133,63543,209.3
+2021,Waterford City & County Council,Female,I00-I99 Diseases of the circulatory system,100,63543,157.4
+2021,Waterford City & County Council,Female,J00-J99 Diseases of the respiratory system,47,63543,74.0
+2021,Waterford City & County Council,Female,V00-Y98 External causes of injury and poisoning,15,63543,23.6
+2021,Waterford City & County Council,Female,F01 and F03 Dementia (types of),32,63543,50.4
+2021,Waterford City & County Council,Female,G30 Alzheimer disease,10,63543,15.7
+2021,Waterford City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),51,63543,80.3
+2021,Galway City Council,Male,C00-C99 Malignant neoplasms,70,39569,176.9
+2021,Galway City Council,Male,I00-I99 Diseases of the circulatory system,39,39569,98.6
+2021,Galway City Council,Male,J00-J99 Diseases of the respiratory system,18,39569,45.5
+2021,Galway City Council,Male,V00-Y98 External causes of injury and poisoning,19,39569,48.0
+2021,Galway City Council,Male,F01 and F03 Dementia (types of),4,39569,10.1
+2021,Galway City Council,Male,G30 Alzheimer disease,4,39569,10.1
+2021,Galway City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,39569,37.9
+2021,Galway City Council,Female,C00-C99 Malignant neoplasms,54,42610,126.7
+2021,Galway City Council,Female,I00-I99 Diseases of the circulatory system,56,42610,131.4
+2021,Galway City Council,Female,J00-J99 Diseases of the respiratory system,17,42610,39.9
+2021,Galway City Council,Female,V00-Y98 External causes of injury and poisoning,9,42610,21.1
+2021,Galway City Council,Female,F01 and F03 Dementia (types of),9,42610,21.1
+2021,Galway City Council,Female,G30 Alzheimer disease,6,42610,14.1
+2021,Galway City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,42610,28.2
+2021,Galway County Council,Male,C00-C99 Malignant neoplasms,226,95649,236.3
+2021,Galway County Council,Male,I00-I99 Diseases of the circulatory system,217,95649,226.9
+2021,Galway County Council,Male,J00-J99 Diseases of the respiratory system,75,95649,78.4
+2021,Galway County Council,Male,V00-Y98 External causes of injury and poisoning,45,95649,47.0
+2021,Galway County Council,Male,F01 and F03 Dementia (types of),22,95649,23.0
+2021,Galway County Council,Male,G30 Alzheimer disease,25,95649,26.1
+2021,Galway County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),56,95649,58.5
+2021,Galway County Council,Female,C00-C99 Malignant neoplasms,174,95699,181.8
+2021,Galway County Council,Female,I00-I99 Diseases of the circulatory system,161,95699,168.2
+2021,Galway County Council,Female,J00-J99 Diseases of the respiratory system,62,95699,64.8
+2021,Galway County Council,Female,V00-Y98 External causes of injury and poisoning,20,95699,20.9
+2021,Galway County Council,Female,F01 and F03 Dementia (types of),35,95699,36.6
+2021,Galway County Council,Female,G30 Alzheimer disease,16,95699,16.7
+2021,Galway County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),45,95699,47.0
+2021,Leitrim County Council,Male,C00-C99 Malignant neoplasms,34,17352,195.9
+2021,Leitrim County Council,Male,I00-I99 Diseases of the circulatory system,42,17352,242.0
+2021,Leitrim County Council,Male,J00-J99 Diseases of the respiratory system,13,17352,74.9
+2021,Leitrim County Council,Male,V00-Y98 External causes of injury and poisoning,6,17352,34.6
+2021,Leitrim County Council,Male,F01 and F03 Dementia (types of),9,17352,51.9
+2021,Leitrim County Council,Male,G30 Alzheimer disease,1,17352,5.8
+2021,Leitrim County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,17352,34.6
+2021,Leitrim County Council,Female,C00-C99 Malignant neoplasms,27,17367,155.5
+2021,Leitrim County Council,Female,I00-I99 Diseases of the circulatory system,35,17367,201.5
+2021,Leitrim County Council,Female,J00-J99 Diseases of the respiratory system,13,17367,74.9
+2021,Leitrim County Council,Female,V00-Y98 External causes of injury and poisoning,3,17367,17.3
+2021,Leitrim County Council,Female,F01 and F03 Dementia (types of),5,17367,28.8
+2021,Leitrim County Council,Female,G30 Alzheimer disease,5,17367,28.8
+2021,Leitrim County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),13,17367,74.9
+2021,Mayo County Council,Male,C00-C99 Malignant neoplasms,184,67424,272.9
+2021,Mayo County Council,Male,I00-I99 Diseases of the circulatory system,163,67424,241.8
+2021,Mayo County Council,Male,J00-J99 Diseases of the respiratory system,56,67424,83.1
+2021,Mayo County Council,Male,V00-Y98 External causes of injury and poisoning,25,67424,37.1
+2021,Mayo County Council,Male,F01 and F03 Dementia (types of),12,67424,17.8
+2021,Mayo County Council,Male,G30 Alzheimer disease,8,67424,11.9
+2021,Mayo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),83,67424,123.1
+2021,Mayo County Council,Female,C00-C99 Malignant neoplasms,134,68449,195.8
+2021,Mayo County Council,Female,I00-I99 Diseases of the circulatory system,145,68449,211.8
+2021,Mayo County Council,Female,J00-J99 Diseases of the respiratory system,54,68449,78.9
+2021,Mayo County Council,Female,V00-Y98 External causes of injury and poisoning,7,68449,10.2
+2021,Mayo County Council,Female,F01 and F03 Dementia (types of),27,68449,39.4
+2021,Mayo County Council,Female,G30 Alzheimer disease,6,68449,8.8
+2021,Mayo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),62,68449,90.6
+2021,Roscommon County Council,Male,C00-C99 Malignant neoplasms,92,34847,264.0
+2021,Roscommon County Council,Male,I00-I99 Diseases of the circulatory system,89,34847,255.4
+2021,Roscommon County Council,Male,J00-J99 Diseases of the respiratory system,29,34847,83.2
+2021,Roscommon County Council,Male,V00-Y98 External causes of injury and poisoning,21,34847,60.3
+2021,Roscommon County Council,Male,F01 and F03 Dementia (types of),10,34847,28.7
+2021,Roscommon County Council,Male,G30 Alzheimer disease,2,34847,5.7
+2021,Roscommon County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),24,34847,68.9
+2021,Roscommon County Council,Female,C00-C99 Malignant neoplasms,62,34700,178.7
+2021,Roscommon County Council,Female,I00-I99 Diseases of the circulatory system,84,34700,242.1
+2021,Roscommon County Council,Female,J00-J99 Diseases of the respiratory system,16,34700,46.1
+2021,Roscommon County Council,Female,V00-Y98 External causes of injury and poisoning,8,34700,23.1
+2021,Roscommon County Council,Female,F01 and F03 Dementia (types of),13,34700,37.5
+2021,Roscommon County Council,Female,G30 Alzheimer disease,1,34700,2.9
+2021,Roscommon County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),16,34700,46.1
+2021,Sligo County Council,Male,C00-C99 Malignant neoplasms,91,34101,266.9
+2021,Sligo County Council,Male,I00-I99 Diseases of the circulatory system,97,34101,284.4
+2021,Sligo County Council,Male,J00-J99 Diseases of the respiratory system,29,34101,85.0
+2021,Sligo County Council,Male,V00-Y98 External causes of injury and poisoning,18,34101,52.8
+2021,Sligo County Council,Male,F01 and F03 Dementia (types of),9,34101,26.4
+2021,Sligo County Council,Male,G30 Alzheimer disease,4,34101,11.7
+2021,Sligo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,34101,44.0
+2021,Sligo County Council,Female,C00-C99 Malignant neoplasms,71,35124,202.1
+2021,Sligo County Council,Female,I00-I99 Diseases of the circulatory system,80,35124,227.8
+2021,Sligo County Council,Female,J00-J99 Diseases of the respiratory system,25,35124,71.2
+2021,Sligo County Council,Female,V00-Y98 External causes of injury and poisoning,5,35124,14.2
+2021,Sligo County Council,Female,F01 and F03 Dementia (types of),26,35124,74.0
+2021,Sligo County Council,Female,G30 Alzheimer disease,5,35124,14.2
+2021,Sligo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),16,35124,45.6
+2021,Cavan County Council,Male,C00-C99 Malignant neoplasms,92,40733,225.9
+2021,Cavan County Council,Male,I00-I99 Diseases of the circulatory system,94,40733,230.8
+2021,Cavan County Council,Male,J00-J99 Diseases of the respiratory system,44,40733,108.0
+2021,Cavan County Council,Male,V00-Y98 External causes of injury and poisoning,22,40733,54.0
+2021,Cavan County Council,Male,F01 and F03 Dementia (types of),7,40733,17.2
+2021,Cavan County Council,Male,G30 Alzheimer disease,,40733,
+2021,Cavan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),31,40733,76.1
+2021,Cavan County Council,Female,C00-C99 Malignant neoplasms,61,40238,151.6
+2021,Cavan County Council,Female,I00-I99 Diseases of the circulatory system,73,40238,181.4
+2021,Cavan County Council,Female,J00-J99 Diseases of the respiratory system,21,40238,52.2
+2021,Cavan County Council,Female,V00-Y98 External causes of injury and poisoning,10,40238,24.9
+2021,Cavan County Council,Female,F01 and F03 Dementia (types of),15,40238,37.3
+2021,Cavan County Council,Female,G30 Alzheimer disease,3,40238,7.5
+2021,Cavan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),17,40238,42.2
+2021,Donegal County Council,Male,C00-C99 Malignant neoplasms,178,81601,218.1
+2021,Donegal County Council,Male,I00-I99 Diseases of the circulatory system,220,81601,269.6
+2021,Donegal County Council,Male,J00-J99 Diseases of the respiratory system,56,81601,68.6
+2021,Donegal County Council,Male,V00-Y98 External causes of injury and poisoning,21,81601,25.7
+2021,Donegal County Council,Male,F01 and F03 Dementia (types of),27,81601,33.1
+2021,Donegal County Council,Male,G30 Alzheimer disease,11,81601,13.5
+2021,Donegal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),68,81601,83.3
+2021,Donegal County Council,Female,C00-C99 Malignant neoplasms,153,82972,184.4
+2021,Donegal County Council,Female,I00-I99 Diseases of the circulatory system,165,82972,198.9
+2021,Donegal County Council,Female,J00-J99 Diseases of the respiratory system,56,82972,67.5
+2021,Donegal County Council,Female,V00-Y98 External causes of injury and poisoning,16,82972,19.3
+2021,Donegal County Council,Female,F01 and F03 Dementia (types of),49,82972,59.1
+2021,Donegal County Council,Female,G30 Alzheimer disease,17,82972,20.5
+2021,Donegal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),49,82972,59.1
+2021,Monaghan County Council,Male,C00-C99 Malignant neoplasms,63,32592,193.3
+2021,Monaghan County Council,Male,I00-I99 Diseases of the circulatory system,69,32592,211.7
+2021,Monaghan County Council,Male,J00-J99 Diseases of the respiratory system,22,32592,67.5
+2021,Monaghan County Council,Male,V00-Y98 External causes of injury and poisoning,16,32592,49.1
+2021,Monaghan County Council,Male,F01 and F03 Dementia (types of),9,32592,27.6
+2021,Monaghan County Council,Male,G30 Alzheimer disease,,32592,
+2021,Monaghan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),26,32592,79.8
+2021,Monaghan County Council,Female,C00-C99 Malignant neoplasms,63,32024,196.7
+2021,Monaghan County Council,Female,I00-I99 Diseases of the circulatory system,73,32024,228.0
+2021,Monaghan County Council,Female,J00-J99 Diseases of the respiratory system,23,32024,71.8
+2021,Monaghan County Council,Female,V00-Y98 External causes of injury and poisoning,11,32024,34.3
+2021,Monaghan County Council,Female,F01 and F03 Dementia (types of),8,32024,25.0
+2021,Monaghan County Council,Female,G30 Alzheimer disease,6,32024,18.7
+2021,Monaghan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),8,32024,25.0
+2022,Carlow County Council,Male,C00-C99 Malignant neoplasms,69,30581,225.6
+2022,Carlow County Council,Male,I00-I99 Diseases of the circulatory system,51,30581,166.8
+2022,Carlow County Council,Male,J00-J99 Diseases of the respiratory system,26,30581,85.0
+2022,Carlow County Council,Male,V00-Y98 External causes of injury and poisoning,10,30581,32.7
+2022,Carlow County Council,Male,F01 and F03 Dementia (types of),9,30581,29.4
+2022,Carlow County Council,Male,G30 Alzheimer disease,5,30581,16.4
+2022,Carlow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,30581,16.4
+2022,Carlow County Council,Female,C00-C99 Malignant neoplasms,63,30842,204.3
+2022,Carlow County Council,Female,I00-I99 Diseases of the circulatory system,75,30842,243.2
+2022,Carlow County Council,Female,J00-J99 Diseases of the respiratory system,22,30842,71.3
+2022,Carlow County Council,Female,V00-Y98 External causes of injury and poisoning,9,30842,29.2
+2022,Carlow County Council,Female,F01 and F03 Dementia (types of),12,30842,38.9
+2022,Carlow County Council,Female,G30 Alzheimer disease,4,30842,13.0
+2022,Carlow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,30842,32.4
+2022,Dublin City Council,Male,C00-C99 Malignant neoplasms,606,286174,211.8
+2022,Dublin City Council,Male,I00-I99 Diseases of the circulatory system,607,286174,212.1
+2022,Dublin City Council,Male,J00-J99 Diseases of the respiratory system,234,286174,81.8
+2022,Dublin City Council,Male,V00-Y98 External causes of injury and poisoning,132,286174,46.1
+2022,Dublin City Council,Male,F01 and F03 Dementia (types of),100,286174,34.9
+2022,Dublin City Council,Male,G30 Alzheimer disease,18,286174,6.3
+2022,Dublin City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),107,286174,37.4
+2022,Dublin City Council,Female,C00-C99 Malignant neoplasms,606,294063,206.1
+2022,Dublin City Council,Female,I00-I99 Diseases of the circulatory system,633,294063,215.3
+2022,Dublin City Council,Female,J00-J99 Diseases of the respiratory system,273,294063,92.8
+2022,Dublin City Council,Female,V00-Y98 External causes of injury and poisoning,70,294063,23.8
+2022,Dublin City Council,Female,F01 and F03 Dementia (types of),214,294063,72.8
+2022,Dublin City Council,Female,G30 Alzheimer disease,43,294063,14.6
+2022,Dublin City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),93,294063,31.6
+2022,South Dublin County Council,Male,C00-C99 Malignant neoplasms,273,145631,187.5
+2022,South Dublin County Council,Male,I00-I99 Diseases of the circulatory system,211,145631,144.9
+2022,South Dublin County Council,Male,J00-J99 Diseases of the respiratory system,69,145631,47.4
+2022,South Dublin County Council,Male,V00-Y98 External causes of injury and poisoning,40,145631,27.5
+2022,South Dublin County Council,Male,F01 and F03 Dementia (types of),30,145631,20.6
+2022,South Dublin County Council,Male,G30 Alzheimer disease,12,145631,8.2
+2022,South Dublin County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),49,145631,33.6
+2022,South Dublin County Council,Female,C00-C99 Malignant neoplasms,239,152473,156.7
+2022,South Dublin County Council,Female,I00-I99 Diseases of the circulatory system,202,152473,132.5
+2022,South Dublin County Council,Female,J00-J99 Diseases of the respiratory system,76,152473,49.8
+2022,South Dublin County Council,Female,V00-Y98 External causes of injury and poisoning,19,152473,12.5
+2022,South Dublin County Council,Female,F01 and F03 Dementia (types of),44,152473,28.9
+2022,South Dublin County Council,Female,G30 Alzheimer disease,11,152473,7.2
+2022,South Dublin County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),48,152473,31.5
+2022,Fingal County Council,Male,C00-C99 Malignant neoplasms,223,161091,138.4
+2022,Fingal County Council,Male,I00-I99 Diseases of the circulatory system,184,161091,114.2
+2022,Fingal County Council,Male,J00-J99 Diseases of the respiratory system,61,161091,37.9
+2022,Fingal County Council,Male,V00-Y98 External causes of injury and poisoning,37,161091,23.0
+2022,Fingal County Council,Male,F01 and F03 Dementia (types of),34,161091,21.1
+2022,Fingal County Council,Male,G30 Alzheimer disease,6,161091,3.7
+2022,Fingal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),33,161091,20.5
+2022,Fingal County Council,Female,C00-C99 Malignant neoplasms,205,166190,123.4
+2022,Fingal County Council,Female,I00-I99 Diseases of the circulatory system,162,166190,97.5
+2022,Fingal County Council,Female,J00-J99 Diseases of the respiratory system,79,166190,47.5
+2022,Fingal County Council,Female,V00-Y98 External causes of injury and poisoning,14,166190,8.4
+2022,Fingal County Council,Female,F01 and F03 Dementia (types of),61,166190,36.7
+2022,Fingal County Council,Female,G30 Alzheimer disease,4,166190,2.4
+2022,Fingal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),30,166190,18.1
+2022,Dún Laoghaire Rathdown County Council,Male,C00-C99 Malignant neoplasms,236,110352,213.9
+2022,Dún Laoghaire Rathdown County Council,Male,I00-I99 Diseases of the circulatory system,257,110352,232.9
+2022,Dún Laoghaire Rathdown County Council,Male,J00-J99 Diseases of the respiratory system,81,110352,73.4
+2022,Dún Laoghaire Rathdown County Council,Male,V00-Y98 External causes of injury and poisoning,28,110352,25.4
+2022,Dún Laoghaire Rathdown County Council,Male,F01 and F03 Dementia (types of),46,110352,41.7
+2022,Dún Laoghaire Rathdown County Council,Male,G30 Alzheimer disease,11,110352,10.0
+2022,Dún Laoghaire Rathdown County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),38,110352,34.4
+2022,Dún Laoghaire Rathdown County Council,Female,C00-C99 Malignant neoplasms,254,119475,212.6
+2022,Dún Laoghaire Rathdown County Council,Female,I00-I99 Diseases of the circulatory system,271,119475,226.8
+2022,Dún Laoghaire Rathdown County Council,Female,J00-J99 Diseases of the respiratory system,102,119475,85.4
+2022,Dún Laoghaire Rathdown County Council,Female,V00-Y98 External causes of injury and poisoning,28,119475,23.4
+2022,Dún Laoghaire Rathdown County Council,Female,F01 and F03 Dementia (types of),89,119475,74.5
+2022,Dún Laoghaire Rathdown County Council,Female,G30 Alzheimer disease,13,119475,10.9
+2022,Dún Laoghaire Rathdown County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),40,119475,33.5
+2022,Kildare County Council,Male,C00-C99 Malignant neoplasms,189,122372,154.4
+2022,Kildare County Council,Male,I00-I99 Diseases of the circulatory system,162,122372,132.4
+2022,Kildare County Council,Male,J00-J99 Diseases of the respiratory system,71,122372,58.0
+2022,Kildare County Council,Male,V00-Y98 External causes of injury and poisoning,39,122372,31.9
+2022,Kildare County Council,Male,F01 and F03 Dementia (types of),23,122372,18.8
+2022,Kildare County Council,Male,G30 Alzheimer disease,8,122372,6.5
+2022,Kildare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),35,122372,28.6
+2022,Kildare County Council,Female,C00-C99 Malignant neoplasms,158,123490,127.9
+2022,Kildare County Council,Female,I00-I99 Diseases of the circulatory system,162,123490,131.2
+2022,Kildare County Council,Female,J00-J99 Diseases of the respiratory system,44,123490,35.6
+2022,Kildare County Council,Female,V00-Y98 External causes of injury and poisoning,18,123490,14.6
+2022,Kildare County Council,Female,F01 and F03 Dementia (types of),31,123490,25.1
+2022,Kildare County Council,Female,G30 Alzheimer disease,10,123490,8.1
+2022,Kildare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,123490,12.1
+2022,Kilkenny County Council,Male,C00-C99 Malignant neoplasms,122,51424,237.2
+2022,Kilkenny County Council,Male,I00-I99 Diseases of the circulatory system,111,51424,215.9
+2022,Kilkenny County Council,Male,J00-J99 Diseases of the respiratory system,47,51424,91.4
+2022,Kilkenny County Council,Male,V00-Y98 External causes of injury and poisoning,10,51424,19.4
+2022,Kilkenny County Council,Male,F01 and F03 Dementia (types of),29,51424,56.4
+2022,Kilkenny County Council,Male,G30 Alzheimer disease,3,51424,5.8
+2022,Kilkenny County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),18,51424,35.0
+2022,Kilkenny County Council,Female,C00-C99 Malignant neoplasms,111,51612,215.1
+2022,Kilkenny County Council,Female,I00-I99 Diseases of the circulatory system,107,51612,207.3
+2022,Kilkenny County Council,Female,J00-J99 Diseases of the respiratory system,34,51612,65.9
+2022,Kilkenny County Council,Female,V00-Y98 External causes of injury and poisoning,7,51612,13.6
+2022,Kilkenny County Council,Female,F01 and F03 Dementia (types of),23,51612,44.6
+2022,Kilkenny County Council,Female,G30 Alzheimer disease,10,51612,19.4
+2022,Kilkenny County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),26,51612,50.4
+2022,Laois County Council,Male,C00-C99 Malignant neoplasms,92,45984,200.1
+2022,Laois County Council,Male,I00-I99 Diseases of the circulatory system,85,45984,184.8
+2022,Laois County Council,Male,J00-J99 Diseases of the respiratory system,35,45984,76.1
+2022,Laois County Council,Male,V00-Y98 External causes of injury and poisoning,11,45984,23.9
+2022,Laois County Council,Male,F01 and F03 Dementia (types of),9,45984,19.6
+2022,Laois County Council,Male,G30 Alzheimer disease,1,45984,2.2
+2022,Laois County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),16,45984,34.8
+2022,Laois County Council,Female,C00-C99 Malignant neoplasms,63,45300,139.1
+2022,Laois County Council,Female,I00-I99 Diseases of the circulatory system,59,45300,130.2
+2022,Laois County Council,Female,J00-J99 Diseases of the respiratory system,26,45300,57.4
+2022,Laois County Council,Female,V00-Y98 External causes of injury and poisoning,7,45300,15.5
+2022,Laois County Council,Female,F01 and F03 Dementia (types of),17,45300,37.5
+2022,Laois County Council,Female,G30 Alzheimer disease,3,45300,6.6
+2022,Laois County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),22,45300,48.6
+2022,Longford County Council,Male,C00-C99 Malignant neoplasms,56,23287,240.5
+2022,Longford County Council,Male,I00-I99 Diseases of the circulatory system,63,23287,270.5
+2022,Longford County Council,Male,J00-J99 Diseases of the respiratory system,25,23287,107.4
+2022,Longford County Council,Male,V00-Y98 External causes of injury and poisoning,9,23287,38.6
+2022,Longford County Council,Male,F01 and F03 Dementia (types of),6,23287,25.8
+2022,Longford County Council,Male,G30 Alzheimer disease,1,23287,4.3
+2022,Longford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,23287,17.2
+2022,Longford County Council,Female,C00-C99 Malignant neoplasms,36,23086,155.9
+2022,Longford County Council,Female,I00-I99 Diseases of the circulatory system,42,23086,181.9
+2022,Longford County Council,Female,J00-J99 Diseases of the respiratory system,21,23086,91.0
+2022,Longford County Council,Female,V00-Y98 External causes of injury and poisoning,3,23086,13.0
+2022,Longford County Council,Female,F01 and F03 Dementia (types of),1,23086,4.3
+2022,Longford County Council,Female,G30 Alzheimer disease,4,23086,17.3
+2022,Longford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,23086,39.0
+2022,Louth County Council,Male,C00-C99 Malignant neoplasms,131,68461,191.3
+2022,Louth County Council,Male,I00-I99 Diseases of the circulatory system,137,68461,200.1
+2022,Louth County Council,Male,J00-J99 Diseases of the respiratory system,64,68461,93.5
+2022,Louth County Council,Male,V00-Y98 External causes of injury and poisoning,37,68461,54.0
+2022,Louth County Council,Male,F01 and F03 Dementia (types of),13,68461,19.0
+2022,Louth County Council,Male,G30 Alzheimer disease,1,68461,1.5
+2022,Louth County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),22,68461,32.1
+2022,Louth County Council,Female,C00-C99 Malignant neoplasms,125,70246,177.9
+2022,Louth County Council,Female,I00-I99 Diseases of the circulatory system,111,70246,158.0
+2022,Louth County Council,Female,J00-J99 Diseases of the respiratory system,54,70246,76.9
+2022,Louth County Council,Female,V00-Y98 External causes of injury and poisoning,25,70246,35.6
+2022,Louth County Council,Female,F01 and F03 Dementia (types of),22,70246,31.3
+2022,Louth County Council,Female,G30 Alzheimer disease,8,70246,11.4
+2022,Louth County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),32,70246,45.6
+2022,Meath County Council,Male,C00-C99 Malignant neoplasms,182,109277,166.5
+2022,Meath County Council,Male,I00-I99 Diseases of the circulatory system,136,109277,124.5
+2022,Meath County Council,Male,J00-J99 Diseases of the respiratory system,61,109277,55.8
+2022,Meath County Council,Male,V00-Y98 External causes of injury and poisoning,39,109277,35.7
+2022,Meath County Council,Male,F01 and F03 Dementia (types of),26,109277,23.8
+2022,Meath County Council,Male,G30 Alzheimer disease,5,109277,4.6
+2022,Meath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),33,109277,30.2
+2022,Meath County Council,Female,C00-C99 Malignant neoplasms,146,110027,132.7
+2022,Meath County Council,Female,I00-I99 Diseases of the circulatory system,146,110027,132.7
+2022,Meath County Council,Female,J00-J99 Diseases of the respiratory system,65,110027,59.1
+2022,Meath County Council,Female,V00-Y98 External causes of injury and poisoning,9,110027,8.2
+2022,Meath County Council,Female,F01 and F03 Dementia (types of),36,110027,32.7
+2022,Meath County Council,Female,G30 Alzheimer disease,8,110027,7.3
+2022,Meath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),23,110027,20.9
+2022,Offaly County Council,Male,C00-C99 Malignant neoplasms,107,41353,258.7
+2022,Offaly County Council,Male,I00-I99 Diseases of the circulatory system,87,41353,210.4
+2022,Offaly County Council,Male,J00-J99 Diseases of the respiratory system,32,41353,77.4
+2022,Offaly County Council,Male,V00-Y98 External causes of injury and poisoning,23,41353,55.6
+2022,Offaly County Council,Male,F01 and F03 Dementia (types of),13,41353,31.4
+2022,Offaly County Council,Male,G30 Alzheimer disease,1,41353,2.4
+2022,Offaly County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),18,41353,43.5
+2022,Offaly County Council,Female,C00-C99 Malignant neoplasms,79,41214,191.7
+2022,Offaly County Council,Female,I00-I99 Diseases of the circulatory system,93,41214,225.7
+2022,Offaly County Council,Female,J00-J99 Diseases of the respiratory system,28,41214,67.9
+2022,Offaly County Council,Female,V00-Y98 External causes of injury and poisoning,9,41214,21.8
+2022,Offaly County Council,Female,F01 and F03 Dementia (types of),34,41214,82.5
+2022,Offaly County Council,Female,G30 Alzheimer disease,5,41214,12.1
+2022,Offaly County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),14,41214,34.0
+2022,Westmeath County Council,Male,C00-C99 Malignant neoplasms,100,47388,211.0
+2022,Westmeath County Council,Male,I00-I99 Diseases of the circulatory system,108,47388,227.9
+2022,Westmeath County Council,Male,J00-J99 Diseases of the respiratory system,32,47388,67.5
+2022,Westmeath County Council,Male,V00-Y98 External causes of injury and poisoning,25,47388,52.8
+2022,Westmeath County Council,Male,F01 and F03 Dementia (types of),11,47388,23.2
+2022,Westmeath County Council,Male,G30 Alzheimer disease,5,47388,10.6
+2022,Westmeath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,47388,23.2
+2022,Westmeath County Council,Female,C00-C99 Malignant neoplasms,77,48083,160.1
+2022,Westmeath County Council,Female,I00-I99 Diseases of the circulatory system,97,48083,201.7
+2022,Westmeath County Council,Female,J00-J99 Diseases of the respiratory system,34,48083,70.7
+2022,Westmeath County Council,Female,V00-Y98 External causes of injury and poisoning,13,48083,27.0
+2022,Westmeath County Council,Female,F01 and F03 Dementia (types of),13,48083,27.0
+2022,Westmeath County Council,Female,G30 Alzheimer disease,4,48083,8.3
+2022,Westmeath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),21,48083,43.7
+2022,Wexford County Council,Male,C00-C99 Malignant neoplasms,200,80168,249.5
+2022,Wexford County Council,Male,I00-I99 Diseases of the circulatory system,228,80168,284.4
+2022,Wexford County Council,Male,J00-J99 Diseases of the respiratory system,78,80168,97.3
+2022,Wexford County Council,Male,V00-Y98 External causes of injury and poisoning,44,80168,54.9
+2022,Wexford County Council,Male,F01 and F03 Dementia (types of),34,80168,42.4
+2022,Wexford County Council,Male,G30 Alzheimer disease,4,80168,5.0
+2022,Wexford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),33,80168,41.2
+2022,Wexford County Council,Female,C00-C99 Malignant neoplasms,170,82348,206.4
+2022,Wexford County Council,Female,I00-I99 Diseases of the circulatory system,174,82348,211.3
+2022,Wexford County Council,Female,J00-J99 Diseases of the respiratory system,76,82348,92.3
+2022,Wexford County Council,Female,V00-Y98 External causes of injury and poisoning,27,82348,32.8
+2022,Wexford County Council,Female,F01 and F03 Dementia (types of),38,82348,46.1
+2022,Wexford County Council,Female,G30 Alzheimer disease,12,82348,14.6
+2022,Wexford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),25,82348,30.4
+2022,Wicklow County Council,Male,C00-C99 Malignant neoplasms,163,75826,215.0
+2022,Wicklow County Council,Male,I00-I99 Diseases of the circulatory system,155,75826,204.4
+2022,Wicklow County Council,Male,J00-J99 Diseases of the respiratory system,64,75826,84.4
+2022,Wicklow County Council,Male,V00-Y98 External causes of injury and poisoning,36,75826,47.5
+2022,Wicklow County Council,Male,F01 and F03 Dementia (types of),23,75826,30.3
+2022,Wicklow County Council,Male,G30 Alzheimer disease,1,75826,1.3
+2022,Wicklow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),21,75826,27.7
+2022,Wicklow County Council,Female,C00-C99 Malignant neoplasms,131,78162,167.6
+2022,Wicklow County Council,Female,I00-I99 Diseases of the circulatory system,132,78162,168.9
+2022,Wicklow County Council,Female,J00-J99 Diseases of the respiratory system,52,78162,66.5
+2022,Wicklow County Council,Female,V00-Y98 External causes of injury and poisoning,13,78162,16.6
+2022,Wicklow County Council,Female,F01 and F03 Dementia (types of),43,78162,55.0
+2022,Wicklow County Council,Female,G30 Alzheimer disease,10,78162,12.8
+2022,Wicklow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),18,78162,23.0
+2022,Clare County Council,Male,C00-C99 Malignant neoplasms,145,62061,233.6
+2022,Clare County Council,Male,I00-I99 Diseases of the circulatory system,138,62061,222.4
+2022,Clare County Council,Male,J00-J99 Diseases of the respiratory system,62,62061,99.9
+2022,Clare County Council,Male,V00-Y98 External causes of injury and poisoning,41,62061,66.1
+2022,Clare County Council,Male,F01 and F03 Dementia (types of),16,62061,25.8
+2022,Clare County Council,Male,G30 Alzheimer disease,1,62061,1.6
+2022,Clare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),16,62061,25.8
+2022,Clare County Council,Female,C00-C99 Malignant neoplasms,121,63921,189.3
+2022,Clare County Council,Female,I00-I99 Diseases of the circulatory system,131,63921,204.9
+2022,Clare County Council,Female,J00-J99 Diseases of the respiratory system,67,63921,104.8
+2022,Clare County Council,Female,V00-Y98 External causes of injury and poisoning,21,63921,32.9
+2022,Clare County Council,Female,F01 and F03 Dementia (types of),23,63921,36.0
+2022,Clare County Council,Female,G30 Alzheimer disease,10,63921,15.6
+2022,Clare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),13,63921,20.3
+2022,Cork City Council,Male,C00-C99 Malignant neoplasms,179,108467,165.0
+2022,Cork City Council,Male,I00-I99 Diseases of the circulatory system,188,108467,173.3
+2022,Cork City Council,Male,J00-J99 Diseases of the respiratory system,75,108467,69.1
+2022,Cork City Council,Male,V00-Y98 External causes of injury and poisoning,46,108467,42.4
+2022,Cork City Council,Male,F01 and F03 Dementia (types of),28,108467,25.8
+2022,Cork City Council,Male,G30 Alzheimer disease,6,108467,5.5
+2022,Cork City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),24,108467,22.1
+2022,Cork City Council,Female,C00-C99 Malignant neoplasms,163,112471,144.9
+2022,Cork City Council,Female,I00-I99 Diseases of the circulatory system,176,112471,156.5
+2022,Cork City Council,Female,J00-J99 Diseases of the respiratory system,72,112471,64.0
+2022,Cork City Council,Female,V00-Y98 External causes of injury and poisoning,29,112471,25.8
+2022,Cork City Council,Female,F01 and F03 Dementia (types of),53,112471,47.1
+2022,Cork City Council,Female,G30 Alzheimer disease,14,112471,12.4
+2022,Cork City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),30,112471,26.7
+2022,Cork County Council,Male,C00-C99 Malignant neoplasms,414,177395,233.4
+2022,Cork County Council,Male,I00-I99 Diseases of the circulatory system,426,177395,240.1
+2022,Cork County Council,Male,J00-J99 Diseases of the respiratory system,146,177395,82.3
+2022,Cork County Council,Male,V00-Y98 External causes of injury and poisoning,100,177395,56.4
+2022,Cork County Council,Male,F01 and F03 Dementia (types of),72,177395,40.6
+2022,Cork County Council,Male,G30 Alzheimer disease,12,177395,6.8
+2022,Cork County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),57,177395,32.1
+2022,Cork County Council,Female,C00-C99 Malignant neoplasms,335,178914,187.2
+2022,Cork County Council,Female,I00-I99 Diseases of the circulatory system,382,178914,213.5
+2022,Cork County Council,Female,J00-J99 Diseases of the respiratory system,140,178914,78.2
+2022,Cork County Council,Female,V00-Y98 External causes of injury and poisoning,41,178914,22.9
+2022,Cork County Council,Female,F01 and F03 Dementia (types of),113,178914,63.2
+2022,Cork County Council,Female,G30 Alzheimer disease,42,178914,23.5
+2022,Cork County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),56,178914,31.3
+2022,Kerry County Council,Male,C00-C99 Malignant neoplasms,202,75800,266.5
+2022,Kerry County Council,Male,I00-I99 Diseases of the circulatory system,199,75800,262.5
+2022,Kerry County Council,Male,J00-J99 Diseases of the respiratory system,67,75800,88.4
+2022,Kerry County Council,Male,V00-Y98 External causes of injury and poisoning,42,75800,55.4
+2022,Kerry County Council,Male,F01 and F03 Dementia (types of),15,75800,19.8
+2022,Kerry County Council,Male,G30 Alzheimer disease,10,75800,13.2
+2022,Kerry County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),34,75800,44.9
+2022,Kerry County Council,Female,C00-C99 Malignant neoplasms,188,76862,244.6
+2022,Kerry County Council,Female,I00-I99 Diseases of the circulatory system,183,76862,238.1
+2022,Kerry County Council,Female,J00-J99 Diseases of the respiratory system,63,76862,82.0
+2022,Kerry County Council,Female,V00-Y98 External causes of injury and poisoning,30,76862,39.0
+2022,Kerry County Council,Female,F01 and F03 Dementia (types of),43,76862,55.9
+2022,Kerry County Council,Female,G30 Alzheimer disease,24,76862,31.2
+2022,Kerry County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),31,76862,40.3
+2022,Limerick City & County Council,Male,C00-C99 Malignant neoplasms,247,103382,238.9
+2022,Limerick City & County Council,Male,I00-I99 Diseases of the circulatory system,248,103382,239.9
+2022,Limerick City & County Council,Male,J00-J99 Diseases of the respiratory system,111,103382,107.4
+2022,Limerick City & County Council,Male,V00-Y98 External causes of injury and poisoning,46,103382,44.5
+2022,Limerick City & County Council,Male,F01 and F03 Dementia (types of),29,103382,28.1
+2022,Limerick City & County Council,Male,G30 Alzheimer disease,3,103382,2.9
+2022,Limerick City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),35,103382,33.9
+2022,Limerick City & County Council,Female,C00-C99 Malignant neoplasms,202,103863,194.5
+2022,Limerick City & County Council,Female,I00-I99 Diseases of the circulatory system,172,103863,165.6
+2022,Limerick City & County Council,Female,J00-J99 Diseases of the respiratory system,103,103863,99.2
+2022,Limerick City & County Council,Female,V00-Y98 External causes of injury and poisoning,35,103863,33.7
+2022,Limerick City & County Council,Female,F01 and F03 Dementia (types of),33,103863,31.8
+2022,Limerick City & County Council,Female,G30 Alzheimer disease,11,103863,10.6
+2022,Limerick City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),39,103863,37.5
+2022,Tipperary County Council,Male,C00-C99 Malignant neoplasms,220,83081,264.8
+2022,Tipperary County Council,Male,I00-I99 Diseases of the circulatory system,206,83081,248.0
+2022,Tipperary County Council,Male,J00-J99 Diseases of the respiratory system,82,83081,98.7
+2022,Tipperary County Council,Male,V00-Y98 External causes of injury and poisoning,47,83081,56.6
+2022,Tipperary County Council,Male,F01 and F03 Dementia (types of),21,83081,25.3
+2022,Tipperary County Council,Male,G30 Alzheimer disease,4,83081,4.8
+2022,Tipperary County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),29,83081,34.9
+2022,Tipperary County Council,Female,C00-C99 Malignant neoplasms,195,83557,233.4
+2022,Tipperary County Council,Female,I00-I99 Diseases of the circulatory system,204,83557,244.1
+2022,Tipperary County Council,Female,J00-J99 Diseases of the respiratory system,75,83557,89.8
+2022,Tipperary County Council,Female,V00-Y98 External causes of injury and poisoning,16,83557,19.1
+2022,Tipperary County Council,Female,F01 and F03 Dementia (types of),48,83557,57.4
+2022,Tipperary County Council,Female,G30 Alzheimer disease,14,83557,16.8
+2022,Tipperary County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),29,83557,34.7
+2022,Waterford City & County Council,Male,C00-C99 Malignant neoplasms,167,62531,267.1
+2022,Waterford City & County Council,Male,I00-I99 Diseases of the circulatory system,135,62531,215.9
+2022,Waterford City & County Council,Male,J00-J99 Diseases of the respiratory system,41,62531,65.6
+2022,Waterford City & County Council,Male,V00-Y98 External causes of injury and poisoning,32,62531,51.2
+2022,Waterford City & County Council,Male,F01 and F03 Dementia (types of),15,62531,24.0
+2022,Waterford City & County Council,Male,G30 Alzheimer disease,5,62531,8.0
+2022,Waterford City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),21,62531,33.6
+2022,Waterford City & County Council,Female,C00-C99 Malignant neoplasms,131,63543,206.2
+2022,Waterford City & County Council,Female,I00-I99 Diseases of the circulatory system,131,63543,206.2
+2022,Waterford City & County Council,Female,J00-J99 Diseases of the respiratory system,38,63543,59.8
+2022,Waterford City & County Council,Female,V00-Y98 External causes of injury and poisoning,20,63543,31.5
+2022,Waterford City & County Council,Female,F01 and F03 Dementia (types of),27,63543,42.5
+2022,Waterford City & County Council,Female,G30 Alzheimer disease,12,63543,18.9
+2022,Waterford City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,63543,23.6
+2022,Galway City Council,Male,C00-C99 Malignant neoplasms,65,39569,164.3
+2022,Galway City Council,Male,I00-I99 Diseases of the circulatory system,52,39569,131.4
+2022,Galway City Council,Male,J00-J99 Diseases of the respiratory system,16,39569,40.4
+2022,Galway City Council,Male,V00-Y98 External causes of injury and poisoning,17,39569,43.0
+2022,Galway City Council,Male,F01 and F03 Dementia (types of),5,39569,12.6
+2022,Galway City Council,Male,G30 Alzheimer disease,5,39569,12.6
+2022,Galway City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,39569,27.8
+2022,Galway City Council,Female,C00-C99 Malignant neoplasms,87,42610,204.2
+2022,Galway City Council,Female,I00-I99 Diseases of the circulatory system,50,42610,117.3
+2022,Galway City Council,Female,J00-J99 Diseases of the respiratory system,26,42610,61.0
+2022,Galway City Council,Female,V00-Y98 External causes of injury and poisoning,13,42610,30.5
+2022,Galway City Council,Female,F01 and F03 Dementia (types of),16,42610,37.5
+2022,Galway City Council,Female,G30 Alzheimer disease,7,42610,16.4
+2022,Galway City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,42610,21.1
+2022,Galway County Council,Male,C00-C99 Malignant neoplasms,218,95649,227.9
+2022,Galway County Council,Male,I00-I99 Diseases of the circulatory system,239,95649,249.9
+2022,Galway County Council,Male,J00-J99 Diseases of the respiratory system,84,95649,87.8
+2022,Galway County Council,Male,V00-Y98 External causes of injury and poisoning,51,95649,53.3
+2022,Galway County Council,Male,F01 and F03 Dementia (types of),28,95649,29.3
+2022,Galway County Council,Male,G30 Alzheimer disease,11,95649,11.5
+2022,Galway County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),39,95649,40.8
+2022,Galway County Council,Female,C00-C99 Malignant neoplasms,173,95699,180.8
+2022,Galway County Council,Female,I00-I99 Diseases of the circulatory system,164,95699,171.4
+2022,Galway County Council,Female,J00-J99 Diseases of the respiratory system,79,95699,82.6
+2022,Galway County Council,Female,V00-Y98 External causes of injury and poisoning,22,95699,23.0
+2022,Galway County Council,Female,F01 and F03 Dementia (types of),28,95699,29.3
+2022,Galway County Council,Female,G30 Alzheimer disease,16,95699,16.7
+2022,Galway County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),38,95699,39.7
+2022,Leitrim County Council,Male,C00-C99 Malignant neoplasms,48,17352,276.6
+2022,Leitrim County Council,Male,I00-I99 Diseases of the circulatory system,47,17352,270.9
+2022,Leitrim County Council,Male,J00-J99 Diseases of the respiratory system,22,17352,126.8
+2022,Leitrim County Council,Male,V00-Y98 External causes of injury and poisoning,4,17352,23.1
+2022,Leitrim County Council,Male,F01 and F03 Dementia (types of),7,17352,40.3
+2022,Leitrim County Council,Male,G30 Alzheimer disease,2,17352,11.5
+2022,Leitrim County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,17352,34.6
+2022,Leitrim County Council,Female,C00-C99 Malignant neoplasms,43,17367,247.6
+2022,Leitrim County Council,Female,I00-I99 Diseases of the circulatory system,52,17367,299.4
+2022,Leitrim County Council,Female,J00-J99 Diseases of the respiratory system,16,17367,92.1
+2022,Leitrim County Council,Female,V00-Y98 External causes of injury and poisoning,4,17367,23.0
+2022,Leitrim County Council,Female,F01 and F03 Dementia (types of),12,17367,69.1
+2022,Leitrim County Council,Female,G30 Alzheimer disease,6,17367,34.5
+2022,Leitrim County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,17367,34.5
+2022,Mayo County Council,Male,C00-C99 Malignant neoplasms,186,67424,275.9
+2022,Mayo County Council,Male,I00-I99 Diseases of the circulatory system,217,67424,321.8
+2022,Mayo County Council,Male,J00-J99 Diseases of the respiratory system,74,67424,109.8
+2022,Mayo County Council,Male,V00-Y98 External causes of injury and poisoning,37,67424,54.9
+2022,Mayo County Council,Male,F01 and F03 Dementia (types of),16,67424,23.7
+2022,Mayo County Council,Male,G30 Alzheimer disease,5,67424,7.4
+2022,Mayo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),37,67424,54.9
+2022,Mayo County Council,Female,C00-C99 Malignant neoplasms,151,68449,220.6
+2022,Mayo County Council,Female,I00-I99 Diseases of the circulatory system,164,68449,239.6
+2022,Mayo County Council,Female,J00-J99 Diseases of the respiratory system,64,68449,93.5
+2022,Mayo County Council,Female,V00-Y98 External causes of injury and poisoning,16,68449,23.4
+2022,Mayo County Council,Female,F01 and F03 Dementia (types of),33,68449,48.2
+2022,Mayo County Council,Female,G30 Alzheimer disease,11,68449,16.1
+2022,Mayo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),41,68449,59.9
+2022,Roscommon County Council,Male,C00-C99 Malignant neoplasms,79,34847,226.7
+2022,Roscommon County Council,Male,I00-I99 Diseases of the circulatory system,88,34847,252.5
+2022,Roscommon County Council,Male,J00-J99 Diseases of the respiratory system,38,34847,109.0
+2022,Roscommon County Council,Male,V00-Y98 External causes of injury and poisoning,21,34847,60.3
+2022,Roscommon County Council,Male,F01 and F03 Dementia (types of),19,34847,54.5
+2022,Roscommon County Council,Male,G30 Alzheimer disease,3,34847,8.6
+2022,Roscommon County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,34847,31.6
+2022,Roscommon County Council,Female,C00-C99 Malignant neoplasms,86,34700,247.8
+2022,Roscommon County Council,Female,I00-I99 Diseases of the circulatory system,87,34700,250.7
+2022,Roscommon County Council,Female,J00-J99 Diseases of the respiratory system,33,34700,95.1
+2022,Roscommon County Council,Female,V00-Y98 External causes of injury and poisoning,6,34700,17.3
+2022,Roscommon County Council,Female,F01 and F03 Dementia (types of),18,34700,51.9
+2022,Roscommon County Council,Female,G30 Alzheimer disease,3,34700,8.6
+2022,Roscommon County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),14,34700,40.3
+2022,Sligo County Council,Male,C00-C99 Malignant neoplasms,92,34101,269.8
+2022,Sligo County Council,Male,I00-I99 Diseases of the circulatory system,77,34101,225.8
+2022,Sligo County Council,Male,J00-J99 Diseases of the respiratory system,33,34101,96.8
+2022,Sligo County Council,Male,V00-Y98 External causes of injury and poisoning,29,34101,85.0
+2022,Sligo County Council,Male,F01 and F03 Dementia (types of),13,34101,38.1
+2022,Sligo County Council,Male,G30 Alzheimer disease,2,34101,5.9
+2022,Sligo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),13,34101,38.1
+2022,Sligo County Council,Female,C00-C99 Malignant neoplasms,69,35124,196.4
+2022,Sligo County Council,Female,I00-I99 Diseases of the circulatory system,94,35124,267.6
+2022,Sligo County Council,Female,J00-J99 Diseases of the respiratory system,30,35124,85.4
+2022,Sligo County Council,Female,V00-Y98 External causes of injury and poisoning,11,35124,31.3
+2022,Sligo County Council,Female,F01 and F03 Dementia (types of),12,35124,34.2
+2022,Sligo County Council,Female,G30 Alzheimer disease,10,35124,28.5
+2022,Sligo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,35124,28.5
+2022,Cavan County Council,Male,C00-C99 Malignant neoplasms,100,40733,245.5
+2022,Cavan County Council,Male,I00-I99 Diseases of the circulatory system,71,40733,174.3
+2022,Cavan County Council,Male,J00-J99 Diseases of the respiratory system,26,40733,63.8
+2022,Cavan County Council,Male,V00-Y98 External causes of injury and poisoning,29,40733,71.2
+2022,Cavan County Council,Male,F01 and F03 Dementia (types of),11,40733,27.0
+2022,Cavan County Council,Male,G30 Alzheimer disease,1,40733,2.5
+2022,Cavan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),13,40733,31.9
+2022,Cavan County Council,Female,C00-C99 Malignant neoplasms,60,40238,149.1
+2022,Cavan County Council,Female,I00-I99 Diseases of the circulatory system,76,40238,188.9
+2022,Cavan County Council,Female,J00-J99 Diseases of the respiratory system,41,40238,101.9
+2022,Cavan County Council,Female,V00-Y98 External causes of injury and poisoning,6,40238,14.9
+2022,Cavan County Council,Female,F01 and F03 Dementia (types of),18,40238,44.7
+2022,Cavan County Council,Female,G30 Alzheimer disease,8,40238,19.9
+2022,Cavan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,40238,22.4
+2022,Donegal County Council,Male,C00-C99 Malignant neoplasms,233,81601,285.5
+2022,Donegal County Council,Male,I00-I99 Diseases of the circulatory system,195,81601,239.0
+2022,Donegal County Council,Male,J00-J99 Diseases of the respiratory system,58,81601,71.1
+2022,Donegal County Council,Male,V00-Y98 External causes of injury and poisoning,33,81601,40.4
+2022,Donegal County Council,Male,F01 and F03 Dementia (types of),43,81601,52.7
+2022,Donegal County Council,Male,G30 Alzheimer disease,10,81601,12.3
+2022,Donegal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),35,81601,42.9
+2022,Donegal County Council,Female,C00-C99 Malignant neoplasms,163,82972,196.5
+2022,Donegal County Council,Female,I00-I99 Diseases of the circulatory system,151,82972,182.0
+2022,Donegal County Council,Female,J00-J99 Diseases of the respiratory system,74,82972,89.2
+2022,Donegal County Council,Female,V00-Y98 External causes of injury and poisoning,15,82972,18.1
+2022,Donegal County Council,Female,F01 and F03 Dementia (types of),57,82972,68.7
+2022,Donegal County Council,Female,G30 Alzheimer disease,16,82972,19.3
+2022,Donegal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),25,82972,30.1
+2022,Monaghan County Council,Male,C00-C99 Malignant neoplasms,57,32592,174.9
+2022,Monaghan County Council,Male,I00-I99 Diseases of the circulatory system,80,32592,245.5
+2022,Monaghan County Council,Male,J00-J99 Diseases of the respiratory system,25,32592,76.7
+2022,Monaghan County Council,Male,V00-Y98 External causes of injury and poisoning,13,32592,39.9
+2022,Monaghan County Council,Male,F01 and F03 Dementia (types of),3,32592,9.2
+2022,Monaghan County Council,Male,G30 Alzheimer disease,2,32592,6.1
+2022,Monaghan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),7,32592,21.5
+2022,Monaghan County Council,Female,C00-C99 Malignant neoplasms,69,32024,215.5
+2022,Monaghan County Council,Female,I00-I99 Diseases of the circulatory system,59,32024,184.2
+2022,Monaghan County Council,Female,J00-J99 Diseases of the respiratory system,27,32024,84.3
+2022,Monaghan County Council,Female,V00-Y98 External causes of injury and poisoning,6,32024,18.7
+2022,Monaghan County Council,Female,F01 and F03 Dementia (types of),5,32024,15.6
+2022,Monaghan County Council,Female,G30 Alzheimer disease,2,32024,6.2
+2022,Monaghan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,32024,31.2
+2023,Carlow County Council,Male,C00-C99 Malignant neoplasms,66,30581,215.8
+2023,Carlow County Council,Male,I00-I99 Diseases of the circulatory system,67,30581,219.1
+2023,Carlow County Council,Male,J00-J99 Diseases of the respiratory system,24,30581,78.5
+2023,Carlow County Council,Male,V00-Y98 External causes of injury and poisoning,12,30581,39.2
+2023,Carlow County Council,Male,F01 and F03 Dementia (types of),8,30581,26.2
+2023,Carlow County Council,Male,G30 Alzheimer disease,,30581,
+2023,Carlow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,30581,16.4
+2023,Carlow County Council,Female,C00-C99 Malignant neoplasms,57,30842,184.8
+2023,Carlow County Council,Female,I00-I99 Diseases of the circulatory system,61,30842,197.8
+2023,Carlow County Council,Female,J00-J99 Diseases of the respiratory system,25,30842,81.1
+2023,Carlow County Council,Female,V00-Y98 External causes of injury and poisoning,2,30842,6.5
+2023,Carlow County Council,Female,F01 and F03 Dementia (types of),18,30842,58.4
+2023,Carlow County Council,Female,G30 Alzheimer disease,5,30842,16.2
+2023,Carlow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,30842,9.7
+2023,Dublin City Council,Male,C00-C99 Malignant neoplasms,624,286174,218.0
+2023,Dublin City Council,Male,I00-I99 Diseases of the circulatory system,610,286174,213.2
+2023,Dublin City Council,Male,J00-J99 Diseases of the respiratory system,250,286174,87.4
+2023,Dublin City Council,Male,V00-Y98 External causes of injury and poisoning,144,286174,50.3
+2023,Dublin City Council,Male,F01 and F03 Dementia (types of),123,286174,43.0
+2023,Dublin City Council,Male,G30 Alzheimer disease,23,286174,8.0
+2023,Dublin City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),27,286174,9.4
+2023,Dublin City Council,Female,C00-C99 Malignant neoplasms,569,294063,193.5
+2023,Dublin City Council,Female,I00-I99 Diseases of the circulatory system,680,294063,231.2
+2023,Dublin City Council,Female,J00-J99 Diseases of the respiratory system,306,294063,104.1
+2023,Dublin City Council,Female,V00-Y98 External causes of injury and poisoning,84,294063,28.6
+2023,Dublin City Council,Female,F01 and F03 Dementia (types of),254,294063,86.4
+2023,Dublin City Council,Female,G30 Alzheimer disease,35,294063,11.9
+2023,Dublin City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),26,294063,8.8
+2023,South Dublin County Council,Male,C00-C99 Malignant neoplasms,257,145631,176.5
+2023,South Dublin County Council,Male,I00-I99 Diseases of the circulatory system,242,145631,166.2
+2023,South Dublin County Council,Male,J00-J99 Diseases of the respiratory system,102,145631,70.0
+2023,South Dublin County Council,Male,V00-Y98 External causes of injury and poisoning,57,145631,39.1
+2023,South Dublin County Council,Male,F01 and F03 Dementia (types of),35,145631,24.0
+2023,South Dublin County Council,Male,G30 Alzheimer disease,13,145631,8.9
+2023,South Dublin County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,145631,7.6
+2023,South Dublin County Council,Female,C00-C99 Malignant neoplasms,243,152473,159.4
+2023,South Dublin County Council,Female,I00-I99 Diseases of the circulatory system,200,152473,131.2
+2023,South Dublin County Council,Female,J00-J99 Diseases of the respiratory system,79,152473,51.8
+2023,South Dublin County Council,Female,V00-Y98 External causes of injury and poisoning,37,152473,24.3
+2023,South Dublin County Council,Female,F01 and F03 Dementia (types of),50,152473,32.8
+2023,South Dublin County Council,Female,G30 Alzheimer disease,22,152473,14.4
+2023,South Dublin County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,152473,5.9
+2023,Fingal County Council,Male,C00-C99 Malignant neoplasms,215,161091,133.5
+2023,Fingal County Council,Male,I00-I99 Diseases of the circulatory system,173,161091,107.4
+2023,Fingal County Council,Male,J00-J99 Diseases of the respiratory system,65,161091,40.3
+2023,Fingal County Council,Male,V00-Y98 External causes of injury and poisoning,47,161091,29.2
+2023,Fingal County Council,Male,F01 and F03 Dementia (types of),46,161091,28.6
+2023,Fingal County Council,Male,G30 Alzheimer disease,7,161091,4.3
+2023,Fingal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,161091,9.3
+2023,Fingal County Council,Female,C00-C99 Malignant neoplasms,232,166190,139.6
+2023,Fingal County Council,Female,I00-I99 Diseases of the circulatory system,159,166190,95.7
+2023,Fingal County Council,Female,J00-J99 Diseases of the respiratory system,81,166190,48.7
+2023,Fingal County Council,Female,V00-Y98 External causes of injury and poisoning,25,166190,15.0
+2023,Fingal County Council,Female,F01 and F03 Dementia (types of),70,166190,42.1
+2023,Fingal County Council,Female,G30 Alzheimer disease,4,166190,2.4
+2023,Fingal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,166190,7.2
+2023,Dún Laoghaire Rathdown County Council,Male,C00-C99 Malignant neoplasms,245,110352,222.0
+2023,Dún Laoghaire Rathdown County Council,Male,I00-I99 Diseases of the circulatory system,238,110352,215.7
+2023,Dún Laoghaire Rathdown County Council,Male,J00-J99 Diseases of the respiratory system,75,110352,68.0
+2023,Dún Laoghaire Rathdown County Council,Male,V00-Y98 External causes of injury and poisoning,45,110352,40.8
+2023,Dún Laoghaire Rathdown County Council,Male,F01 and F03 Dementia (types of),48,110352,43.5
+2023,Dún Laoghaire Rathdown County Council,Male,G30 Alzheimer disease,10,110352,9.1
+2023,Dún Laoghaire Rathdown County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),21,110352,19.0
+2023,Dún Laoghaire Rathdown County Council,Female,C00-C99 Malignant neoplasms,220,119475,184.1
+2023,Dún Laoghaire Rathdown County Council,Female,I00-I99 Diseases of the circulatory system,263,119475,220.1
+2023,Dún Laoghaire Rathdown County Council,Female,J00-J99 Diseases of the respiratory system,99,119475,82.9
+2023,Dún Laoghaire Rathdown County Council,Female,V00-Y98 External causes of injury and poisoning,32,119475,26.8
+2023,Dún Laoghaire Rathdown County Council,Female,F01 and F03 Dementia (types of),79,119475,66.1
+2023,Dún Laoghaire Rathdown County Council,Female,G30 Alzheimer disease,14,119475,11.7
+2023,Dún Laoghaire Rathdown County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),19,119475,15.9
+2023,Kildare County Council,Male,C00-C99 Malignant neoplasms,195,122372,159.4
+2023,Kildare County Council,Male,I00-I99 Diseases of the circulatory system,177,122372,144.6
+2023,Kildare County Council,Male,J00-J99 Diseases of the respiratory system,68,122372,55.6
+2023,Kildare County Council,Male,V00-Y98 External causes of injury and poisoning,45,122372,36.8
+2023,Kildare County Council,Male,F01 and F03 Dementia (types of),32,122372,26.1
+2023,Kildare County Council,Male,G30 Alzheimer disease,8,122372,6.5
+2023,Kildare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),13,122372,10.6
+2023,Kildare County Council,Female,C00-C99 Malignant neoplasms,172,123490,139.3
+2023,Kildare County Council,Female,I00-I99 Diseases of the circulatory system,148,123490,119.8
+2023,Kildare County Council,Female,J00-J99 Diseases of the respiratory system,59,123490,47.8
+2023,Kildare County Council,Female,V00-Y98 External causes of injury and poisoning,12,123490,9.7
+2023,Kildare County Council,Female,F01 and F03 Dementia (types of),34,123490,27.5
+2023,Kildare County Council,Female,G30 Alzheimer disease,13,123490,10.5
+2023,Kildare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),14,123490,11.3
+2023,Kilkenny County Council,Male,C00-C99 Malignant neoplasms,127,51424,247.0
+2023,Kilkenny County Council,Male,I00-I99 Diseases of the circulatory system,118,51424,229.5
+2023,Kilkenny County Council,Male,J00-J99 Diseases of the respiratory system,47,51424,91.4
+2023,Kilkenny County Council,Male,V00-Y98 External causes of injury and poisoning,21,51424,40.8
+2023,Kilkenny County Council,Male,F01 and F03 Dementia (types of),20,51424,38.9
+2023,Kilkenny County Council,Male,G30 Alzheimer disease,5,51424,9.7
+2023,Kilkenny County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),7,51424,13.6
+2023,Kilkenny County Council,Female,C00-C99 Malignant neoplasms,107,51612,207.3
+2023,Kilkenny County Council,Female,I00-I99 Diseases of the circulatory system,86,51612,166.6
+2023,Kilkenny County Council,Female,J00-J99 Diseases of the respiratory system,38,51612,73.6
+2023,Kilkenny County Council,Female,V00-Y98 External causes of injury and poisoning,7,51612,13.6
+2023,Kilkenny County Council,Female,F01 and F03 Dementia (types of),42,51612,81.4
+2023,Kilkenny County Council,Female,G30 Alzheimer disease,6,51612,11.6
+2023,Kilkenny County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,51612,11.6
+2023,Laois County Council,Male,C00-C99 Malignant neoplasms,79,45984,171.8
+2023,Laois County Council,Male,I00-I99 Diseases of the circulatory system,71,45984,154.4
+2023,Laois County Council,Male,J00-J99 Diseases of the respiratory system,19,45984,41.3
+2023,Laois County Council,Male,V00-Y98 External causes of injury and poisoning,14,45984,30.4
+2023,Laois County Council,Male,F01 and F03 Dementia (types of),11,45984,23.9
+2023,Laois County Council,Male,G30 Alzheimer disease,2,45984,4.3
+2023,Laois County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,45984,4.3
+2023,Laois County Council,Female,C00-C99 Malignant neoplasms,82,45300,181.0
+2023,Laois County Council,Female,I00-I99 Diseases of the circulatory system,59,45300,130.2
+2023,Laois County Council,Female,J00-J99 Diseases of the respiratory system,29,45300,64.0
+2023,Laois County Council,Female,V00-Y98 External causes of injury and poisoning,8,45300,17.7
+2023,Laois County Council,Female,F01 and F03 Dementia (types of),16,45300,35.3
+2023,Laois County Council,Female,G30 Alzheimer disease,2,45300,4.4
+2023,Laois County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,45300,11.0
+2023,Longford County Council,Male,C00-C99 Malignant neoplasms,52,23287,223.3
+2023,Longford County Council,Male,I00-I99 Diseases of the circulatory system,54,23287,231.9
+2023,Longford County Council,Male,J00-J99 Diseases of the respiratory system,22,23287,94.5
+2023,Longford County Council,Male,V00-Y98 External causes of injury and poisoning,15,23287,64.4
+2023,Longford County Council,Male,F01 and F03 Dementia (types of),7,23287,30.1
+2023,Longford County Council,Male,G30 Alzheimer disease,2,23287,8.6
+2023,Longford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,23287,17.2
+2023,Longford County Council,Female,C00-C99 Malignant neoplasms,44,23086,190.6
+2023,Longford County Council,Female,I00-I99 Diseases of the circulatory system,41,23086,177.6
+2023,Longford County Council,Female,J00-J99 Diseases of the respiratory system,23,23086,99.6
+2023,Longford County Council,Female,V00-Y98 External causes of injury and poisoning,6,23086,26.0
+2023,Longford County Council,Female,F01 and F03 Dementia (types of),7,23086,30.3
+2023,Longford County Council,Female,G30 Alzheimer disease,6,23086,26.0
+2023,Longford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,23086,21.7
+2023,Louth County Council,Male,C00-C99 Malignant neoplasms,184,68461,268.8
+2023,Louth County Council,Male,I00-I99 Diseases of the circulatory system,147,68461,214.7
+2023,Louth County Council,Male,J00-J99 Diseases of the respiratory system,54,68461,78.9
+2023,Louth County Council,Male,V00-Y98 External causes of injury and poisoning,49,68461,71.6
+2023,Louth County Council,Male,F01 and F03 Dementia (types of),9,68461,13.1
+2023,Louth County Council,Male,G30 Alzheimer disease,6,68461,8.8
+2023,Louth County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,68461,7.3
+2023,Louth County Council,Female,C00-C99 Malignant neoplasms,144,70246,205.0
+2023,Louth County Council,Female,I00-I99 Diseases of the circulatory system,100,70246,142.4
+2023,Louth County Council,Female,J00-J99 Diseases of the respiratory system,56,70246,79.7
+2023,Louth County Council,Female,V00-Y98 External causes of injury and poisoning,18,70246,25.6
+2023,Louth County Council,Female,F01 and F03 Dementia (types of),26,70246,37.0
+2023,Louth County Council,Female,G30 Alzheimer disease,10,70246,14.2
+2023,Louth County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),8,70246,11.4
+2023,Meath County Council,Male,C00-C99 Malignant neoplasms,182,109277,166.5
+2023,Meath County Council,Male,I00-I99 Diseases of the circulatory system,173,109277,158.3
+2023,Meath County Council,Male,J00-J99 Diseases of the respiratory system,59,109277,54.0
+2023,Meath County Council,Male,V00-Y98 External causes of injury and poisoning,37,109277,33.9
+2023,Meath County Council,Male,F01 and F03 Dementia (types of),20,109277,18.3
+2023,Meath County Council,Male,G30 Alzheimer disease,5,109277,4.6
+2023,Meath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,109277,8.2
+2023,Meath County Council,Female,C00-C99 Malignant neoplasms,143,110027,130.0
+2023,Meath County Council,Female,I00-I99 Diseases of the circulatory system,121,110027,110.0
+2023,Meath County Council,Female,J00-J99 Diseases of the respiratory system,78,110027,70.9
+2023,Meath County Council,Female,V00-Y98 External causes of injury and poisoning,21,110027,19.1
+2023,Meath County Council,Female,F01 and F03 Dementia (types of),29,110027,26.4
+2023,Meath County Council,Female,G30 Alzheimer disease,13,110027,11.8
+2023,Meath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,110027,9.1
+2023,Offaly County Council,Male,C00-C99 Malignant neoplasms,88,41353,212.8
+2023,Offaly County Council,Male,I00-I99 Diseases of the circulatory system,88,41353,212.8
+2023,Offaly County Council,Male,J00-J99 Diseases of the respiratory system,44,41353,106.4
+2023,Offaly County Council,Male,V00-Y98 External causes of injury and poisoning,17,41353,41.1
+2023,Offaly County Council,Male,F01 and F03 Dementia (types of),10,41353,24.2
+2023,Offaly County Council,Male,G30 Alzheimer disease,1,41353,2.4
+2023,Offaly County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,41353,14.5
+2023,Offaly County Council,Female,C00-C99 Malignant neoplasms,84,41214,203.8
+2023,Offaly County Council,Female,I00-I99 Diseases of the circulatory system,61,41214,148.0
+2023,Offaly County Council,Female,J00-J99 Diseases of the respiratory system,43,41214,104.3
+2023,Offaly County Council,Female,V00-Y98 External causes of injury and poisoning,7,41214,17.0
+2023,Offaly County Council,Female,F01 and F03 Dementia (types of),23,41214,55.8
+2023,Offaly County Council,Female,G30 Alzheimer disease,1,41214,2.4
+2023,Offaly County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),7,41214,17.0
+2023,Westmeath County Council,Male,C00-C99 Malignant neoplasms,103,47388,217.4
+2023,Westmeath County Council,Male,I00-I99 Diseases of the circulatory system,86,47388,181.5
+2023,Westmeath County Council,Male,J00-J99 Diseases of the respiratory system,42,47388,88.6
+2023,Westmeath County Council,Male,V00-Y98 External causes of injury and poisoning,29,47388,61.2
+2023,Westmeath County Council,Male,F01 and F03 Dementia (types of),11,47388,23.2
+2023,Westmeath County Council,Male,G30 Alzheimer disease,5,47388,10.6
+2023,Westmeath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),7,47388,14.8
+2023,Westmeath County Council,Female,C00-C99 Malignant neoplasms,82,48083,170.5
+2023,Westmeath County Council,Female,I00-I99 Diseases of the circulatory system,85,48083,176.8
+2023,Westmeath County Council,Female,J00-J99 Diseases of the respiratory system,48,48083,99.8
+2023,Westmeath County Council,Female,V00-Y98 External causes of injury and poisoning,11,48083,22.9
+2023,Westmeath County Council,Female,F01 and F03 Dementia (types of),19,48083,39.5
+2023,Westmeath County Council,Female,G30 Alzheimer disease,6,48083,12.5
+2023,Westmeath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,48083,18.7
+2023,Wexford County Council,Male,C00-C99 Malignant neoplasms,223,80168,278.2
+2023,Wexford County Council,Male,I00-I99 Diseases of the circulatory system,195,80168,243.2
+2023,Wexford County Council,Male,J00-J99 Diseases of the respiratory system,69,80168,86.1
+2023,Wexford County Council,Male,V00-Y98 External causes of injury and poisoning,52,80168,64.9
+2023,Wexford County Council,Male,F01 and F03 Dementia (types of),15,80168,18.7
+2023,Wexford County Council,Male,G30 Alzheimer disease,1,80168,1.2
+2023,Wexford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),16,80168,20.0
+2023,Wexford County Council,Female,C00-C99 Malignant neoplasms,167,82348,202.8
+2023,Wexford County Council,Female,I00-I99 Diseases of the circulatory system,170,82348,206.4
+2023,Wexford County Council,Female,J00-J99 Diseases of the respiratory system,74,82348,89.9
+2023,Wexford County Council,Female,V00-Y98 External causes of injury and poisoning,16,82348,19.4
+2023,Wexford County Council,Female,F01 and F03 Dementia (types of),34,82348,41.3
+2023,Wexford County Council,Female,G30 Alzheimer disease,6,82348,7.3
+2023,Wexford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),11,82348,13.4
+2023,Wicklow County Council,Male,C00-C99 Malignant neoplasms,158,75826,208.4
+2023,Wicklow County Council,Male,I00-I99 Diseases of the circulatory system,145,75826,191.2
+2023,Wicklow County Council,Male,J00-J99 Diseases of the respiratory system,58,75826,76.5
+2023,Wicklow County Council,Male,V00-Y98 External causes of injury and poisoning,26,75826,34.3
+2023,Wicklow County Council,Male,F01 and F03 Dementia (types of),34,75826,44.8
+2023,Wicklow County Council,Male,G30 Alzheimer disease,5,75826,6.6
+2023,Wicklow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,75826,11.9
+2023,Wicklow County Council,Female,C00-C99 Malignant neoplasms,160,78162,204.7
+2023,Wicklow County Council,Female,I00-I99 Diseases of the circulatory system,97,78162,124.1
+2023,Wicklow County Council,Female,J00-J99 Diseases of the respiratory system,65,78162,83.2
+2023,Wicklow County Council,Female,V00-Y98 External causes of injury and poisoning,15,78162,19.2
+2023,Wicklow County Council,Female,F01 and F03 Dementia (types of),32,78162,40.9
+2023,Wicklow County Council,Female,G30 Alzheimer disease,10,78162,12.8
+2023,Wicklow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,78162,12.8
+2023,Clare County Council,Male,C00-C99 Malignant neoplasms,141,62061,227.2
+2023,Clare County Council,Male,I00-I99 Diseases of the circulatory system,148,62061,238.5
+2023,Clare County Council,Male,J00-J99 Diseases of the respiratory system,66,62061,106.3
+2023,Clare County Council,Male,V00-Y98 External causes of injury and poisoning,41,62061,66.1
+2023,Clare County Council,Male,F01 and F03 Dementia (types of),20,62061,32.2
+2023,Clare County Council,Male,G30 Alzheimer disease,4,62061,6.4
+2023,Clare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,62061,14.5
+2023,Clare County Council,Female,C00-C99 Malignant neoplasms,134,63921,209.6
+2023,Clare County Council,Female,I00-I99 Diseases of the circulatory system,131,63921,204.9
+2023,Clare County Council,Female,J00-J99 Diseases of the respiratory system,56,63921,87.6
+2023,Clare County Council,Female,V00-Y98 External causes of injury and poisoning,20,63921,31.3
+2023,Clare County Council,Female,F01 and F03 Dementia (types of),22,63921,34.4
+2023,Clare County Council,Female,G30 Alzheimer disease,3,63921,4.7
+2023,Clare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,63921,14.1
+2023,Cork City Council,Male,C00-C99 Malignant neoplasms,184,108467,169.6
+2023,Cork City Council,Male,I00-I99 Diseases of the circulatory system,191,108467,176.1
+2023,Cork City Council,Male,J00-J99 Diseases of the respiratory system,70,108467,64.5
+2023,Cork City Council,Male,V00-Y98 External causes of injury and poisoning,63,108467,58.1
+2023,Cork City Council,Male,F01 and F03 Dementia (types of),31,108467,28.6
+2023,Cork City Council,Male,G30 Alzheimer disease,5,108467,4.6
+2023,Cork City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),14,108467,12.9
+2023,Cork City Council,Female,C00-C99 Malignant neoplasms,164,112471,145.8
+2023,Cork City Council,Female,I00-I99 Diseases of the circulatory system,225,112471,200.1
+2023,Cork City Council,Female,J00-J99 Diseases of the respiratory system,74,112471,65.8
+2023,Cork City Council,Female,V00-Y98 External causes of injury and poisoning,32,112471,28.5
+2023,Cork City Council,Female,F01 and F03 Dementia (types of),55,112471,48.9
+2023,Cork City Council,Female,G30 Alzheimer disease,12,112471,10.7
+2023,Cork City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,112471,10.7
+2023,Cork County Council,Male,C00-C99 Malignant neoplasms,444,177395,250.3
+2023,Cork County Council,Male,I00-I99 Diseases of the circulatory system,441,177395,248.6
+2023,Cork County Council,Male,J00-J99 Diseases of the respiratory system,184,177395,103.7
+2023,Cork County Council,Male,V00-Y98 External causes of injury and poisoning,106,177395,59.8
+2023,Cork County Council,Male,F01 and F03 Dementia (types of),67,177395,37.8
+2023,Cork County Council,Male,G30 Alzheimer disease,18,177395,10.1
+2023,Cork County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),38,177395,21.4
+2023,Cork County Council,Female,C00-C99 Malignant neoplasms,374,178914,209.0
+2023,Cork County Council,Female,I00-I99 Diseases of the circulatory system,344,178914,192.3
+2023,Cork County Council,Female,J00-J99 Diseases of the respiratory system,148,178914,82.7
+2023,Cork County Council,Female,V00-Y98 External causes of injury and poisoning,47,178914,26.3
+2023,Cork County Council,Female,F01 and F03 Dementia (types of),111,178914,62.0
+2023,Cork County Council,Female,G30 Alzheimer disease,43,178914,24.0
+2023,Cork County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),26,178914,14.5
+2023,Kerry County Council,Male,C00-C99 Malignant neoplasms,188,75800,248.0
+2023,Kerry County Council,Male,I00-I99 Diseases of the circulatory system,212,75800,279.7
+2023,Kerry County Council,Male,J00-J99 Diseases of the respiratory system,86,75800,113.5
+2023,Kerry County Council,Male,V00-Y98 External causes of injury and poisoning,31,75800,40.9
+2023,Kerry County Council,Male,F01 and F03 Dementia (types of),21,75800,27.7
+2023,Kerry County Council,Male,G30 Alzheimer disease,6,75800,7.9
+2023,Kerry County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),18,75800,23.7
+2023,Kerry County Council,Female,C00-C99 Malignant neoplasms,166,76862,216.0
+2023,Kerry County Council,Female,I00-I99 Diseases of the circulatory system,153,76862,199.1
+2023,Kerry County Council,Female,J00-J99 Diseases of the respiratory system,69,76862,89.8
+2023,Kerry County Council,Female,V00-Y98 External causes of injury and poisoning,15,76862,19.5
+2023,Kerry County Council,Female,F01 and F03 Dementia (types of),32,76862,41.6
+2023,Kerry County Council,Female,G30 Alzheimer disease,19,76862,24.7
+2023,Kerry County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),13,76862,16.9
+2023,Limerick City & County Council,Male,C00-C99 Malignant neoplasms,234,103382,226.3
+2023,Limerick City & County Council,Male,I00-I99 Diseases of the circulatory system,214,103382,207.0
+2023,Limerick City & County Council,Male,J00-J99 Diseases of the respiratory system,104,103382,100.6
+2023,Limerick City & County Council,Male,V00-Y98 External causes of injury and poisoning,61,103382,59.0
+2023,Limerick City & County Council,Male,F01 and F03 Dementia (types of),32,103382,31.0
+2023,Limerick City & County Council,Male,G30 Alzheimer disease,8,103382,7.7
+2023,Limerick City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),20,103382,19.3
+2023,Limerick City & County Council,Female,C00-C99 Malignant neoplasms,206,103863,198.3
+2023,Limerick City & County Council,Female,I00-I99 Diseases of the circulatory system,178,103863,171.4
+2023,Limerick City & County Council,Female,J00-J99 Diseases of the respiratory system,111,103863,106.9
+2023,Limerick City & County Council,Female,V00-Y98 External causes of injury and poisoning,39,103863,37.5
+2023,Limerick City & County Council,Female,F01 and F03 Dementia (types of),58,103863,55.8
+2023,Limerick City & County Council,Female,G30 Alzheimer disease,13,103863,12.5
+2023,Limerick City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),20,103863,19.3
+2023,Tipperary County Council,Male,C00-C99 Malignant neoplasms,221,83081,266.0
+2023,Tipperary County Council,Male,I00-I99 Diseases of the circulatory system,197,83081,237.1
+2023,Tipperary County Council,Male,J00-J99 Diseases of the respiratory system,87,83081,104.7
+2023,Tipperary County Council,Male,V00-Y98 External causes of injury and poisoning,41,83081,49.3
+2023,Tipperary County Council,Male,F01 and F03 Dementia (types of),34,83081,40.9
+2023,Tipperary County Council,Male,G30 Alzheimer disease,7,83081,8.4
+2023,Tipperary County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,83081,14.4
+2023,Tipperary County Council,Female,C00-C99 Malignant neoplasms,188,83557,225.0
+2023,Tipperary County Council,Female,I00-I99 Diseases of the circulatory system,171,83557,204.7
+2023,Tipperary County Council,Female,J00-J99 Diseases of the respiratory system,83,83557,99.3
+2023,Tipperary County Council,Female,V00-Y98 External causes of injury and poisoning,26,83557,31.1
+2023,Tipperary County Council,Female,F01 and F03 Dementia (types of),53,83557,63.4
+2023,Tipperary County Council,Female,G30 Alzheimer disease,13,83557,15.6
+2023,Tipperary County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),14,83557,16.8
+2023,Waterford City & County Council,Male,C00-C99 Malignant neoplasms,158,62531,252.7
+2023,Waterford City & County Council,Male,I00-I99 Diseases of the circulatory system,157,62531,251.1
+2023,Waterford City & County Council,Male,J00-J99 Diseases of the respiratory system,45,62531,72.0
+2023,Waterford City & County Council,Male,V00-Y98 External causes of injury and poisoning,32,62531,51.2
+2023,Waterford City & County Council,Male,F01 and F03 Dementia (types of),16,62531,25.6
+2023,Waterford City & County Council,Male,G30 Alzheimer disease,6,62531,9.6
+2023,Waterford City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,62531,19.2
+2023,Waterford City & County Council,Female,C00-C99 Malignant neoplasms,153,63543,240.8
+2023,Waterford City & County Council,Female,I00-I99 Diseases of the circulatory system,128,63543,201.4
+2023,Waterford City & County Council,Female,J00-J99 Diseases of the respiratory system,44,63543,69.2
+2023,Waterford City & County Council,Female,V00-Y98 External causes of injury and poisoning,22,63543,34.6
+2023,Waterford City & County Council,Female,F01 and F03 Dementia (types of),38,63543,59.8
+2023,Waterford City & County Council,Female,G30 Alzheimer disease,17,63543,26.8
+2023,Waterford City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,63543,18.9
+2023,Galway City Council,Male,C00-C99 Malignant neoplasms,66,39569,166.8
+2023,Galway City Council,Male,I00-I99 Diseases of the circulatory system,81,39569,204.7
+2023,Galway City Council,Male,J00-J99 Diseases of the respiratory system,29,39569,73.3
+2023,Galway City Council,Male,V00-Y98 External causes of injury and poisoning,18,39569,45.5
+2023,Galway City Council,Male,F01 and F03 Dementia (types of),14,39569,35.4
+2023,Galway City Council,Male,G30 Alzheimer disease,2,39569,5.1
+2023,Galway City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),8,39569,20.2
+2023,Galway City Council,Female,C00-C99 Malignant neoplasms,58,42610,136.1
+2023,Galway City Council,Female,I00-I99 Diseases of the circulatory system,51,42610,119.7
+2023,Galway City Council,Female,J00-J99 Diseases of the respiratory system,24,42610,56.3
+2023,Galway City Council,Female,V00-Y98 External causes of injury and poisoning,10,42610,23.5
+2023,Galway City Council,Female,F01 and F03 Dementia (types of),11,42610,25.8
+2023,Galway City Council,Female,G30 Alzheimer disease,7,42610,16.4
+2023,Galway City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,42610,9.4
+2023,Galway County Council,Male,C00-C99 Malignant neoplasms,215,95649,224.8
+2023,Galway County Council,Male,I00-I99 Diseases of the circulatory system,221,95649,231.1
+2023,Galway County Council,Male,J00-J99 Diseases of the respiratory system,75,95649,78.4
+2023,Galway County Council,Male,V00-Y98 External causes of injury and poisoning,46,95649,48.1
+2023,Galway County Council,Male,F01 and F03 Dementia (types of),26,95649,27.2
+2023,Galway County Council,Male,G30 Alzheimer disease,10,95649,10.5
+2023,Galway County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,95649,9.4
+2023,Galway County Council,Female,C00-C99 Malignant neoplasms,174,95699,181.8
+2023,Galway County Council,Female,I00-I99 Diseases of the circulatory system,170,95699,177.6
+2023,Galway County Council,Female,J00-J99 Diseases of the respiratory system,72,95699,75.2
+2023,Galway County Council,Female,V00-Y98 External causes of injury and poisoning,16,95699,16.7
+2023,Galway County Council,Female,F01 and F03 Dementia (types of),49,95699,51.2
+2023,Galway County Council,Female,G30 Alzheimer disease,23,95699,24.0
+2023,Galway County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,95699,15.7
+2023,Leitrim County Council,Male,C00-C99 Malignant neoplasms,49,17352,282.4
+2023,Leitrim County Council,Male,I00-I99 Diseases of the circulatory system,52,17352,299.7
+2023,Leitrim County Council,Male,J00-J99 Diseases of the respiratory system,24,17352,138.3
+2023,Leitrim County Council,Male,V00-Y98 External causes of injury and poisoning,11,17352,63.4
+2023,Leitrim County Council,Male,F01 and F03 Dementia (types of),10,17352,57.6
+2023,Leitrim County Council,Male,G30 Alzheimer disease,3,17352,17.3
+2023,Leitrim County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,17352,11.5
+2023,Leitrim County Council,Female,C00-C99 Malignant neoplasms,33,17367,190.0
+2023,Leitrim County Council,Female,I00-I99 Diseases of the circulatory system,52,17367,299.4
+2023,Leitrim County Council,Female,J00-J99 Diseases of the respiratory system,19,17367,109.4
+2023,Leitrim County Council,Female,V00-Y98 External causes of injury and poisoning,8,17367,46.1
+2023,Leitrim County Council,Female,F01 and F03 Dementia (types of),6,17367,34.5
+2023,Leitrim County Council,Female,G30 Alzheimer disease,1,17367,5.8
+2023,Leitrim County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,17367,17.3
+2023,Mayo County Council,Male,C00-C99 Malignant neoplasms,178,67424,264.0
+2023,Mayo County Council,Male,I00-I99 Diseases of the circulatory system,196,67424,290.7
+2023,Mayo County Council,Male,J00-J99 Diseases of the respiratory system,79,67424,117.2
+2023,Mayo County Council,Male,V00-Y98 External causes of injury and poisoning,43,67424,63.8
+2023,Mayo County Council,Male,F01 and F03 Dementia (types of),29,67424,43.0
+2023,Mayo County Council,Male,G30 Alzheimer disease,5,67424,7.4
+2023,Mayo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),18,67424,26.7
+2023,Mayo County Council,Female,C00-C99 Malignant neoplasms,152,68449,222.1
+2023,Mayo County Council,Female,I00-I99 Diseases of the circulatory system,152,68449,222.1
+2023,Mayo County Council,Female,J00-J99 Diseases of the respiratory system,63,68449,92.0
+2023,Mayo County Council,Female,V00-Y98 External causes of injury and poisoning,15,68449,21.9
+2023,Mayo County Council,Female,F01 and F03 Dementia (types of),40,68449,58.4
+2023,Mayo County Council,Female,G30 Alzheimer disease,14,68449,20.5
+2023,Mayo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),15,68449,21.9
+2023,Roscommon County Council,Male,C00-C99 Malignant neoplasms,95,34847,272.6
+2023,Roscommon County Council,Male,I00-I99 Diseases of the circulatory system,111,34847,318.5
+2023,Roscommon County Council,Male,J00-J99 Diseases of the respiratory system,42,34847,120.5
+2023,Roscommon County Council,Male,V00-Y98 External causes of injury and poisoning,13,34847,37.3
+2023,Roscommon County Council,Male,F01 and F03 Dementia (types of),10,34847,28.7
+2023,Roscommon County Council,Male,G30 Alzheimer disease,,34847,
+2023,Roscommon County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,34847,8.6
+2023,Roscommon County Council,Female,C00-C99 Malignant neoplasms,66,34700,190.2
+2023,Roscommon County Council,Female,I00-I99 Diseases of the circulatory system,95,34700,273.8
+2023,Roscommon County Council,Female,J00-J99 Diseases of the respiratory system,41,34700,118.2
+2023,Roscommon County Council,Female,V00-Y98 External causes of injury and poisoning,7,34700,20.2
+2023,Roscommon County Council,Female,F01 and F03 Dementia (types of),19,34700,54.8
+2023,Roscommon County Council,Female,G30 Alzheimer disease,5,34700,14.4
+2023,Roscommon County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,34700,8.6
+2023,Sligo County Council,Male,C00-C99 Malignant neoplasms,96,34101,281.5
+2023,Sligo County Council,Male,I00-I99 Diseases of the circulatory system,79,34101,231.7
+2023,Sligo County Council,Male,J00-J99 Diseases of the respiratory system,27,34101,79.2
+2023,Sligo County Council,Male,V00-Y98 External causes of injury and poisoning,19,34101,55.7
+2023,Sligo County Council,Male,F01 and F03 Dementia (types of),11,34101,32.3
+2023,Sligo County Council,Male,G30 Alzheimer disease,1,34101,2.9
+2023,Sligo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,34101,8.8
+2023,Sligo County Council,Female,C00-C99 Malignant neoplasms,80,35124,227.8
+2023,Sligo County Council,Female,I00-I99 Diseases of the circulatory system,70,35124,199.3
+2023,Sligo County Council,Female,J00-J99 Diseases of the respiratory system,33,35124,94.0
+2023,Sligo County Council,Female,V00-Y98 External causes of injury and poisoning,6,35124,17.1
+2023,Sligo County Council,Female,F01 and F03 Dementia (types of),22,35124,62.6
+2023,Sligo County Council,Female,G30 Alzheimer disease,6,35124,17.1
+2023,Sligo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,35124,14.2
+2023,Cavan County Council,Male,C00-C99 Malignant neoplasms,94,40733,230.8
+2023,Cavan County Council,Male,I00-I99 Diseases of the circulatory system,108,40733,265.1
+2023,Cavan County Council,Male,J00-J99 Diseases of the respiratory system,29,40733,71.2
+2023,Cavan County Council,Male,V00-Y98 External causes of injury and poisoning,26,40733,63.8
+2023,Cavan County Council,Male,F01 and F03 Dementia (types of),5,40733,12.3
+2023,Cavan County Council,Male,G30 Alzheimer disease,2,40733,4.9
+2023,Cavan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),7,40733,17.2
+2023,Cavan County Council,Female,C00-C99 Malignant neoplasms,60,40238,149.1
+2023,Cavan County Council,Female,I00-I99 Diseases of the circulatory system,76,40238,188.9
+2023,Cavan County Council,Female,J00-J99 Diseases of the respiratory system,35,40238,87.0
+2023,Cavan County Council,Female,V00-Y98 External causes of injury and poisoning,9,40238,22.4
+2023,Cavan County Council,Female,F01 and F03 Dementia (types of),13,40238,32.3
+2023,Cavan County Council,Female,G30 Alzheimer disease,3,40238,7.5
+2023,Cavan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),8,40238,19.9
+2023,Donegal County Council,Male,C00-C99 Malignant neoplasms,240,81601,294.1
+2023,Donegal County Council,Male,I00-I99 Diseases of the circulatory system,172,81601,210.8
+2023,Donegal County Council,Male,J00-J99 Diseases of the respiratory system,78,81601,95.6
+2023,Donegal County Council,Male,V00-Y98 External causes of injury and poisoning,39,81601,47.8
+2023,Donegal County Council,Male,F01 and F03 Dementia (types of),26,81601,31.9
+2023,Donegal County Council,Male,G30 Alzheimer disease,5,81601,6.1
+2023,Donegal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),14,81601,17.2
+2023,Donegal County Council,Female,C00-C99 Malignant neoplasms,184,82972,221.8
+2023,Donegal County Council,Female,I00-I99 Diseases of the circulatory system,162,82972,195.2
+2023,Donegal County Council,Female,J00-J99 Diseases of the respiratory system,71,82972,85.6
+2023,Donegal County Council,Female,V00-Y98 External causes of injury and poisoning,9,82972,10.8
+2023,Donegal County Council,Female,F01 and F03 Dementia (types of),58,82972,69.9
+2023,Donegal County Council,Female,G30 Alzheimer disease,9,82972,10.8
+2023,Donegal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,82972,14.5
+2023,Monaghan County Council,Male,C00-C99 Malignant neoplasms,64,32592,196.4
+2023,Monaghan County Council,Male,I00-I99 Diseases of the circulatory system,68,32592,208.6
+2023,Monaghan County Council,Male,J00-J99 Diseases of the respiratory system,27,32592,82.8
+2023,Monaghan County Council,Male,V00-Y98 External causes of injury and poisoning,17,32592,52.2
+2023,Monaghan County Council,Male,F01 and F03 Dementia (types of),2,32592,6.1
+2023,Monaghan County Council,Male,G30 Alzheimer disease,3,32592,9.2
+2023,Monaghan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),7,32592,21.5
+2023,Monaghan County Council,Female,C00-C99 Malignant neoplasms,58,32024,181.1
+2023,Monaghan County Council,Female,I00-I99 Diseases of the circulatory system,63,32024,196.7
+2023,Monaghan County Council,Female,J00-J99 Diseases of the respiratory system,28,32024,87.4
+2023,Monaghan County Council,Female,V00-Y98 External causes of injury and poisoning,10,32024,31.2
+2023,Monaghan County Council,Female,F01 and F03 Dementia (types of),7,32024,21.9
+2023,Monaghan County Council,Female,G30 Alzheimer disease,4,32024,12.5
+2023,Monaghan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,32024,18.7
+2024,Carlow County Council,Male,C00-C99 Malignant neoplasms,64,30581,209.3
+2024,Carlow County Council,Male,I00-I99 Diseases of the circulatory system,61,30581,199.5
+2024,Carlow County Council,Male,J00-J99 Diseases of the respiratory system,37,30581,121.0
+2024,Carlow County Council,Male,V00-Y98 External causes of injury and poisoning,19,30581,62.1
+2024,Carlow County Council,Male,F01 and F03 Dementia (types of),15,30581,49.1
+2024,Carlow County Council,Male,G30 Alzheimer disease,5,30581,16.4
+2024,Carlow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),1,30581,3.3
+2024,Carlow County Council,Female,C00-C99 Malignant neoplasms,61,30842,197.8
+2024,Carlow County Council,Female,I00-I99 Diseases of the circulatory system,63,30842,204.3
+2024,Carlow County Council,Female,J00-J99 Diseases of the respiratory system,31,30842,100.5
+2024,Carlow County Council,Female,V00-Y98 External causes of injury and poisoning,8,30842,25.9
+2024,Carlow County Council,Female,F01 and F03 Dementia (types of),14,30842,45.4
+2024,Carlow County Council,Female,G30 Alzheimer disease,5,30842,16.2
+2024,Carlow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),1,30842,3.2
+2024,Dublin City Council,Male,C00-C99 Malignant neoplasms,654,286174,228.5
+2024,Dublin City Council,Male,I00-I99 Diseases of the circulatory system,604,286174,211.1
+2024,Dublin City Council,Male,J00-J99 Diseases of the respiratory system,283,286174,98.9
+2024,Dublin City Council,Male,V00-Y98 External causes of injury and poisoning,165,286174,57.7
+2024,Dublin City Council,Male,F01 and F03 Dementia (types of),132,286174,46.1
+2024,Dublin City Council,Male,G30 Alzheimer disease,19,286174,6.6
+2024,Dublin City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),28,286174,9.8
+2024,Dublin City Council,Female,C00-C99 Malignant neoplasms,581,294063,197.6
+2024,Dublin City Council,Female,I00-I99 Diseases of the circulatory system,618,294063,210.2
+2024,Dublin City Council,Female,J00-J99 Diseases of the respiratory system,308,294063,104.7
+2024,Dublin City Council,Female,V00-Y98 External causes of injury and poisoning,87,294063,29.6
+2024,Dublin City Council,Female,F01 and F03 Dementia (types of),221,294063,75.2
+2024,Dublin City Council,Female,G30 Alzheimer disease,34,294063,11.6
+2024,Dublin City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),19,294063,6.5
+2024,South Dublin County Council,Male,C00-C99 Malignant neoplasms,262,145631,179.9
+2024,South Dublin County Council,Male,I00-I99 Diseases of the circulatory system,220,145631,151.1
+2024,South Dublin County Council,Male,J00-J99 Diseases of the respiratory system,92,145631,63.2
+2024,South Dublin County Council,Male,V00-Y98 External causes of injury and poisoning,62,145631,42.6
+2024,South Dublin County Council,Male,F01 and F03 Dementia (types of),32,145631,22.0
+2024,South Dublin County Council,Male,G30 Alzheimer disease,12,145631,8.2
+2024,South Dublin County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),18,145631,12.4
+2024,South Dublin County Council,Female,C00-C99 Malignant neoplasms,232,152473,152.2
+2024,South Dublin County Council,Female,I00-I99 Diseases of the circulatory system,221,152473,144.9
+2024,South Dublin County Council,Female,J00-J99 Diseases of the respiratory system,112,152473,73.5
+2024,South Dublin County Council,Female,V00-Y98 External causes of injury and poisoning,33,152473,21.6
+2024,South Dublin County Council,Female,F01 and F03 Dementia (types of),55,152473,36.1
+2024,South Dublin County Council,Female,G30 Alzheimer disease,13,152473,8.5
+2024,South Dublin County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,152473,7.9
+2024,Fingal County Council,Male,C00-C99 Malignant neoplasms,255,161091,158.3
+2024,Fingal County Council,Male,I00-I99 Diseases of the circulatory system,205,161091,127.3
+2024,Fingal County Council,Male,J00-J99 Diseases of the respiratory system,83,161091,51.5
+2024,Fingal County Council,Male,V00-Y98 External causes of injury and poisoning,51,161091,31.7
+2024,Fingal County Council,Male,F01 and F03 Dementia (types of),40,161091,24.8
+2024,Fingal County Council,Male,G30 Alzheimer disease,7,161091,4.3
+2024,Fingal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),7,161091,4.3
+2024,Fingal County Council,Female,C00-C99 Malignant neoplasms,232,166190,139.6
+2024,Fingal County Council,Female,I00-I99 Diseases of the circulatory system,175,166190,105.3
+2024,Fingal County Council,Female,J00-J99 Diseases of the respiratory system,69,166190,41.5
+2024,Fingal County Council,Female,V00-Y98 External causes of injury and poisoning,32,166190,19.3
+2024,Fingal County Council,Female,F01 and F03 Dementia (types of),67,166190,40.3
+2024,Fingal County Council,Female,G30 Alzheimer disease,8,166190,4.8
+2024,Fingal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,166190,6.0
+2024,Dún Laoghaire Rathdown County Council,Male,C00-C99 Malignant neoplasms,246,110352,222.9
+2024,Dún Laoghaire Rathdown County Council,Male,I00-I99 Diseases of the circulatory system,228,110352,206.6
+2024,Dún Laoghaire Rathdown County Council,Male,J00-J99 Diseases of the respiratory system,92,110352,83.4
+2024,Dún Laoghaire Rathdown County Council,Male,V00-Y98 External causes of injury and poisoning,52,110352,47.1
+2024,Dún Laoghaire Rathdown County Council,Male,F01 and F03 Dementia (types of),60,110352,54.4
+2024,Dún Laoghaire Rathdown County Council,Male,G30 Alzheimer disease,6,110352,5.4
+2024,Dún Laoghaire Rathdown County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,110352,10.9
+2024,Dún Laoghaire Rathdown County Council,Female,C00-C99 Malignant neoplasms,246,119475,205.9
+2024,Dún Laoghaire Rathdown County Council,Female,I00-I99 Diseases of the circulatory system,232,119475,194.2
+2024,Dún Laoghaire Rathdown County Council,Female,J00-J99 Diseases of the respiratory system,96,119475,80.4
+2024,Dún Laoghaire Rathdown County Council,Female,V00-Y98 External causes of injury and poisoning,30,119475,25.1
+2024,Dún Laoghaire Rathdown County Council,Female,F01 and F03 Dementia (types of),84,119475,70.3
+2024,Dún Laoghaire Rathdown County Council,Female,G30 Alzheimer disease,18,119475,15.1
+2024,Dún Laoghaire Rathdown County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,119475,8.4
+2024,Kildare County Council,Male,C00-C99 Malignant neoplasms,192,122372,156.9
+2024,Kildare County Council,Male,I00-I99 Diseases of the circulatory system,186,122372,152.0
+2024,Kildare County Council,Male,J00-J99 Diseases of the respiratory system,81,122372,66.2
+2024,Kildare County Council,Male,V00-Y98 External causes of injury and poisoning,40,122372,32.7
+2024,Kildare County Council,Male,F01 and F03 Dementia (types of),34,122372,27.8
+2024,Kildare County Council,Male,G30 Alzheimer disease,6,122372,4.9
+2024,Kildare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),14,122372,11.4
+2024,Kildare County Council,Female,C00-C99 Malignant neoplasms,165,123490,133.6
+2024,Kildare County Council,Female,I00-I99 Diseases of the circulatory system,157,123490,127.1
+2024,Kildare County Council,Female,J00-J99 Diseases of the respiratory system,70,123490,56.7
+2024,Kildare County Council,Female,V00-Y98 External causes of injury and poisoning,12,123490,9.7
+2024,Kildare County Council,Female,F01 and F03 Dementia (types of),45,123490,36.4
+2024,Kildare County Council,Female,G30 Alzheimer disease,10,123490,8.1
+2024,Kildare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,123490,4.9
+2024,Kilkenny County Council,Male,C00-C99 Malignant neoplasms,121,51424,235.3
+2024,Kilkenny County Council,Male,I00-I99 Diseases of the circulatory system,118,51424,229.5
+2024,Kilkenny County Council,Male,J00-J99 Diseases of the respiratory system,33,51424,64.2
+2024,Kilkenny County Council,Male,V00-Y98 External causes of injury and poisoning,28,51424,54.4
+2024,Kilkenny County Council,Male,F01 and F03 Dementia (types of),18,51424,35.0
+2024,Kilkenny County Council,Male,G30 Alzheimer disease,4,51424,7.8
+2024,Kilkenny County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,51424,3.9
+2024,Kilkenny County Council,Female,C00-C99 Malignant neoplasms,116,51612,224.8
+2024,Kilkenny County Council,Female,I00-I99 Diseases of the circulatory system,91,51612,176.3
+2024,Kilkenny County Council,Female,J00-J99 Diseases of the respiratory system,55,51612,106.6
+2024,Kilkenny County Council,Female,V00-Y98 External causes of injury and poisoning,8,51612,15.5
+2024,Kilkenny County Council,Female,F01 and F03 Dementia (types of),33,51612,63.9
+2024,Kilkenny County Council,Female,G30 Alzheimer disease,12,51612,23.3
+2024,Kilkenny County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,51612,3.9
+2024,Laois County Council,Male,C00-C99 Malignant neoplasms,72,45984,156.6
+2024,Laois County Council,Male,I00-I99 Diseases of the circulatory system,69,45984,150.1
+2024,Laois County Council,Male,J00-J99 Diseases of the respiratory system,38,45984,82.6
+2024,Laois County Council,Male,V00-Y98 External causes of injury and poisoning,10,45984,21.7
+2024,Laois County Council,Male,F01 and F03 Dementia (types of),8,45984,17.4
+2024,Laois County Council,Male,G30 Alzheimer disease,1,45984,2.2
+2024,Laois County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,45984,13.0
+2024,Laois County Council,Female,C00-C99 Malignant neoplasms,75,45300,165.6
+2024,Laois County Council,Female,I00-I99 Diseases of the circulatory system,75,45300,165.6
+2024,Laois County Council,Female,J00-J99 Diseases of the respiratory system,29,45300,64.0
+2024,Laois County Council,Female,V00-Y98 External causes of injury and poisoning,8,45300,17.7
+2024,Laois County Council,Female,F01 and F03 Dementia (types of),22,45300,48.6
+2024,Laois County Council,Female,G30 Alzheimer disease,1,45300,2.2
+2024,Laois County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,45300,4.4
+2024,Longford County Council,Male,C00-C99 Malignant neoplasms,50,23287,214.7
+2024,Longford County Council,Male,I00-I99 Diseases of the circulatory system,49,23287,210.4
+2024,Longford County Council,Male,J00-J99 Diseases of the respiratory system,26,23287,111.7
+2024,Longford County Council,Male,V00-Y98 External causes of injury and poisoning,12,23287,51.5
+2024,Longford County Council,Male,F01 and F03 Dementia (types of),6,23287,25.8
+2024,Longford County Council,Male,G30 Alzheimer disease,2,23287,8.6
+2024,Longford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,23287,12.9
+2024,Longford County Council,Female,C00-C99 Malignant neoplasms,50,23086,216.6
+2024,Longford County Council,Female,I00-I99 Diseases of the circulatory system,30,23086,129.9
+2024,Longford County Council,Female,J00-J99 Diseases of the respiratory system,28,23086,121.3
+2024,Longford County Council,Female,V00-Y98 External causes of injury and poisoning,7,23086,30.3
+2024,Longford County Council,Female,F01 and F03 Dementia (types of),8,23086,34.7
+2024,Longford County Council,Female,G30 Alzheimer disease,7,23086,30.3
+2024,Longford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),,23086,
+2024,Louth County Council,Male,C00-C99 Malignant neoplasms,149,68461,217.6
+2024,Louth County Council,Male,I00-I99 Diseases of the circulatory system,127,68461,185.5
+2024,Louth County Council,Male,J00-J99 Diseases of the respiratory system,55,68461,80.3
+2024,Louth County Council,Male,V00-Y98 External causes of injury and poisoning,51,68461,74.5
+2024,Louth County Council,Male,F01 and F03 Dementia (types of),20,68461,29.2
+2024,Louth County Council,Male,G30 Alzheimer disease,9,68461,13.1
+2024,Louth County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,68461,7.3
+2024,Louth County Council,Female,C00-C99 Malignant neoplasms,158,70246,224.9
+2024,Louth County Council,Female,I00-I99 Diseases of the circulatory system,110,70246,156.6
+2024,Louth County Council,Female,J00-J99 Diseases of the respiratory system,58,70246,82.6
+2024,Louth County Council,Female,V00-Y98 External causes of injury and poisoning,14,70246,19.9
+2024,Louth County Council,Female,F01 and F03 Dementia (types of),35,70246,49.8
+2024,Louth County Council,Female,G30 Alzheimer disease,8,70246,11.4
+2024,Louth County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,70246,5.7
+2024,Meath County Council,Male,C00-C99 Malignant neoplasms,222,109277,203.2
+2024,Meath County Council,Male,I00-I99 Diseases of the circulatory system,164,109277,150.1
+2024,Meath County Council,Male,J00-J99 Diseases of the respiratory system,84,109277,76.9
+2024,Meath County Council,Male,V00-Y98 External causes of injury and poisoning,37,109277,33.9
+2024,Meath County Council,Male,F01 and F03 Dementia (types of),25,109277,22.9
+2024,Meath County Council,Male,G30 Alzheimer disease,6,109277,5.5
+2024,Meath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),14,109277,12.8
+2024,Meath County Council,Female,C00-C99 Malignant neoplasms,162,110027,147.2
+2024,Meath County Council,Female,I00-I99 Diseases of the circulatory system,159,110027,144.5
+2024,Meath County Council,Female,J00-J99 Diseases of the respiratory system,77,110027,70.0
+2024,Meath County Council,Female,V00-Y98 External causes of injury and poisoning,18,110027,16.4
+2024,Meath County Council,Female,F01 and F03 Dementia (types of),31,110027,28.2
+2024,Meath County Council,Female,G30 Alzheimer disease,12,110027,10.9
+2024,Meath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,110027,5.5
+2024,Offaly County Council,Male,C00-C99 Malignant neoplasms,95,41353,229.7
+2024,Offaly County Council,Male,I00-I99 Diseases of the circulatory system,96,41353,232.1
+2024,Offaly County Council,Male,J00-J99 Diseases of the respiratory system,44,41353,106.4
+2024,Offaly County Council,Male,V00-Y98 External causes of injury and poisoning,23,41353,55.6
+2024,Offaly County Council,Male,F01 and F03 Dementia (types of),19,41353,45.9
+2024,Offaly County Council,Male,G30 Alzheimer disease,2,41353,4.8
+2024,Offaly County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,41353,12.1
+2024,Offaly County Council,Female,C00-C99 Malignant neoplasms,90,41214,218.4
+2024,Offaly County Council,Female,I00-I99 Diseases of the circulatory system,65,41214,157.7
+2024,Offaly County Council,Female,J00-J99 Diseases of the respiratory system,35,41214,84.9
+2024,Offaly County Council,Female,V00-Y98 External causes of injury and poisoning,11,41214,26.7
+2024,Offaly County Council,Female,F01 and F03 Dementia (types of),27,41214,65.5
+2024,Offaly County Council,Female,G30 Alzheimer disease,2,41214,4.9
+2024,Offaly County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,41214,4.9
+2024,Westmeath County Council,Male,C00-C99 Malignant neoplasms,97,47388,204.7
+2024,Westmeath County Council,Male,I00-I99 Diseases of the circulatory system,99,47388,208.9
+2024,Westmeath County Council,Male,J00-J99 Diseases of the respiratory system,44,47388,92.9
+2024,Westmeath County Council,Male,V00-Y98 External causes of injury and poisoning,29,47388,61.2
+2024,Westmeath County Council,Male,F01 and F03 Dementia (types of),14,47388,29.5
+2024,Westmeath County Council,Male,G30 Alzheimer disease,2,47388,4.2
+2024,Westmeath County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,47388,6.3
+2024,Westmeath County Council,Female,C00-C99 Malignant neoplasms,79,48083,164.3
+2024,Westmeath County Council,Female,I00-I99 Diseases of the circulatory system,66,48083,137.3
+2024,Westmeath County Council,Female,J00-J99 Diseases of the respiratory system,38,48083,79.0
+2024,Westmeath County Council,Female,V00-Y98 External causes of injury and poisoning,12,48083,25.0
+2024,Westmeath County Council,Female,F01 and F03 Dementia (types of),23,48083,47.8
+2024,Westmeath County Council,Female,G30 Alzheimer disease,5,48083,10.4
+2024,Westmeath County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),1,48083,2.1
+2024,Wexford County Council,Male,C00-C99 Malignant neoplasms,190,80168,237.0
+2024,Wexford County Council,Male,I00-I99 Diseases of the circulatory system,198,80168,247.0
+2024,Wexford County Council,Male,J00-J99 Diseases of the respiratory system,76,80168,94.8
+2024,Wexford County Council,Male,V00-Y98 External causes of injury and poisoning,42,80168,52.4
+2024,Wexford County Council,Male,F01 and F03 Dementia (types of),32,80168,39.9
+2024,Wexford County Council,Male,G30 Alzheimer disease,7,80168,8.7
+2024,Wexford County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),17,80168,21.2
+2024,Wexford County Council,Female,C00-C99 Malignant neoplasms,182,82348,221.0
+2024,Wexford County Council,Female,I00-I99 Diseases of the circulatory system,177,82348,214.9
+2024,Wexford County Council,Female,J00-J99 Diseases of the respiratory system,75,82348,91.1
+2024,Wexford County Council,Female,V00-Y98 External causes of injury and poisoning,19,82348,23.1
+2024,Wexford County Council,Female,F01 and F03 Dementia (types of),35,82348,42.5
+2024,Wexford County Council,Female,G30 Alzheimer disease,5,82348,6.1
+2024,Wexford County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,82348,10.9
+2024,Wicklow County Council,Male,C00-C99 Malignant neoplasms,177,75826,233.4
+2024,Wicklow County Council,Male,I00-I99 Diseases of the circulatory system,150,75826,197.8
+2024,Wicklow County Council,Male,J00-J99 Diseases of the respiratory system,62,75826,81.8
+2024,Wicklow County Council,Male,V00-Y98 External causes of injury and poisoning,30,75826,39.6
+2024,Wicklow County Council,Male,F01 and F03 Dementia (types of),25,75826,33.0
+2024,Wicklow County Council,Male,G30 Alzheimer disease,4,75826,5.3
+2024,Wicklow County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),12,75826,15.8
+2024,Wicklow County Council,Female,C00-C99 Malignant neoplasms,146,78162,186.8
+2024,Wicklow County Council,Female,I00-I99 Diseases of the circulatory system,116,78162,148.4
+2024,Wicklow County Council,Female,J00-J99 Diseases of the respiratory system,68,78162,87.0
+2024,Wicklow County Council,Female,V00-Y98 External causes of injury and poisoning,19,78162,24.3
+2024,Wicklow County Council,Female,F01 and F03 Dementia (types of),39,78162,49.9
+2024,Wicklow County Council,Female,G30 Alzheimer disease,12,78162,15.4
+2024,Wicklow County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,78162,11.5
+2024,Clare County Council,Male,C00-C99 Malignant neoplasms,162,62061,261.0
+2024,Clare County Council,Male,I00-I99 Diseases of the circulatory system,134,62061,215.9
+2024,Clare County Council,Male,J00-J99 Diseases of the respiratory system,56,62061,90.2
+2024,Clare County Council,Male,V00-Y98 External causes of injury and poisoning,39,62061,62.8
+2024,Clare County Council,Male,F01 and F03 Dementia (types of),10,62061,16.1
+2024,Clare County Council,Male,G30 Alzheimer disease,3,62061,4.8
+2024,Clare County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),9,62061,14.5
+2024,Clare County Council,Female,C00-C99 Malignant neoplasms,136,63921,212.8
+2024,Clare County Council,Female,I00-I99 Diseases of the circulatory system,116,63921,181.5
+2024,Clare County Council,Female,J00-J99 Diseases of the respiratory system,70,63921,109.5
+2024,Clare County Council,Female,V00-Y98 External causes of injury and poisoning,20,63921,31.3
+2024,Clare County Council,Female,F01 and F03 Dementia (types of),31,63921,48.5
+2024,Clare County Council,Female,G30 Alzheimer disease,8,63921,12.5
+2024,Clare County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,63921,4.7
+2024,Cork City Council,Male,C00-C99 Malignant neoplasms,229,108467,211.1
+2024,Cork City Council,Male,I00-I99 Diseases of the circulatory system,214,108467,197.3
+2024,Cork City Council,Male,J00-J99 Diseases of the respiratory system,71,108467,65.5
+2024,Cork City Council,Male,V00-Y98 External causes of injury and poisoning,63,108467,58.1
+2024,Cork City Council,Male,F01 and F03 Dementia (types of),36,108467,33.2
+2024,Cork City Council,Male,G30 Alzheimer disease,2,108467,1.8
+2024,Cork City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,108467,9.2
+2024,Cork City Council,Female,C00-C99 Malignant neoplasms,199,112471,176.9
+2024,Cork City Council,Female,I00-I99 Diseases of the circulatory system,203,112471,180.5
+2024,Cork City Council,Female,J00-J99 Diseases of the respiratory system,95,112471,84.5
+2024,Cork City Council,Female,V00-Y98 External causes of injury and poisoning,36,112471,32.0
+2024,Cork City Council,Female,F01 and F03 Dementia (types of),75,112471,66.7
+2024,Cork City Council,Female,G30 Alzheimer disease,12,112471,10.7
+2024,Cork City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,112471,8.9
+2024,Cork County Council,Male,C00-C99 Malignant neoplasms,428,177395,241.3
+2024,Cork County Council,Male,I00-I99 Diseases of the circulatory system,402,177395,226.6
+2024,Cork County Council,Male,J00-J99 Diseases of the respiratory system,142,177395,80.0
+2024,Cork County Council,Male,V00-Y98 External causes of injury and poisoning,104,177395,58.6
+2024,Cork County Council,Male,F01 and F03 Dementia (types of),76,177395,42.8
+2024,Cork County Council,Male,G30 Alzheimer disease,18,177395,10.1
+2024,Cork County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),18,177395,10.1
+2024,Cork County Council,Female,C00-C99 Malignant neoplasms,355,178914,198.4
+2024,Cork County Council,Female,I00-I99 Diseases of the circulatory system,302,178914,168.8
+2024,Cork County Council,Female,J00-J99 Diseases of the respiratory system,136,178914,76.0
+2024,Cork County Council,Female,V00-Y98 External causes of injury and poisoning,58,178914,32.4
+2024,Cork County Council,Female,F01 and F03 Dementia (types of),108,178914,60.4
+2024,Cork County Council,Female,G30 Alzheimer disease,22,178914,12.3
+2024,Cork County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),21,178914,11.7
+2024,Kerry County Council,Male,C00-C99 Malignant neoplasms,180,75800,237.5
+2024,Kerry County Council,Male,I00-I99 Diseases of the circulatory system,204,75800,269.1
+2024,Kerry County Council,Male,J00-J99 Diseases of the respiratory system,91,75800,120.1
+2024,Kerry County Council,Male,V00-Y98 External causes of injury and poisoning,40,75800,52.8
+2024,Kerry County Council,Male,F01 and F03 Dementia (types of),27,75800,35.6
+2024,Kerry County Council,Male,G30 Alzheimer disease,8,75800,10.6
+2024,Kerry County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,75800,6.6
+2024,Kerry County Council,Female,C00-C99 Malignant neoplasms,180,76862,234.2
+2024,Kerry County Council,Female,I00-I99 Diseases of the circulatory system,183,76862,238.1
+2024,Kerry County Council,Female,J00-J99 Diseases of the respiratory system,71,76862,92.4
+2024,Kerry County Council,Female,V00-Y98 External causes of injury and poisoning,18,76862,23.4
+2024,Kerry County Council,Female,F01 and F03 Dementia (types of),27,76862,35.1
+2024,Kerry County Council,Female,G30 Alzheimer disease,17,76862,22.1
+2024,Kerry County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),8,76862,10.4
+2024,Limerick City & County Council,Male,C00-C99 Malignant neoplasms,251,103382,242.8
+2024,Limerick City & County Council,Male,I00-I99 Diseases of the circulatory system,228,103382,220.5
+2024,Limerick City & County Council,Male,J00-J99 Diseases of the respiratory system,90,103382,87.1
+2024,Limerick City & County Council,Male,V00-Y98 External causes of injury and poisoning,43,103382,41.6
+2024,Limerick City & County Council,Male,F01 and F03 Dementia (types of),25,103382,24.2
+2024,Limerick City & County Council,Male,G30 Alzheimer disease,9,103382,8.7
+2024,Limerick City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,103382,3.9
+2024,Limerick City & County Council,Female,C00-C99 Malignant neoplasms,208,103863,200.3
+2024,Limerick City & County Council,Female,I00-I99 Diseases of the circulatory system,189,103863,182.0
+2024,Limerick City & County Council,Female,J00-J99 Diseases of the respiratory system,108,103863,104.0
+2024,Limerick City & County Council,Female,V00-Y98 External causes of injury and poisoning,28,103863,27.0
+2024,Limerick City & County Council,Female,F01 and F03 Dementia (types of),69,103863,66.4
+2024,Limerick City & County Council,Female,G30 Alzheimer disease,14,103863,13.5
+2024,Limerick City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),8,103863,7.7
+2024,Tipperary County Council,Male,C00-C99 Malignant neoplasms,204,83081,245.5
+2024,Tipperary County Council,Male,I00-I99 Diseases of the circulatory system,217,83081,261.2
+2024,Tipperary County Council,Male,J00-J99 Diseases of the respiratory system,83,83081,99.9
+2024,Tipperary County Council,Male,V00-Y98 External causes of injury and poisoning,42,83081,50.6
+2024,Tipperary County Council,Male,F01 and F03 Dementia (types of),27,83081,32.5
+2024,Tipperary County Council,Male,G30 Alzheimer disease,1,83081,1.2
+2024,Tipperary County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),13,83081,15.6
+2024,Tipperary County Council,Female,C00-C99 Malignant neoplasms,196,83557,234.6
+2024,Tipperary County Council,Female,I00-I99 Diseases of the circulatory system,166,83557,198.7
+2024,Tipperary County Council,Female,J00-J99 Diseases of the respiratory system,78,83557,93.3
+2024,Tipperary County Council,Female,V00-Y98 External causes of injury and poisoning,29,83557,34.7
+2024,Tipperary County Council,Female,F01 and F03 Dementia (types of),57,83557,68.2
+2024,Tipperary County Council,Female,G30 Alzheimer disease,16,83557,19.1
+2024,Tipperary County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,83557,12.0
+2024,Waterford City & County Council,Male,C00-C99 Malignant neoplasms,153,62531,244.7
+2024,Waterford City & County Council,Male,I00-I99 Diseases of the circulatory system,141,62531,225.5
+2024,Waterford City & County Council,Male,J00-J99 Diseases of the respiratory system,56,62531,89.6
+2024,Waterford City & County Council,Male,V00-Y98 External causes of injury and poisoning,33,62531,52.8
+2024,Waterford City & County Council,Male,F01 and F03 Dementia (types of),14,62531,22.4
+2024,Waterford City & County Council,Male,G30 Alzheimer disease,2,62531,3.2
+2024,Waterford City & County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,62531,8.0
+2024,Waterford City & County Council,Female,C00-C99 Malignant neoplasms,144,63543,226.6
+2024,Waterford City & County Council,Female,I00-I99 Diseases of the circulatory system,112,63543,176.3
+2024,Waterford City & County Council,Female,J00-J99 Diseases of the respiratory system,49,63543,77.1
+2024,Waterford City & County Council,Female,V00-Y98 External causes of injury and poisoning,22,63543,34.6
+2024,Waterford City & County Council,Female,F01 and F03 Dementia (types of),34,63543,53.5
+2024,Waterford City & County Council,Female,G30 Alzheimer disease,10,63543,15.7
+2024,Waterford City & County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),3,63543,4.7
+2024,Galway City Council,Male,C00-C99 Malignant neoplasms,83,39569,209.8
+2024,Galway City Council,Male,I00-I99 Diseases of the circulatory system,59,39569,149.1
+2024,Galway City Council,Male,J00-J99 Diseases of the respiratory system,23,39569,58.1
+2024,Galway City Council,Male,V00-Y98 External causes of injury and poisoning,15,39569,37.9
+2024,Galway City Council,Male,F01 and F03 Dementia (types of),8,39569,20.2
+2024,Galway City Council,Male,G30 Alzheimer disease,2,39569,5.1
+2024,Galway City Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,39569,5.1
+2024,Galway City Council,Female,C00-C99 Malignant neoplasms,73,42610,171.3
+2024,Galway City Council,Female,I00-I99 Diseases of the circulatory system,59,42610,138.5
+2024,Galway City Council,Female,J00-J99 Diseases of the respiratory system,25,42610,58.7
+2024,Galway City Council,Female,V00-Y98 External causes of injury and poisoning,11,42610,25.8
+2024,Galway City Council,Female,F01 and F03 Dementia (types of),13,42610,30.5
+2024,Galway City Council,Female,G30 Alzheimer disease,6,42610,14.1
+2024,Galway City Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),,42610,
+2024,Galway County Council,Male,C00-C99 Malignant neoplasms,211,95649,220.6
+2024,Galway County Council,Male,I00-I99 Diseases of the circulatory system,198,95649,207.0
+2024,Galway County Council,Male,J00-J99 Diseases of the respiratory system,89,95649,93.0
+2024,Galway County Council,Male,V00-Y98 External causes of injury and poisoning,46,95649,48.1
+2024,Galway County Council,Male,F01 and F03 Dementia (types of),22,95649,23.0
+2024,Galway County Council,Male,G30 Alzheimer disease,9,95649,9.4
+2024,Galway County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),10,95649,10.5
+2024,Galway County Council,Female,C00-C99 Malignant neoplasms,157,95699,164.1
+2024,Galway County Council,Female,I00-I99 Diseases of the circulatory system,109,95699,113.9
+2024,Galway County Council,Female,J00-J99 Diseases of the respiratory system,79,95699,82.6
+2024,Galway County Council,Female,V00-Y98 External causes of injury and poisoning,24,95699,25.1
+2024,Galway County Council,Female,F01 and F03 Dementia (types of),39,95699,40.8
+2024,Galway County Council,Female,G30 Alzheimer disease,21,95699,21.9
+2024,Galway County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,95699,2.1
+2024,Leitrim County Council,Male,C00-C99 Malignant neoplasms,43,17352,247.8
+2024,Leitrim County Council,Male,I00-I99 Diseases of the circulatory system,56,17352,322.7
+2024,Leitrim County Council,Male,J00-J99 Diseases of the respiratory system,24,17352,138.3
+2024,Leitrim County Council,Male,V00-Y98 External causes of injury and poisoning,14,17352,80.7
+2024,Leitrim County Council,Male,F01 and F03 Dementia (types of),5,17352,28.8
+2024,Leitrim County Council,Male,G30 Alzheimer disease,3,17352,17.3
+2024,Leitrim County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,17352,11.5
+2024,Leitrim County Council,Female,C00-C99 Malignant neoplasms,39,17367,224.6
+2024,Leitrim County Council,Female,I00-I99 Diseases of the circulatory system,35,17367,201.5
+2024,Leitrim County Council,Female,J00-J99 Diseases of the respiratory system,27,17367,155.5
+2024,Leitrim County Council,Female,V00-Y98 External causes of injury and poisoning,7,17367,40.3
+2024,Leitrim County Council,Female,F01 and F03 Dementia (types of),12,17367,69.1
+2024,Leitrim County Council,Female,G30 Alzheimer disease,4,17367,23.0
+2024,Leitrim County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),1,17367,5.8
+2024,Mayo County Council,Male,C00-C99 Malignant neoplasms,196,67424,290.7
+2024,Mayo County Council,Male,I00-I99 Diseases of the circulatory system,174,67424,258.1
+2024,Mayo County Council,Male,J00-J99 Diseases of the respiratory system,86,67424,127.6
+2024,Mayo County Council,Male,V00-Y98 External causes of injury and poisoning,52,67424,77.1
+2024,Mayo County Council,Male,F01 and F03 Dementia (types of),18,67424,26.7
+2024,Mayo County Council,Male,G30 Alzheimer disease,8,67424,11.9
+2024,Mayo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),16,67424,23.7
+2024,Mayo County Council,Female,C00-C99 Malignant neoplasms,161,68449,235.2
+2024,Mayo County Council,Female,I00-I99 Diseases of the circulatory system,151,68449,220.6
+2024,Mayo County Council,Female,J00-J99 Diseases of the respiratory system,71,68449,103.7
+2024,Mayo County Council,Female,V00-Y98 External causes of injury and poisoning,12,68449,17.5
+2024,Mayo County Council,Female,F01 and F03 Dementia (types of),35,68449,51.1
+2024,Mayo County Council,Female,G30 Alzheimer disease,16,68449,23.4
+2024,Mayo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,68449,8.8
+2024,Roscommon County Council,Male,C00-C99 Malignant neoplasms,87,34847,249.7
+2024,Roscommon County Council,Male,I00-I99 Diseases of the circulatory system,76,34847,218.1
+2024,Roscommon County Council,Male,J00-J99 Diseases of the respiratory system,37,34847,106.2
+2024,Roscommon County Council,Male,V00-Y98 External causes of injury and poisoning,22,34847,63.1
+2024,Roscommon County Council,Male,F01 and F03 Dementia (types of),12,34847,34.4
+2024,Roscommon County Council,Male,G30 Alzheimer disease,1,34847,2.9
+2024,Roscommon County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,34847,11.5
+2024,Roscommon County Council,Female,C00-C99 Malignant neoplasms,105,34700,302.6
+2024,Roscommon County Council,Female,I00-I99 Diseases of the circulatory system,63,34700,181.6
+2024,Roscommon County Council,Female,J00-J99 Diseases of the respiratory system,38,34700,109.5
+2024,Roscommon County Council,Female,V00-Y98 External causes of injury and poisoning,7,34700,20.2
+2024,Roscommon County Council,Female,F01 and F03 Dementia (types of),19,34700,54.8
+2024,Roscommon County Council,Female,G30 Alzheimer disease,4,34700,11.5
+2024,Roscommon County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),2,34700,5.8
+2024,Sligo County Council,Male,C00-C99 Malignant neoplasms,99,34101,290.3
+2024,Sligo County Council,Male,I00-I99 Diseases of the circulatory system,102,34101,299.1
+2024,Sligo County Council,Male,J00-J99 Diseases of the respiratory system,45,34101,132.0
+2024,Sligo County Council,Male,V00-Y98 External causes of injury and poisoning,10,34101,29.3
+2024,Sligo County Council,Male,F01 and F03 Dementia (types of),11,34101,32.3
+2024,Sligo County Council,Male,G30 Alzheimer disease,7,34101,20.5
+2024,Sligo County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,34101,11.7
+2024,Sligo County Council,Female,C00-C99 Malignant neoplasms,78,35124,222.1
+2024,Sligo County Council,Female,I00-I99 Diseases of the circulatory system,62,35124,176.5
+2024,Sligo County Council,Female,J00-J99 Diseases of the respiratory system,36,35124,102.5
+2024,Sligo County Council,Female,V00-Y98 External causes of injury and poisoning,12,35124,34.2
+2024,Sligo County Council,Female,F01 and F03 Dementia (types of),26,35124,74.0
+2024,Sligo County Council,Female,G30 Alzheimer disease,10,35124,28.5
+2024,Sligo County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),5,35124,14.2
+2024,Cavan County Council,Male,C00-C99 Malignant neoplasms,96,40733,235.7
+2024,Cavan County Council,Male,I00-I99 Diseases of the circulatory system,91,40733,223.4
+2024,Cavan County Council,Male,J00-J99 Diseases of the respiratory system,37,40733,90.8
+2024,Cavan County Council,Male,V00-Y98 External causes of injury and poisoning,23,40733,56.5
+2024,Cavan County Council,Male,F01 and F03 Dementia (types of),9,40733,22.1
+2024,Cavan County Council,Male,G30 Alzheimer disease,2,40733,4.9
+2024,Cavan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),1,40733,2.5
+2024,Cavan County Council,Female,C00-C99 Malignant neoplasms,63,40238,156.6
+2024,Cavan County Council,Female,I00-I99 Diseases of the circulatory system,68,40238,169.0
+2024,Cavan County Council,Female,J00-J99 Diseases of the respiratory system,33,40238,82.0
+2024,Cavan County Council,Female,V00-Y98 External causes of injury and poisoning,8,40238,19.9
+2024,Cavan County Council,Female,F01 and F03 Dementia (types of),21,40238,52.2
+2024,Cavan County Council,Female,G30 Alzheimer disease,6,40238,14.9
+2024,Cavan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,40238,14.9
+2024,Donegal County Council,Male,C00-C99 Malignant neoplasms,223,81601,273.3
+2024,Donegal County Council,Male,I00-I99 Diseases of the circulatory system,190,81601,232.8
+2024,Donegal County Council,Male,J00-J99 Diseases of the respiratory system,82,81601,100.5
+2024,Donegal County Council,Male,V00-Y98 External causes of injury and poisoning,33,81601,40.4
+2024,Donegal County Council,Male,F01 and F03 Dementia (types of),32,81601,39.2
+2024,Donegal County Council,Male,G30 Alzheimer disease,4,81601,4.9
+2024,Donegal County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,81601,7.4
+2024,Donegal County Council,Female,C00-C99 Malignant neoplasms,181,82972,218.1
+2024,Donegal County Council,Female,I00-I99 Diseases of the circulatory system,160,82972,192.8
+2024,Donegal County Council,Female,J00-J99 Diseases of the respiratory system,82,82972,98.8
+2024,Donegal County Council,Female,V00-Y98 External causes of injury and poisoning,17,82972,20.5
+2024,Donegal County Council,Female,F01 and F03 Dementia (types of),42,82972,50.6
+2024,Donegal County Council,Female,G30 Alzheimer disease,12,82972,14.5
+2024,Donegal County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),6,82972,7.2
+2024,Monaghan County Council,Male,C00-C99 Malignant neoplasms,56,32592,171.8
+2024,Monaghan County Council,Male,I00-I99 Diseases of the circulatory system,85,32592,260.8
+2024,Monaghan County Council,Male,J00-J99 Diseases of the respiratory system,30,32592,92.0
+2024,Monaghan County Council,Male,V00-Y98 External causes of injury and poisoning,15,32592,46.0
+2024,Monaghan County Council,Male,F01 and F03 Dementia (types of),7,32592,21.5
+2024,Monaghan County Council,Male,G30 Alzheimer disease,2,32592,6.1
+2024,Monaghan County Council,Male,Emergency use of U07 (includes Covid-19 and Vaping related disorders),4,32592,12.3
+2024,Monaghan County Council,Female,C00-C99 Malignant neoplasms,54,32024,168.6
+2024,Monaghan County Council,Female,I00-I99 Diseases of the circulatory system,64,32024,199.9
+2024,Monaghan County Council,Female,J00-J99 Diseases of the respiratory system,22,32024,68.7
+2024,Monaghan County Council,Female,V00-Y98 External causes of injury and poisoning,3,32024,9.4
+2024,Monaghan County Council,Female,F01 and F03 Dementia (types of),12,32024,37.5
+2024,Monaghan County Council,Female,G30 Alzheimer disease,2,32024,6.2
+2024,Monaghan County Council,Female,Emergency use of U07 (includes Covid-19 and Vaping related disorders),,32024,
