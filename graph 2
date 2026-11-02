@@ -1,0 +1,119 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/sarahmooney-oss/death_by_population_rates/refs/heads/main/deaths_population_rates.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum['Cause of Death'] == 'Emergency use of U07 (includes Covid-19 and Vaping related disorders)'"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "Deaths",
+          "as": "Total Deaths"
+        },
+        {
+          "op": "sum",
+          "field": "Population",
+          "as": "Total Population"
+        }
+      ],
+      "groupby": [
+        "Area of Residence"
+      ]
+    },
+    {
+      "calculate": "datum['Total Deaths'] / datum['Total Population'] * 100000",
+      "as": "Rate"
+    },
+    {
+      "calculate": "(datum['Area of Residence'] == 'Dublin City Council' || datum['Area of Residence'] == 'South Dublin County Council' || datum['Area of Residence'] == 'Fingal County Council' || datum['Area of Residence'] == 'Dún Laoghaire Rathdown County Council') ? 'Dublin councils' : (datum['Area of Residence'] == 'Galway City Council' || datum['Area of Residence'] == 'Galway County Council' || datum['Area of Residence'] == 'Mayo County Council' || datum['Area of Residence'] == 'Roscommon County Council' || datum['Area of Residence'] == 'Clare County Council' || datum['Area of Residence'] == 'Offaly County Council' || datum['Area of Residence'] == 'Tipperary County Council') ? 'Galway and neighbouring councils' : 'Rest of Ireland'",
+      "as": "Region"
+    }
+  ],
+  "title": {
+    "text": "COVID-19 Death Rate by Local Authority, 2020-2024",
+    "subtitle": "Average deaths per year per 100,000 people",
+    "anchor": "middle",
+    "fontSize": 20
+  },
+  "width": 500,
+  "height": 600,
+  "mark": "bar",
+  "encoding": {
+    "y": {
+      "field": "Area of Residence",
+      "type": "nominal",
+      "sort": {
+        "field": "Rate",
+        "order": "descending"
+      },
+      "axis": {
+        "title": null,
+        "labelLimit": 300
+      }
+    },
+    "x": {
+      "field": "Rate",
+      "type": "quantitative",
+      "axis": {
+        "title": "COVID-19 deaths per 100,000 people (yearly average)",
+        "format": ".0f"
+      }
+    },
+    "color": {
+      "field": "Region",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Dublin councils",
+          "Galway and neighbouring councils",
+          "Rest of Ireland"
+        ],
+        "range": [
+          "#8101FA",
+          "#00C7A9",
+          "#CCCCCC"
+        ]
+      },
+      "legend": {
+        "title": "Region",
+        "labelLimit": 300
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Area of Residence",
+        "type": "nominal"
+      },
+      {
+        "field": "Rate",
+        "type": "quantitative",
+        "format": ".1f",
+        "title": "Deaths per 100k per year"
+      },
+      {
+        "field": "Total Deaths",
+        "type": "quantitative",
+        "title": "Total deaths 2020-2024"
+      }
+    ]
+  },
+  "config": {
+    "legend": {
+      "orient": "bottom-right",
+      "labelFontSize": 13,
+      "titleFontSize": 14
+    },
+    "axis": {
+      "labelFontSize": 12,
+      "titleFontSize": 14,
+      "titlePadding": 10
+    }
+  }
+}
