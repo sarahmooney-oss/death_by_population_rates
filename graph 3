@@ -1,0 +1,93 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/sarahmooney-oss/death_by_population_rates/refs/heads/main/deaths_population_rates.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "transform": [
+    {
+      "filter": "datum['Cause of Death'] == 'Emergency use of U07 (includes Covid-19 and Vaping related disorders)' || datum['Cause of Death'] == 'J00-J99 Diseases of the respiratory system'"
+    },
+    {
+      "calculate": "datum['Cause of Death'] == 'Emergency use of U07 (includes Covid-19 and Vaping related disorders)' ? 'COVID-19' : 'Respiratory diseases'",
+      "as": "Cause"
+    }
+  ],
+  "title": {
+    "text": "COVID-19 vs Respiratory Disease Deaths in Ireland, 2020-2024",
+    "subtitle": "As COVID-19 deaths fell after 2021, respiratory deaths rose",
+    "anchor": "middle",
+    "fontSize": 20
+  },
+  "width": 500,
+  "height": 350,
+  "mark": {
+    "type": "line",
+    "point": true
+  },
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "ordinal",
+      "axis": {
+        "title": "Year",
+        "labelAngle": 0
+      }
+    },
+    "y": {
+      "field": "Deaths",
+      "type": "quantitative",
+      "aggregate": "sum",
+      "axis": {
+        "title": "Number of Deaths"
+      }
+    },
+    "color": {
+      "field": "Cause",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "COVID-19",
+          "Respiratory diseases"
+        ],
+        "range": [
+          "#E4572E",
+          "#2E86AB"
+        ]
+      },
+      "legend": {
+        "title": "Cause of Death"
+      }
+    },
+    "tooltip": [
+      {
+        "field": "Year",
+        "type": "ordinal"
+      },
+      {
+        "field": "Cause",
+        "type": "nominal"
+      },
+      {
+        "field": "Deaths",
+        "type": "quantitative",
+        "aggregate": "sum",
+        "title": "Deaths"
+      }
+    ]
+  },
+  "config": {
+    "legend": {
+      "labelFontSize": 13,
+      "titleFontSize": 14,
+      "orient": "bottom-left"
+    },
+    "axis": {
+      "labelFontSize": 13,
+      "titleFontSize": 14,
+      "titlePadding": 10
+    }
+  }
+}
