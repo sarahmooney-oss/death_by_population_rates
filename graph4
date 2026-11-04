@@ -1,0 +1,336 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/sarahmooney-oss/death_by_population_rates/refs/heads/main/deaths_population_rates.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "transform": [
+    {
+      "calculate": "datum['Cause of Death'] == 'C00-C99 Malignant neoplasms' ? 'Cancer' : datum['Cause of Death'] == 'I00-I99 Diseases of the circulatory system' ? 'Circulatory' : datum['Cause of Death'] == 'J00-J99 Diseases of the respiratory system' ? 'Respiratory' : datum['Cause of Death'] == 'V00-Y98 External causes of injury and poisoning' ? 'External causes' : datum['Cause of Death'] == 'F01 and F03 Dementia (types of)' ? 'Dementia' : datum['Cause of Death'] == 'G30 Alzheimer disease' ? 'Alzheimers' : 'COVID-19'",
+      "as": "Cause"
+    },
+    {
+      "calculate": "datum['Area of Residence'] == 'Galway County Council' ? 'Galway County' : datum['Area of Residence'] == 'Cork County Council' ? 'Cork County' : replace(replace(replace(datum['Area of Residence'], ' City & County Council', ' City & Co.'), ' County Council', ''), ' City Council', ' City')",
+      "as": "Area"
+    }
+  ],
+  "vconcat": [
+    {
+      "title": {
+        "text": "High COVID-19 councils aren't simply high for everything",
+        "subtitle": [
+          "Each council's death rate as a % of the Ireland rate for that cause, 2020–2024 (100 = Ireland average).",
+          "Click a cause to rank the councils for it below.",
+          "Source: CSO VSA101 & Census 2022. Rates use 2022 population for every year; not age-adjusted."
+        ]
+      },
+      "width": {
+        "step": 80
+      },
+      "height": {
+        "step": 17
+      },
+      "transform": [
+        {
+          "aggregate": [
+            {
+              "op": "sum",
+              "field": "Deaths",
+              "as": "Deaths"
+            },
+            {
+              "op": "sum",
+              "field": "Population",
+              "as": "Population"
+            }
+          ],
+          "groupby": [
+            "Area",
+            "Cause"
+          ]
+        },
+        {
+          "calculate": "datum.Deaths / datum.Population * 100000",
+          "as": "Rate"
+        },
+        {
+          "joinaggregate": [
+            {
+              "op": "sum",
+              "field": "Deaths",
+              "as": "IrelandDeaths"
+            },
+            {
+              "op": "sum",
+              "field": "Population",
+              "as": "IrelandPopulation"
+            }
+          ],
+          "groupby": [
+            "Cause"
+          ]
+        },
+        {
+          "calculate": "datum.Rate / (datum.IrelandDeaths / datum.IrelandPopulation * 100000) * 100",
+          "as": "PercentOfIreland"
+        },
+        {
+          "calculate": "datum.Cause == 'COVID-19' ? datum.PercentOfIreland : null",
+          "as": "CovidPercent"
+        },
+        {
+          "joinaggregate": [
+            {
+              "op": "max",
+              "field": "CovidPercent",
+              "as": "SortOrder"
+            }
+          ],
+          "groupby": [
+            "Area"
+          ]
+        }
+      ],
+      "encoding": {
+        "x": {
+          "field": "Cause",
+          "type": "nominal",
+          "sort": [
+            "COVID-19",
+            "Respiratory",
+            "Cancer",
+            "Circulatory",
+            "Dementia",
+            "Alzheimers",
+            "External causes"
+          ],
+          "title": null,
+          "axis": {
+            "orient": "top",
+            "labelAngle": 0
+          }
+        },
+        "y": {
+          "field": "Area",
+          "type": "nominal",
+          "title": null,
+          "sort": {
+            "op": "max",
+            "field": "SortOrder",
+            "order": "descending"
+          }
+        }
+      },
+      "layer": [
+        {
+          "params": [
+            {
+              "name": "cause_click",
+              "select": {
+                "type": "point",
+                "fields": [
+                  "Cause"
+                ],
+                "toggle": false
+              },
+              "value": [
+                {
+                  "Cause": "COVID-19"
+                }
+              ]
+            }
+          ],
+          "mark": {
+            "type": "rect",
+            "stroke": "white"
+          },
+          "encoding": {
+            "color": {
+              "field": "PercentOfIreland",
+              "type": "quantitative",
+              "title": "% of Ireland rate",
+              "scale": {
+                "scheme": "blueorange",
+                "domain": [
+                  40,
+                  160
+                ],
+                "domainMid": 100,
+                "clamp": true
+              },
+              "legend": {
+                "orient": "bottom",
+                "direction": "horizontal",
+                "gradientLength": 250
+              }
+            },
+            "opacity": {
+              "condition": {
+                "param": "cause_click",
+                "value": 1
+              },
+              "value": 0.55
+            },
+            "tooltip": [
+              {
+                "field": "Area",
+                "type": "nominal",
+                "title": "Council"
+              },
+              {
+                "field": "Cause",
+                "type": "nominal"
+              },
+              {
+                "field": "PercentOfIreland",
+                "type": "quantitative",
+                "format": ".0f",
+                "title": "% of Ireland rate"
+              }
+            ]
+          }
+        },
+        {
+          "mark": {
+            "type": "text",
+            "fontSize": 10
+          },
+          "encoding": {
+            "text": {
+              "field": "PercentOfIreland",
+              "type": "quantitative",
+              "format": ".0f"
+            },
+            "color": {
+              "condition": {
+                "test": "datum.PercentOfIreland > 140 || datum.PercentOfIreland < 60",
+                "value": "white"
+              },
+              "value": "black"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "width": 560,
+      "height": {
+        "step": 14
+      },
+      "title": {
+        "text": "Selected cause: average yearly deaths per 100,000 by council",
+        "fontSize": 13
+      },
+      "transform": [
+        {
+          "filter": {
+            "param": "cause_click"
+          }
+        },
+        {
+          "aggregate": [
+            {
+              "op": "sum",
+              "field": "Deaths",
+              "as": "Deaths"
+            },
+            {
+              "op": "sum",
+              "field": "Population",
+              "as": "Population"
+            }
+          ],
+          "groupby": [
+            "Area",
+            "Cause"
+          ]
+        },
+        {
+          "calculate": "datum.Deaths / datum.Population * 100000",
+          "as": "Rate"
+        },
+        {
+          "calculate": "indexof(['Dublin City', 'South Dublin', 'Fingal', 'Dún Laoghaire Rathdown'], datum.Area) >= 0 ? 'Dublin councils' : indexof(['Galway City', 'Galway County', 'Mayo', 'Roscommon', 'Clare'], datum.Area) >= 0 ? 'Galway & neighbours' : 'Other councils'",
+          "as": "Region"
+        }
+      ],
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "Area",
+          "type": "nominal",
+          "title": null,
+          "sort": {
+            "op": "sum",
+            "field": "Rate",
+            "order": "descending"
+          }
+        },
+        "x": {
+          "field": "Rate",
+          "type": "quantitative",
+          "title": "Deaths per 100,000 per year"
+        },
+        "color": {
+          "field": "Region",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Dublin councils",
+              "Galway & neighbours",
+              "Other councils"
+            ],
+            "range": [
+              "#e6a100",
+              "#4d9221",
+              "#cfcfcf"
+            ]
+          },
+          "legend": {
+            "title": null,
+            "orient": "bottom-right"
+          }
+        },
+        "tooltip": [
+          {
+            "field": "Area",
+            "type": "nominal",
+            "title": "Council"
+          },
+          {
+            "field": "Cause",
+            "type": "nominal"
+          },
+          {
+            "field": "Rate",
+            "type": "quantitative",
+            "format": ".1f",
+            "title": "Deaths per 100,000 per year"
+          }
+        ]
+      }
+    }
+  ],
+  "resolve": {
+    "scale": {
+      "color": "independent"
+    }
+  },
+  "config": {
+    "title": {
+      "anchor": "start",
+      "fontSize": 16,
+      "subtitleFontSize": 12,
+      "subtitleColor": "#555"
+    },
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    }
+  }
+}
