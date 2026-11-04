@@ -1,0 +1,152 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Men died of COVID-19 at higher rates than women in every year",
+    "subtitle": [
+      "COVID-19 (U07) deaths per 100,000 men and women, Ireland, 2020–2024",
+      "Source: CSO VSA101 & Census 2022. Rates use 2022 population for every year; not age-adjusted."
+    ]
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/sarahmooney-oss/death_by_population_rates/refs/heads/main/deaths_population_rates.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "width": 560,
+  "height": 300,
+  "transform": [
+    {
+      "calculate": "datum['Cause of Death'] == 'C00-C99 Malignant neoplasms' ? 'Cancer' : datum['Cause of Death'] == 'I00-I99 Diseases of the circulatory system' ? 'Circulatory' : datum['Cause of Death'] == 'J00-J99 Diseases of the respiratory system' ? 'Respiratory' : datum['Cause of Death'] == 'V00-Y98 External causes of injury and poisoning' ? 'External causes' : datum['Cause of Death'] == 'F01 and F03 Dementia (types of)' ? 'Dementia' : datum['Cause of Death'] == 'G30 Alzheimer disease' ? 'Alzheimers' : 'COVID-19'",
+      "as": "Cause"
+    },
+    {
+      "filter": "datum.Cause == 'COVID-19'"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "Deaths",
+          "as": "Deaths"
+        },
+        {
+          "op": "sum",
+          "field": "Population",
+          "as": "Population"
+        }
+      ],
+      "groupby": [
+        "Year",
+        "Sex"
+      ]
+    },
+    {
+      "calculate": "datum.Deaths / datum.Population * 100000",
+      "as": "Rate"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "Year",
+      "type": "ordinal",
+      "title": null,
+      "axis": {
+        "labelAngle": 0
+      }
+    },
+    "y": {
+      "field": "Rate",
+      "type": "quantitative",
+      "title": "Deaths per 100,000"
+    },
+    "color": {
+      "field": "Sex",
+      "type": "nominal",
+      "legend": null,
+      "scale": {
+        "domain": [
+          "Female",
+          "Male"
+        ],
+        "range": [
+          "#8101FA",
+          "#00C7A9"
+        ]
+      }
+    }
+  },
+  "layer": [
+    {
+      "mark": {
+        "type": "line",
+        "strokeWidth": 2.5
+      }
+    },
+    {
+      "mark": {
+        "type": "point",
+        "filled": true,
+        "size": 60
+      },
+      "encoding": {
+        "tooltip": [
+          {
+            "field": "Sex",
+            "type": "nominal"
+          },
+          {
+            "field": "Year",
+            "type": "ordinal"
+          },
+          {
+            "field": "Rate",
+            "type": "quantitative",
+            "format": ".1f",
+            "title": "Deaths per 100,000"
+          },
+          {
+            "field": "Deaths",
+            "type": "quantitative",
+            "title": "Number of deaths"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": "datum.Year == 2021"
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 10,
+        "fontSize": 13,
+        "fontWeight": "bold"
+      },
+      "encoding": {
+        "text": {
+          "field": "Sex",
+          "type": "nominal"
+        }
+      }
+    }
+  ],
+  "config": {
+    "title": {
+      "anchor": "start",
+      "fontSize": 16,
+      "subtitleFontSize": 12,
+      "subtitleColor": "#555"
+    },
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    }
+  }
+}
