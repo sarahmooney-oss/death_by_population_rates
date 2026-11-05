@@ -1,0 +1,289 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": {
+    "text": "Councils hit hard by COVID-19 were only slightly more likely to have high respiratory death rates",
+    "subtitle": [
+      "Average yearly deaths per 100,000 by local authority, 2020–2024. Each point is one council. Pick a council from the drop-down or click a point.",
+      "Source: CSO VSA101 & Census 2022. Rates use 2022 population for every year; not age-adjusted."
+    ]
+  },
+  "data": {
+    "url": "https://raw.githubusercontent.com/sarahmooney-oss/death_by_population_rates/refs/heads/main/deaths_population_rates.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "width": 520,
+  "height": 380,
+  "transform": [
+    {
+      "calculate": "datum['Cause of Death'] == 'C00-C99 Malignant neoplasms' ? 'Cancer' : datum['Cause of Death'] == 'I00-I99 Diseases of the circulatory system' ? 'Circulatory' : datum['Cause of Death'] == 'J00-J99 Diseases of the respiratory system' ? 'Respiratory' : datum['Cause of Death'] == 'V00-Y98 External causes of injury and poisoning' ? 'External causes' : datum['Cause of Death'] == 'F01 and F03 Dementia (types of)' ? 'Dementia' : datum['Cause of Death'] == 'G30 Alzheimer disease' ? 'Alzheimers' : 'COVID-19'",
+      "as": "Cause"
+    },
+    {
+      "calculate": "datum['Area of Residence'] == 'Galway County Council' ? 'Galway County' : datum['Area of Residence'] == 'Cork County Council' ? 'Cork County' : replace(replace(replace(datum['Area of Residence'], ' City & County Council', ' City & Co.'), ' County Council', ''), ' City Council', ' City')",
+      "as": "Area"
+    },
+    {
+      "calculate": "datum.Cause == 'COVID-19' ? datum.Deaths : 0",
+      "as": "CovidDeaths"
+    },
+    {
+      "calculate": "datum.Cause == 'COVID-19' ? datum.Population : 0",
+      "as": "CovidPopulation"
+    },
+    {
+      "calculate": "datum.Cause == 'Respiratory' ? datum.Deaths : 0",
+      "as": "RespDeaths"
+    },
+    {
+      "calculate": "datum.Cause == 'Respiratory' ? datum.Population : 0",
+      "as": "RespPopulation"
+    },
+    {
+      "aggregate": [
+        {
+          "op": "sum",
+          "field": "CovidDeaths",
+          "as": "CovidDeaths"
+        },
+        {
+          "op": "sum",
+          "field": "CovidPopulation",
+          "as": "CovidPopulation"
+        },
+        {
+          "op": "sum",
+          "field": "RespDeaths",
+          "as": "RespDeaths"
+        },
+        {
+          "op": "sum",
+          "field": "RespPopulation",
+          "as": "RespPopulation"
+        }
+      ],
+      "groupby": [
+        "Area"
+      ]
+    },
+    {
+      "calculate": "datum.CovidDeaths / datum.CovidPopulation * 100000",
+      "as": "CovidRate"
+    },
+    {
+      "calculate": "datum.RespDeaths / datum.RespPopulation * 100000",
+      "as": "RespRate"
+    },
+    {
+      "calculate": "indexof(['Dublin City', 'South Dublin', 'Fingal', 'Dún Laoghaire Rathdown'], datum.Area) >= 0 ? 'Dublin councils' : indexof(['Galway City', 'Galway County', 'Mayo', 'Roscommon', 'Clare'], datum.Area) >= 0 ? 'Galway & neighbours' : 'Other councils'",
+      "as": "Region"
+    }
+  ],
+  "encoding": {
+    "x": {
+      "field": "CovidRate",
+      "type": "quantitative",
+      "title": "COVID-19 deaths per 100,000 per year",
+      "scale": {
+        "zero": false
+      }
+    },
+    "y": {
+      "field": "RespRate",
+      "type": "quantitative",
+      "title": "Respiratory deaths per 100,000 per year",
+      "scale": {
+        "zero": false
+      }
+    }
+  },
+  "layer": [
+    {
+      "params": [
+        {
+          "name": "council_pick",
+          "select": {
+            "type": "point",
+            "fields": [
+              "Area"
+            ],
+            "toggle": false,
+            "on": "click"
+          },
+          "bind": {
+            "input": "select",
+            "options": [
+              null,
+              "Carlow",
+              "Cavan",
+              "Clare",
+              "Cork City",
+              "Cork County",
+              "Donegal",
+              "Dublin City",
+              "Dún Laoghaire Rathdown",
+              "Fingal",
+              "Galway City",
+              "Galway County",
+              "Kerry",
+              "Kildare",
+              "Kilkenny",
+              "Laois",
+              "Leitrim",
+              "Limerick City & Co.",
+              "Longford",
+              "Louth",
+              "Mayo",
+              "Meath",
+              "Monaghan",
+              "Offaly",
+              "Roscommon",
+              "Sligo",
+              "South Dublin",
+              "Tipperary",
+              "Waterford City & Co.",
+              "Westmeath",
+              "Wexford",
+              "Wicklow"
+            ],
+            "labels": [
+              "All councils",
+              "Carlow",
+              "Cavan",
+              "Clare",
+              "Cork City",
+              "Cork County",
+              "Donegal",
+              "Dublin City",
+              "Dún Laoghaire Rathdown",
+              "Fingal",
+              "Galway City",
+              "Galway County",
+              "Kerry",
+              "Kildare",
+              "Kilkenny",
+              "Laois",
+              "Leitrim",
+              "Limerick City & Co.",
+              "Longford",
+              "Louth",
+              "Mayo",
+              "Meath",
+              "Monaghan",
+              "Offaly",
+              "Roscommon",
+              "Sligo",
+              "South Dublin",
+              "Tipperary",
+              "Waterford City & Co.",
+              "Westmeath",
+              "Wexford",
+              "Wicklow"
+            ],
+            "name": "Council: "
+          }
+        }
+      ],
+      "mark": {
+        "type": "circle",
+        "size": 120,
+        "stroke": "white"
+      },
+      "encoding": {
+        "color": {
+          "field": "Region",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Dublin councils",
+              "Galway & neighbours",
+              "Other councils"
+            ],
+            "range": [
+              "#e6a100",
+              "#4d9221",
+              "#cfcfcf"
+            ]
+          },
+          "legend": {
+            "title": null,
+            "orient": "bottom-right"
+          }
+        },
+        "opacity": {
+          "condition": {
+            "param": "council_pick",
+            "value": 1
+          },
+          "value": 0.2
+        },
+        "tooltip": [
+          {
+            "field": "Area",
+            "type": "nominal",
+            "title": "Council"
+          },
+          {
+            "field": "CovidRate",
+            "type": "quantitative",
+            "format": ".1f",
+            "title": "COVID-19 per 100,000"
+          },
+          {
+            "field": "RespRate",
+            "type": "quantitative",
+            "format": ".1f",
+            "title": "Respiratory per 100,000"
+          }
+        ]
+      }
+    },
+    {
+      "transform": [
+        {
+          "filter": {
+            "field": "Area",
+            "oneOf": [
+              "Mayo",
+              "Galway City",
+              "Leitrim",
+              "Fingal",
+              "Dublin City",
+              "Monaghan",
+              "Roscommon",
+              "Kildare"
+            ]
+          }
+        }
+      ],
+      "mark": {
+        "type": "text",
+        "align": "left",
+        "dx": 8,
+        "fontSize": 10
+      },
+      "encoding": {
+        "text": {
+          "field": "Area",
+          "type": "nominal"
+        }
+      }
+    }
+  ],
+  "config": {
+    "title": {
+      "anchor": "start",
+      "fontSize": 16,
+      "subtitleFontSize": 12,
+      "subtitleColor": "#555"
+    },
+    "view": {
+      "stroke": null
+    },
+    "axis": {
+      "labelFontSize": 11,
+      "titleFontSize": 12
+    }
+  }
+}
